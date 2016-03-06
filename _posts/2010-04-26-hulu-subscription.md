@@ -5,11 +5,7 @@ old-slug: hulu-subscription
 layout: post
 ---
 
-<a href="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355.jpg"><img class="alignright" title="Hulu logo" src="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355-300x143.jpg" alt="" width="300" height="143" /></a>The [Los Angeles Times is reporting](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/04/hulu-pushes-forward-with-995-subscription-service.html) that [Hulu](http://www.hulu.com), the premier online legal TV watching destination, will be launching a paid subscription version next month. Hulu Plus, as it will be called, will charge $9.95 monthly for access to the back catalog of some of the shows which they currently only have up to 5 episodes of. Would you pay for such a subscription service?
-
-Despite being an avowed television and digital media aficionado, right now I would NOT pay for this type of plan. As it stands, access to a few more episodes from the current season of the shows they have available is simply not compelling enough for me to fork over $120 of my hard-earned money every year. However, what can Hulu do to get my money?
-
-!["Hulu logo"](http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355-300x143.jpg)
+<a href="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355.jpg"><img class="alignright" title="Hulu logo" src="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355-300x143.jpg" alt="" width="300" height="143" /></a>
 
 The [Los Angeles Times is reporting](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/04/hulu-pushes-forward-with-995-subscription-service.html) that [Hulu](http://www.hulu.com), the premier online legal TV watching destination, will be launching a paid subscription version next month. Hulu Plus, as it will be called, will charge $9.95 monthly for access to the back catalog of some of the shows which they currently only have up to 5 episodes of. Would you pay for such a subscription service?
 
