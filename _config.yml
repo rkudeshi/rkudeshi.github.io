@@ -1,9 +1,9 @@
 # Permalinks
-permalink:           /:short_year/:i_month/:title
+permalink:           /:short_year/:month/:title
 
 # Setup
 title:               "@rkudeshi"
-tagline:             Trying to figure out this GitHub Pages thing!
+tagline:             "Jekyll-based blog"
 url:                 http://rkudeshi.github.io
 paginate:            10
 baseurl:             ""
