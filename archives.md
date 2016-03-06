@@ -7,7 +7,7 @@ title: Archives
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-   <strong id="y{{post.date | date: "%Y"}}">{{ currentdate }}</strong>
+   <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
    <ul>
     {% assign date = currentdate %}
   {% endif %}
