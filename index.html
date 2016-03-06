@@ -14,11 +14,12 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content | strip_html | truncate:150 }}
+    <div>{{ post.content | strip_html | truncate:150 }}</div>
 
     {% comment %}
     {{ post.content }}
     {% endcomment %}
+
   </article>
   {% endfor %}
 </div>
