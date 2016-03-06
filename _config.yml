@@ -5,7 +5,7 @@ permalink:           /:short_year/:i_month/:title
 title:               "@rkudeshi"
 tagline:             Trying to figure out this GitHub Pages thing!
 url:                 http://rkudeshi.github.io
-paginate:            5
+paginate:            10
 baseurl:             ""
 
 # Assets
