@@ -2,7 +2,7 @@
 permalink:           /:short_year/:i_month/:title
 
 # Setup
-title:               rkudeshi
+title:               "@rkudeshi"
 tagline:             Trying to figure out this GitHub Pages thing!
 url:                 http://rkudeshi.github.io
 paginate:            5
@@ -36,7 +36,7 @@ gems:
 # ##########
 # List of pages
 pages_list:       
-  About: '/about'
-  Contact: '/contact'
-  Subscribe: '/subscribe'
-  Archive: '/archive'
+  about: '/about'
+  archive: '/archive'
+  contact: '/contact'
+  subscribe: '/subscribe'
