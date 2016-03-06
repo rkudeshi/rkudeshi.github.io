@@ -37,6 +37,6 @@ gems:
 # List of pages
 pages_list:       
   about: '/about'
-  archive: '/archive'
+  archives: '/archives'
   contact: '/contact'
   subscribe: '/subscribe'
