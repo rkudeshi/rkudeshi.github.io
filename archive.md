@@ -4,19 +4,13 @@ title: Archive
 ---
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
-
----
-
-{% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-   <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+   <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
    <ul>
     {% assign date = currentdate %}
   {% endif %}
-   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+   * {{ post.date | date: "%b %Y" }} — [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
