@@ -11,6 +11,6 @@ title: Archive
    <ul>
     {% assign date = currentdate %}
   {% endif %}
-   * {{ post.date | date: "%b %Y" }} — [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
+   <li>{{ post.date | date: "%b %Y" }} – [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})</li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
