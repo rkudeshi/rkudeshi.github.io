@@ -45,7 +45,7 @@ title: Home
     {% for post in paginator.posts limit:20 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time></small>
           {{ post.title }}
         </a>
       </li>
