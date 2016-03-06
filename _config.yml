@@ -1,10 +1,10 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:short_year/:i_month/:title
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               rkudeshi
+tagline:             Trying to figure out this GitHub Pages thing!
+url:                 http://rkudeshi.github.io
 paginate:            5
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ravi Udeshi
+  url:               https://twitter.com/rkudeshi
+  email:             example@example.com
 
 # Custom vars
 version:             2.0.0
@@ -30,3 +30,13 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# ###########
+# ADDED CUSTOM BY RAVI
+# ##########
+# List of pages
+pages_list:       
+  About: '/about'
+  Contact: '/contact'
+  Subscribe: '/subscribe'
+  Archive: '/archive'
