@@ -1,0 +1,861 @@
+---
+title: The biggest album sales weeks of all time
+date: 2015-12-31
+old-slug: album-sales-chart
+layout: post
+---
+
+<p>As I mentioned at the end of my <a href="2015/12/adele-25-sales/index.html">last post</a>, I had a hard time finding consistent first-week album sales information. Even the industry bible, HitsDailyDouble, doesn&#8217;t archive old sales data (and uses slightly different numbers than most other sites). Where&#8217;s the music version of BoxOfficeMojo when you need it?</p>
+<p>But then, at the last second, I came across an amazing treasure trove of data by user <code>oldbloke</code> on the <a href="https://www.ukmix.org/forums/viewforum.php?f=5">UKMix forums</a> Best I can tell, he&#8217;s been posting weekly &amp; cumulative album sales for 10 years! I don&#8217;t know if he exports it from SoundScan or compiles it himself, but it&#8217;s really fantastic.</p>
+<p>I went through as much of the data as I could find, using lots of Regex, Markdown &amp; Excel to clean it up and combine it all. Analysis and interesting finds below!</p>
+<table>
+<colgroup>
+<col style="text-align:right;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:left;"/>
+</colgroup>
+<thead>
+<tr>
+<th style="text-align:right;">Rank</th>
+<th style="text-align:center;">Chart Date</th>
+<th style="text-align:center;">Sales</th>
+<th style="text-align:center;">Week</th>
+<th style="text-align:left;">Artist, Album &amp; Chart Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">1.</td>
+<td style="text-align:center;">2015&#8211;12&#8211;12</td>
+<td style="text-align:center;">3,377,885</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Adele / <em>25</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">2.</td>
+<td style="text-align:center;">2000&#8211;04&#8211;08</td>
+<td style="text-align:center;">2,415,859</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">NSync / <em>No Strings Attached</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">3.</td>
+<td style="text-align:center;">2001&#8211;08&#8211;11</td>
+<td style="text-align:center;">1,879,955</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">NSync / <em>Celebrity</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">4.</td>
+<td style="text-align:center;">2000&#8211;06&#8211;10</td>
+<td style="text-align:center;">1,760,049</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Eminem / <em>The Marshall Mathers LP</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">5.</td>
+<td style="text-align:center;">2000&#8211;12&#8211;09</td>
+<td style="text-align:center;">1,591,191</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Backstreet Boys / <em>Black and Blue</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">6.</td>
+<td style="text-align:center;">2002&#8211;06&#8211;15</td>
+<td style="text-align:center;">1,321,799</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Eminem / <em>The Eminem Show</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">7.</td>
+<td style="text-align:center;">2000&#8211;06&#8211;03</td>
+<td style="text-align:center;">1,319,193</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Britney Spears / <em>Oops!&#8230;I Did It Again</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">8.</td>
+<td style="text-align:center;">2014&#8211;11&#8211;08</td>
+<td style="text-align:center;">1,286,544</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Taylor Swift / <em>1989</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">9.</td>
+<td style="text-align:center;">2001&#8211;01&#8211;06</td>
+<td style="text-align:center;">1,258,667</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Beatles / <em>1</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">10.</td>
+<td style="text-align:center;">2012&#8211;11&#8211;10</td>
+<td style="text-align:center;">1,208,290</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Taylor Swift / <em>Red</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">11.</td>
+<td style="text-align:center;">2016&#8211;01&#8211;09</td>
+<td style="text-align:center;">1,160,000</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Adele / <em>25</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">12.</td>
+<td style="text-align:center;">2005&#8211;03&#8211;19</td>
+<td style="text-align:center;">1,140,638</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">50 Cent / <em>The Massacre</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">13.</td>
+<td style="text-align:center;">1999&#8211;06&#8211;05</td>
+<td style="text-align:center;">1,133,505</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Backstreet Boys / <em>Millennium</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">14.</td>
+<td style="text-align:center;">2015&#8211;12&#8211;19</td>
+<td style="text-align:center;">1,112,162</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Adele / <em>25</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">15.</td>
+<td style="text-align:center;">2011&#8211;06&#8211;11</td>
+<td style="text-align:center;">1,108,403</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Lady Gaga / <em>Born This Way</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">16.</td>
+<td style="text-align:center;">2004&#8211;04&#8211;10</td>
+<td style="text-align:center;">1,096,213</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Usher / <em>Confessions</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">17.</td>
+<td style="text-align:center;">1998&#8211;12&#8211;05</td>
+<td style="text-align:center;">1,085,373</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Garth Brooks / <em>Double Live</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">18.</td>
+<td style="text-align:center;">1993&#8211;01&#8211;09</td>
+<td style="text-align:center;">1,061,483</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Soundtrack / <em>The Bodyguard</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">19.</td>
+<td style="text-align:center;">2000&#8211;11&#8211;04</td>
+<td style="text-align:center;">1,054,511</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Limp Bizkit / <em>Chocolate Starfish…</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">20.</td>
+<td style="text-align:center;">2010&#8211;11&#8211;13</td>
+<td style="text-align:center;">1,046,718</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Taylor Swift / <em>Speak Now</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">21.</td>
+<td style="text-align:center;">2004&#8211;02&#8211;28</td>
+<td style="text-align:center;">1,022,149</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Norah Jones / <em>Feels Like Home</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">22.</td>
+<td style="text-align:center;">2008&#8211;06&#8211;28</td>
+<td style="text-align:center;">1,005,545</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Lil Wayne / <em>Tha Carter III</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">23.</td>
+<td style="text-align:center;">2013&#8211;04&#8211;06</td>
+<td style="text-align:center;">968,018</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Justin Timberlake / <em>The 20/20 Experience</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">24.</td>
+<td style="text-align:center;">2011&#8211;09&#8211;17</td>
+<td style="text-align:center;">963,970</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Lil Wayne / <em>Tha Carter IV</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">25.</td>
+<td style="text-align:center;">2007&#8211;09&#8211;29</td>
+<td style="text-align:center;">956,936</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Kanye West / <em>Graduation</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">26.</td>
+<td style="text-align:center;">1993&#8211;11&#8211;06</td>
+<td style="text-align:center;">950,377</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Pearl Jam / <em>Vs</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">27.</td>
+<td style="text-align:center;">1995&#8211;01&#8211;07</td>
+<td style="text-align:center;">907,114</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Garth Brooks / <em>The Hits</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">28.</td>
+<td style="text-align:center;">1997&#8211;12&#8211;13</td>
+<td style="text-align:center;">896,932</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Garth Brooks / <em>Sevens</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">29.</td>
+<td style="text-align:center;">2001&#8211;12&#8211;08</td>
+<td style="text-align:center;">887,229</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Creed / <em>Weathered</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">30.</td>
+<td style="text-align:center;">1994&#8211;12&#8211;24</td>
+<td style="text-align:center;">877,000</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:left;">Pearl Jam / <em>Vitalogy</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">31.</td>
+<td style="text-align:center;">2002&#8211;12&#8211;07</td>
+<td style="text-align:center;">874,137</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Shania Twain / <em>Up!</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">32.</td>
+<td style="text-align:center;">2003&#8211;02&#8211;22</td>
+<td style="text-align:center;">872,082</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">50 Cent / <em>Get Rich or Die Tryin</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">33.</td>
+<td style="text-align:center;">2004&#8211;11&#8211;27</td>
+<td style="text-align:center;">870,730</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Eminem / <em>Encore</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">34.</td>
+<td style="text-align:center;">2002&#8211;01&#8211;05</td>
+<td style="text-align:center;">865,030</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Creed / <em>Weathered</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">35.</td>
+<td style="text-align:center;">2005&#8211;09&#8211;17</td>
+<td style="text-align:center;">860,330</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Kanye West / <em>Late Registration</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">36.</td>
+<td style="text-align:center;">1995&#8211;12&#8211;09</td>
+<td style="text-align:center;">855,473</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Beatles / <em>Anthology 1</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">37.</td>
+<td style="text-align:center;">1998&#8211;02&#8211;28</td>
+<td style="text-align:center;">847,500</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:left;">Soundtrack / <em>Titanic</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">38.</td>
+<td style="text-align:center;">2004&#8211;12&#8211;11</td>
+<td style="text-align:center;">839,696</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">U2 / <em>How To Dismantle An Atomic Bomb</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">39.</td>
+<td style="text-align:center;">1993&#8211;01&#8211;02</td>
+<td style="text-align:center;">831,000</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Soundtrack / <em>The Bodyguard</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">40.</td>
+<td style="text-align:center;">2000&#8211;12&#8211;30</td>
+<td style="text-align:center;">823,587</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Beatles / <em>1</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">41.</td>
+<td style="text-align:center;">2003&#8211;03&#8211;01</td>
+<td style="text-align:center;">822,275</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">50 Cent / <em>Get Rich or Die Tryin</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">42.</td>
+<td style="text-align:center;">1995&#8211;01&#8211;07</td>
+<td style="text-align:center;">819,000</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:left;">Kenny G / <em>Miracles: The Holiday Album</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">43.</td>
+<td style="text-align:center;">2000&#8211;04&#8211;15</td>
+<td style="text-align:center;">811,298</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">NSync / <em>No Strings Attached</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">44.</td>
+<td style="text-align:center;">2003&#8211;04&#8211;12</td>
+<td style="text-align:center;">810,488</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Linkin Park / <em>Meteora</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">45.</td>
+<td style="text-align:center;">2002&#8211;06&#8211;22</td>
+<td style="text-align:center;">808,708</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:left;">Eminem / <em>The Eminem Show</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">46.</td>
+<td style="text-align:center;">1993&#8211;12&#8211;11</td>
+<td style="text-align:center;">802,858</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Snoop Doggy Dogg / <em>Doggystyle</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">47.</td>
+<td style="text-align:center;">2000&#8211;06&#8211;17</td>
+<td style="text-align:center;">793,713</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Eminem / <em>The Marshall Mathers LP</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">48.</td>
+<td style="text-align:center;">2013&#8211;11&#8211;23</td>
+<td style="text-align:center;">792,394</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Eminem / <em>The Marshall Mathers LP 2</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">49.</td>
+<td style="text-align:center;">2016&#8211;01&#8211;02</td>
+<td style="text-align:center;">789,821</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">Adele / <em>25</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">50.</td>
+<td style="text-align:center;">2008&#8211;11&#8211;08</td>
+<td style="text-align:center;">784,288</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">AC/DC / <em>Black Ice</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">51.</td>
+<td style="text-align:center;">2002&#8211;09&#8211;14</td>
+<td style="text-align:center;">779,828</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Dixie Chicks / <em>Home</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">52.</td>
+<td style="text-align:center;">2005&#8211;03&#8211;26</td>
+<td style="text-align:center;">770,887</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">50 Cent / <em>The Massacre</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">53.</td>
+<td style="text-align:center;">1991&#8211;10&#8211;05</td>
+<td style="text-align:center;">770,000</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Guns N&#8217;Roses / <em>Use Your Illusion II</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">54.</td>
+<td style="text-align:center;">2004&#8211;09&#8211;11</td>
+<td style="text-align:center;">765,739</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Tim McGraw / <em>Live Like You Were Dying</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">55.</td>
+<td style="text-align:center;">1996&#8211;01&#8211;06</td>
+<td style="text-align:center;">759,000</td>
+<td style="text-align:center;">12</td>
+<td style="text-align:left;">Mariah Carey / <em>Daydream</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">56.</td>
+<td style="text-align:center;">2008&#8211;01&#8211;05</td>
+<td style="text-align:center;">756,590</td>
+<td style="text-align:center;">11</td>
+<td style="text-align:left;">Josh Groban / <em>Noel</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">57.</td>
+<td style="text-align:center;">2001&#8211;11&#8211;24</td>
+<td style="text-align:center;">745,744</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Britney Spears / <em>Britney</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">58.</td>
+<td style="text-align:center;">2007&#8211;12&#8211;01</td>
+<td style="text-align:center;">742,426</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Alicia Keys / <em>As I Am</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">59.</td>
+<td style="text-align:center;">2010&#8211;07&#8211;10</td>
+<td style="text-align:center;">741,413</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Eminem / <em>Recovery</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">60.</td>
+<td style="text-align:center;">2005&#8211;06&#8211;25</td>
+<td style="text-align:center;">737,294</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Coldplay / <em>X &amp; Y</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">61.</td>
+<td style="text-align:center;">2001&#8211;03&#8211;17</td>
+<td style="text-align:center;">732,720</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Dave Matthews Band / <em>Everyday</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">62.</td>
+<td style="text-align:center;">2012&#8211;03&#8211;03</td>
+<td style="text-align:center;">729,900</td>
+<td style="text-align:center;">52</td>
+<td style="text-align:left;">Adele / <em>21</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">63.</td>
+<td style="text-align:center;">2006&#8211;01&#8211;07</td>
+<td style="text-align:center;">727,163</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Mary J Blige / <em>The Breakthrough</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">64.</td>
+<td style="text-align:center;">2001&#8211;01&#8211;06</td>
+<td style="text-align:center;">724,067</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Backstreet Boys / <em>Black and Blue</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">65.</td>
+<td style="text-align:center;">2006&#8211;04&#8211;22</td>
+<td style="text-align:center;">721,747</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Rascal Flatts / <em>Me and My Gang</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">66.</td>
+<td style="text-align:center;">2008&#8211;07&#8211;05</td>
+<td style="text-align:center;">721,207</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Coldplay / <em>Viva La Vida</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">67.</td>
+<td style="text-align:center;">1994&#8211;12&#8211;31</td>
+<td style="text-align:center;">718,000</td>
+<td style="text-align:center;">7</td>
+<td style="text-align:left;">Kenny G / <em>Miracles: The Holiday Album</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">68.</td>
+<td style="text-align:center;">2001&#8211;06&#8211;09</td>
+<td style="text-align:center;">716,003</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Staind / <em>Break The Cycle</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">69.</td>
+<td style="text-align:center;">2002&#8211;07&#8211;13</td>
+<td style="text-align:center;">714,114</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Nelly / <em>Nellyville</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">70.</td>
+<td style="text-align:center;">2007&#8211;11&#8211;17</td>
+<td style="text-align:center;">710,946</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Eagles / <em>Long Road Out Of Eden</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">71.</td>
+<td style="text-align:center;">2004&#8211;11&#8211;27</td>
+<td style="text-align:center;">710,880</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Eminem / <em>Encore</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">72.</td>
+<td style="text-align:center;">2002&#8211;11&#8211;16</td>
+<td style="text-align:center;">702,226</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Soundtrack / <em>8 Mile</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">73.</td>
+<td style="text-align:center;">2009&#8211;12&#8211;12</td>
+<td style="text-align:center;">700,779</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Susan Boyle / <em>I Dreamed A Dream</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">74.</td>
+<td style="text-align:center;">2000&#8211;01&#8211;08</td>
+<td style="text-align:center;">698,403</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">DMX / <em>And Then There Was X</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">75.</td>
+<td style="text-align:center;">2015&#8211;12&#8211;26</td>
+<td style="text-align:center;">695,043</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:left;">Adele / <em>25</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">76.</td>
+<td style="text-align:center;">1995&#8211;01&#8211;07</td>
+<td style="text-align:center;">694,500</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Pearl Jam / <em>Vitalogy</em> (#3)</td>
+</tr>
+<tr>
+<td style="text-align:right;">77.</td>
+<td style="text-align:center;">2007&#8211;09&#8211;29</td>
+<td style="text-align:center;">691,304</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">50 Cent / <em>Curtis</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">78.</td>
+<td style="text-align:center;">2000&#8211;12&#8211;16</td>
+<td style="text-align:center;">689,578</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Backstreet Boys / <em>Black and Blue</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">79.</td>
+<td style="text-align:center;">1997&#8211;04&#8211;12</td>
+<td style="text-align:center;">689,535</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Notorious BIG / <em>Life After Death</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">80.</td>
+<td style="text-align:center;">2001&#8211;01&#8211;06</td>
+<td style="text-align:center;">688,339</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Various / <em>Now That&#8217;s What I Call Music 5</em> (#3)</td>
+</tr>
+<tr>
+<td style="text-align:right;">81.</td>
+<td style="text-align:center;">1991&#8211;10&#8211;05</td>
+<td style="text-align:center;">685,000</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Guns N&#8217;Roses / <em>Use Your Illusion I</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">82.</td>
+<td style="text-align:center;">2006&#8211;09&#8211;30</td>
+<td style="text-align:center;">684,461</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Justin Timberlake / <em>FutureSex/LoveSounds</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">83.</td>
+<td style="text-align:center;">1998&#8211;01&#8211;10</td>
+<td style="text-align:center;">684,000</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Garth Brooks / <em>Sevens</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">84.</td>
+<td style="text-align:center;">1998&#8211;08&#8211;01</td>
+<td style="text-align:center;">681,572</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Beastie Boys / <em>Hello Nasty</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">85.</td>
+<td style="text-align:center;">2006&#8211;12&#8211;09</td>
+<td style="text-align:center;">680,052</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Jay-Z / <em>Kingdom Come</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">86.</td>
+<td style="text-align:center;">1996&#8211;06&#8211;22</td>
+<td style="text-align:center;">680,000</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Metallica / <em>Load</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">87.</td>
+<td style="text-align:center;">1998&#8211;01&#8211;03</td>
+<td style="text-align:center;">678,000</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">Garth Brooks / <em>Sevens</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">88.</td>
+<td style="text-align:center;">2000&#8211;12&#8211;23</td>
+<td style="text-align:center;">670,673</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">Beatles / <em>1</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">89.</td>
+<td style="text-align:center;">1999&#8211;01&#8211;09</td>
+<td style="text-align:center;">670,227</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">DMX / <em>Flesh of My Flesh Blood of My Blood</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">90.</td>
+<td style="text-align:center;">2007&#8211;12&#8211;29</td>
+<td style="text-align:center;">669,161</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:left;">Josh Groban / <em>Noel</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">91.</td>
+<td style="text-align:center;">1998&#8211;02&#8211;07</td>
+<td style="text-align:center;">664,500</td>
+<td style="text-align:center;">7</td>
+<td style="text-align:left;">Soundtrack / <em>Titanic</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">92.</td>
+<td style="text-align:center;">1996&#8211;11&#8211;23</td>
+<td style="text-align:center;">664,000</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">2Pac / <em>The Don Killuminati: The 7 Day Theory</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">93.</td>
+<td style="text-align:center;">2001&#8211;05&#8211;19</td>
+<td style="text-align:center;">663,280</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Destiny&#8217;s Child / <em>Survivor</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">94.</td>
+<td style="text-align:center;">2000&#8211;12&#8211;09</td>
+<td style="text-align:center;">662,077</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Beatles / <em>1</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">95.</td>
+<td style="text-align:center;">2010&#8211;01&#8211;02</td>
+<td style="text-align:center;">661,227</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">Susan Boyle / <em>I Dreamed A Dream</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">96.</td>
+<td style="text-align:center;">1999&#8211;05&#8211;29</td>
+<td style="text-align:center;">660,807</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Ricky Martin / <em>Ricky Martin</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">97.</td>
+<td style="text-align:center;">2013&#8211;10&#8211;12</td>
+<td style="text-align:center;">657,922</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Drake / <em>Nothing Was The Same</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">98.</td>
+<td style="text-align:center;">2000&#8211;05&#8211;06</td>
+<td style="text-align:center;">654,596</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">NSync / <em>No Strings Attached</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">99.</td>
+<td style="text-align:center;">1998&#8211;12&#8211;12</td>
+<td style="text-align:center;">649,496</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Garth Brooks / <em>Double Live</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">100.</td>
+<td style="text-align:center;">2000&#8211;01&#8211;08</td>
+<td style="text-align:center;">640,000</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Celine Dion / <em>All The Way&#8230;A Decade of Song</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">101.</td>
+<td style="text-align:center;">1999&#8211;07&#8211;10</td>
+<td style="text-align:center;">634,877</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Limp Bizkit / <em>Significant Other</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">102.</td>
+<td style="text-align:center;">2011&#8211;12&#8211;03</td>
+<td style="text-align:center;">630,571</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Drake / <em>Take Care</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">103.</td>
+<td style="text-align:center;">2008&#8211;01&#8211;05</td>
+<td style="text-align:center;">629,366</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Mary J Blige / <em>Growing Pains</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">104.</td>
+<td style="text-align:center;">2002&#8211;12&#8211;14</td>
+<td style="text-align:center;">625,580</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Shania Twain / <em>Up!</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">105.</td>
+<td style="text-align:center;">1998&#8211;01&#8211;10</td>
+<td style="text-align:center;">624,000</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Celine Dion / <em>Let&#8217;s Talk About Love</em> (#2)</td>
+</tr>
+<tr>
+<td style="text-align:right;">106.</td>
+<td style="text-align:center;">2007&#8211;06&#8211;02</td>
+<td style="text-align:center;">622,827</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Linkin Park / <em>Minutes to Midnight</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">107.</td>
+<td style="text-align:center;">2003&#8211;08&#8211;02</td>
+<td style="text-align:center;">621,725</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Dave Matthews Band / <em>Busted Stuff</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">108.</td>
+<td style="text-align:center;">1999&#8211;06&#8211;12</td>
+<td style="text-align:center;">621,621</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Backstreet Boys / <em>Millennium</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">109.</td>
+<td style="text-align:center;">2001&#8211;08&#8211;18</td>
+<td style="text-align:center;">621,419</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Various / <em>Now That&#8217;s What I Call Music 7</em></td>
+</tr>
+<tr>
+<td style="text-align:right;">110.</td>
+<td style="text-align:center;">2003&#8211;03&#8211;15</td>
+<td style="text-align:center;">621,030</td>
+<td style="text-align:center;">53</td>
+<td style="text-align:left;">Norah Jones / <em>Come Away With Me</em></td>
+</tr>
+</tbody>
+</table>
+<p><em>This data should be accurate through the end of 2015. It includes the first 5 weeks of sales for Adele&#8217;s 25 which goes through 12/24/2015. If Adele sells another bazillion records the week after Christmas, I&#8217;ll update this chart!</em></p>
+<h4>Terms</h4>
+<p><strong>Chart date</strong> is when SoundScan certifies the sales totals, a few weeks after the sales week begins—apparently 18 days back when albums were released on Tuesdays and 22 days now that albums are released on Fridays (but even then, it&#8217;s not always consistent?). So a &#8220;chart date&#8221; of 2015&#8211;12&#8211;12 is actually for the sales week of 11/20&#8211;11/26.</p>
+<p>I believe <strong>Sales</strong> are pure album sales through the end of November 2014, and then include <a href="http://variety.com/2014/music/news/nielsen-soundscan-to-integrate-streams-downloads-into-album-sales-chart-1201360668/">SEAs and TEAs</a>, per SoundScan&#8217;s updated rules.</p>
+<p>The <strong>Week</strong> indicates how many weeks the album has been on the charts (so Week 1 is the album&#8217;s debut week). I think you can assume higher numbers equal how many weeks an album has been out, though it&#8217;s possible an album could drop out of the weekly Billboard Top 200 and then re-appear.</p>
+<p>A <strong>(#2)</strong> or <strong>(#3)</strong> next to an album represents its chart position that sales week (I omitted the #1&#8217;s to make it easier to scan). Most weeks you only have 1 album that sells in huge numbers, but there are a few weeks where you had 2 or even 3 albums that each sold enough to break onto this chart.</p>
+<h4>Analysis</h4>
+<ul>
+<li>
+<p>If you see an album on this list that&#8217;s not in its debut week, check the chart date: it&#8217;s almost always December or January, AKA Black Friday to Christmas (remember, the &#8220;chart date&#8221; is a couple weeks after the sales date). I didn&#8217;t know so many people gave CDs as gifts either!</p>
+</li>
+<li>
+<p>Of the 110 weeks listed here, 67 were for an album&#8217;s first-week sales. The other 43 are for later weeks (most during the Christmas season).</p>
+</li>
+<li>
+<p>The albums that charted high in later weeks and NOT during Christmas: NSync&#8217;s <em>No Strings Attached</em>, which had a huge debut and then for some reason spiked again five weeks later in late April/early May; the <em>Titanic</em> soundtrack, which peaked in week 7 and then again in week 10 (though those are just its highest-selling weeks&#8230;it actually stayed at #1 for 16 straight weeks!); and Adele&#8217;s <em>21</em> &amp; Norah Jones&#8217; <em>Come Away With Me</em>, which got massive post-Grammys bumps 52 and 53 weeks after release respectively. In fact, those were the highest sales weeks ever for each of those albums!</p>
+</li>
+<li>
+<p>There were 8 weeks where multiple albums each sold enough to make it onto this list. Of those, 6 were during the Christmas season. The other two are 1991&#8211;10&#8211;05, when Guns N&#8217;Roses released <em>Use Your Illusion I</em> and <em>Use Your Illusion II</em> simultaneously, and 2007&#8211;09&#8211;29 when Kanye West and 50 Cent both released new albums and famously tried to outsell each other (50 has yet to retire, as he promised if Kanye outsold him).</p>
+</li>
+<li>
+<p>Eminem is the only artist on this list to have an album sell more in its 2nd week than its 1st (and have both weeks chart this high). <em>Encore</em> was rush-released to stores because of widespread piracy, so his first &#8220;week&#8221; of sales (710k) was only a couple of days, whereas he moved 870k units the full week after that. (Sound familiar? The same thing happened with his previous CD, <em>The Eminem Show</em>! It sold 284k copies in its first 1.5 day &#8220;week&#8221; and then followed it up with another 1.321 million in its first full week.)</p>
+</li>
+<li>
+<p>Lil Wayne would do great on The Price is Right. He has one album just above the 1m mark (<em>Tha Carter III</em>, 1.005 million) and one just below (<em>Tha Carter IV</em>, 0.964m).</p>
+</li>
+<li>
+<p>Of the 22 weeks over 1m, Adele has 3, Taylor Swift has 3, Eminem has 2, NSync has 2, and the Backstreet Boys have 2.</p>
+</li>
+<li>
+<p>Most artists only have 1 or 2 albums on this list. The exceptions: Garth Brooks (3 albums), Taylor Swift (3 albums), and Eminem (5 albums). If you count the <em>8 Mile</em> soundtrack, that&#8217;s 6 Eminem albums!</p>
+</li>
+<li>
+<p>Many artists on here have 1 album for 2+ weeks OR 2+ albums for 1 week each, but only four have 2+ albums that each charted for 2+ weeks: Garth Brooks, the Backstreet Boys, 50 Cent, and Eminem.</p>
+</li>
+<li>
+<p>The oldest albums on this chart are from 1991&#8211;10&#8211;05, the first year SoundScan started tracking album sales: Guns N&#8217;Roses&#8217; simultaneous release of <em>Use Your Illusion I</em> and <em>Use Your Illusion II</em>. Interestingly, the latter sold more!</p>
+</li>
+<li>
+<p>The newest albums on this list are Taylor Swift&#8217;s <em>1989</em> (the only 2014 album to make it) and Adele&#8217;s <em>25</em> (the only 2015 album to make it).</p>
+</li>
+<li>
+<p>One peculiarity I came across in my research: did Japan have the first 3m+ first-week album sales of the SoundScan era&#8230;14 years before Adele? This <a href="https://en.wikipedia.org/wiki/List_of_fastest-selling_albums#Japan">list of the fastest-selling albums in Japan</a> is perplexing, especially because their population was half that of the US in 2000.</p>
+</li>
+<li>
+<p>Similarly, that <a href="https://en.wikipedia.org/wiki/List_of_fastest-selling_albums#United_States">Wikipedia article</a> says that a JFK memorial album sold 4m copies in a week at $0.99 each and a Beatles album sold 3.3m copies in its US debut, though the sourcing is thin (SoundScan started tracking sales data in 1991).</p>
+</li>
+</ul>
+<hr />
+<p>Google didn&#8217;t make it easy to find these, so for anyone else looking, here&#8217;s the data I used to compile the above chart: </p>
+<ul>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=4158475#p4158475">Top 102 album sales weeks, 2012 (min 100k)</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=4805030#p4805030">Top 87 album sales weeks, 2013 (min 100k)</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=5413970#p5413970">Top 72 album sales weeks, 2014 (min 100k)</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=5894671#p5894671">Top 49 album sales weeks, 2015 (min 100k)</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?t=98134&f=5">Top 100 album sales weeks, 1991&#8211;2012</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=5872229#p5872229">Top 100 album sales weeks, 1991&#8211;2015</a></li>
+<li><a href="https://www.ukmix.org/forums/viewtopic.php?p=5887468#p5887468">Top 100 album sales weeks, 2010&#8211;2015</a></li>
+</ul>
+<p>(One weird thing I noticed: Susan Boyle&#8217;s <em>I Dreamed A Dream</em> shows up at #87 on the 1991&#8211;2012 list, but disappears on the 2015 list. And Garth Brooks&#8217; <em>Double Live</em> shows up at #94 on the 1991&#8211;2015 list, but wasn&#8217;t on the 2012 list. I don&#8217;t know if SoundScan changed something, but I included both on my list above.)</p>
+<p>Finally, a HUGE shoutout again to <code>oldbloke</code> for maintaining this data. I tried to post on the forums to thank him, but new accounts are not permitted. So <code>oldbloke</code>, if you ever come across this post, thank you so much!</p>
