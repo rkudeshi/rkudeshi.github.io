@@ -23,23 +23,6 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="more-posts">
-<aside class="related">
-  <h3>More posts</h3>
-  <ul class="related-posts">
-    {% for post in paginator.posts limit:5 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-</div>
-
-
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
@@ -51,4 +34,21 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+</div>
+
+
+<div class="more-posts">
+<aside class="related">
+  <h3>More posts</h3>
+  <ul class="related-posts">
+    {% for post in paginator.posts limit:20 %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
 </div>
