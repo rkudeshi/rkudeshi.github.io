@@ -15,12 +15,12 @@
           -->
 
           <!-- add list of pages in header -->
-          <div class="header-menu">
+          <span class="header-menu">
           {% for page in site.pages_list %}
           &nbsp;&nbsp;&nbsp;
           <small><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-          </div>
+          </span>
           <!-- end edit -->
 
         </h3>
