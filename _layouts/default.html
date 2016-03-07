@@ -10,18 +10,14 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           
-          <!-- 
-          <small>{{ site.tagline }}</small>
-          -->
-
+          <!--  <small>{{ site.tagline }}</small> -->
           <!-- add list of pages in header -->
           <span class="header-menu">
           {% for page in site.pages_list %}
-          <!-- &nbsp;&nbsp;&nbsp; -->
           <small><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
           </span>
-          <!-- end edit -->
+          <!-- end list -->
 
         </h3>
       </header>
