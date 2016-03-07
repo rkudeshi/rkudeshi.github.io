@@ -7,7 +7,7 @@ redirect_from:
  - /2010/04/26/hulu-subscription/
 ---
 
-<a href="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355.jpg"><img class="alignright" title="Hulu logo" src="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355-300x143.jpg" alt="" width="300" height="143" /></a>
+<a href="/silo/2010/huluTM_355.jpg"><img class="alignright" title="Hulu logo" src="/silo/2010/huluTM_355-300x143.jpg" alt="Hulu logo" width="300" height="143" /></a>
 
 The [Los Angeles Times is reporting](http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/04/hulu-pushes-forward-with-995-subscription-service.html) that [Hulu](http://www.hulu.com), the premier online legal TV watching destination, will be launching a paid subscription version next month. Hulu Plus, as it will be called, will charge $9.95 monthly for access to the back catalog of some of the shows which they currently only have up to 5 episodes of. Would you pay for such a subscription service?
 
