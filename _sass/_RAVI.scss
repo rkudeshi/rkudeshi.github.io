@@ -6,6 +6,12 @@
   float: right;
 }
 
-alignleft {
+.alignleft {
   float: left;
+}
+
+.post-meta, .post-meta a {
+    color: #9a9a9a;
+    text-transform: uppercase;
+    font-size: 0.8rem;
 }
