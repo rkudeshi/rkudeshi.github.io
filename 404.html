@@ -69,7 +69,7 @@ permalink: 404.html
 	<p style="font-size: 1rem;margin-bottom: 0.5em">Recent posts</p>
 	<ul style="font-size: 0.9rem">
 
-    {% for post in paginator.posts limit:20 %}
+    {% for post in site.posts limit:5 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time></small>
