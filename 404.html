@@ -64,27 +64,31 @@ permalink: 404.html
 
 
 <div id="page-wrap">
-	<h1>404</h1>
-	<p>Oops, that link doesn't exist!<br/> Visit the <a href="/archives">archives</a> or go back to the <a href="/">home page</a> instead.</p><br/>
+	<p><strong>Oops, that link doesn't exist!</strong></p>
+	
+	<p>Visit the <a href="/archives">archives</a> or go back to the <a href="/">home page</a> instead.</p>
+	
+	<br/>
+	
 	<p style="font-size: 1rem;margin-bottom: 0.5em">Recent posts</p>
+	
 	<ul style="font-size: 0.9rem">
-
     {% for post in site.posts limit:5 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time></small>
           {{ post.title }}
         </a>
       </li>
     {% endfor %}
-
 	</ul>
+
 	<footer id="err">
 		<a href="/about" title="About" class="">About</a>
 		<a href="/archives" title="Archives" class="">Archives</a>
 		<a href="/contact" title="Contact" class="">Contact</a>
 		<a href="/subscribe" title="Subscribe" class="">Subscribe</a>
 	</footer>
+
 </div>
 
 
