@@ -2,9 +2,9 @@
 title: I'd Pay For a Hulu Subscription If…
 date: 2010-04-26
 redirect_from:
- - /hulu-subscription
- - /2010/04/hulu-subscription
- - /2010/04/26/hulu-subscription
+ - /hulu-subscription/
+ - /2010/04/hulu-subscription/
+ - /2010/04/26/hulu-subscription/
 ---
 
 <a href="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355.jpg"><img class="alignright" title="Hulu logo" src="http://raviudeshi.com/wp/wp-content/uploads/2010/04/huluTM_355-300x143.jpg" alt="" width="300" height="143" /></a>
