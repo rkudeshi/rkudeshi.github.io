@@ -2,25 +2,22 @@
 //
 // Added by Ravi.
 
-.alignright {
-  float: right;
-}
+.alignright { float: right; }
+.alignleft { float: left; }
 
-.alignleft {
-  float: left;
-}
-
+// Metadata under post titles
 .post-meta, .post-meta a {
     color: #9a9a9a;
     text-transform: uppercase;
     font-size: 0.8rem;
 }
 
+// Header & menubar
 .masthead a {
 	padding-right: 1.5rem;
 }
 
-.header-menu {
+#header-menu {
 	display: inline-block;
 }
 
