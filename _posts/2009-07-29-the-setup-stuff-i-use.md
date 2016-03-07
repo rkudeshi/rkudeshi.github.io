@@ -27,8 +27,8 @@ This is a **list of applications, products and services I personally use** on a 
 * **Video Games**: Xbox 360 Arcade (20GB hard drive)
 * **Media Receiver**: Apple TV (40GB)
 * **Router**: Buffalo WHR-HP-G54 802.11g wireless router
-* ~~Optoma DV10 MovieTime DLP Projector With Built-In DVD Player~~
-* ~~Original Xbox with XBMC~~
+* <del>Optoma DV10 MovieTime DLP Projector With Built-In DVD Player</del>
+* <del>Original Xbox with XBMC</del>
 
 ### Services
 
