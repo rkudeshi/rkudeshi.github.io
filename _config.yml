@@ -30,6 +30,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-redirect-from
 
 # ###########
 # ADDED CUSTOM BY RAVI
