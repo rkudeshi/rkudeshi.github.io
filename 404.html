@@ -10,58 +10,17 @@ permalink: 404.html
 	}
 
 	#fourohfour {
-		position: relative;
-		z-index: 2;
-		width: 80%;
-		text-align: left;
-		margin: 2em auto;
-		font-size: 1.3em;
 		color: #fff;
-		line-height:  1.5;
-	}
-	#fourohfour p {
-		/*  width: 22em;*/
-		margin: 0 auto;
 	}
 	#fourohfour a {
-		font-size: 1.1em;
 		color: #fff;
 		text-decoration: underline;
-		font-weight: 500;
 	}
 	#fourohfour a:visited {
 		color: #fff;
 	}
 	#fourohfour li {
 		padding-bottom:10px;
-		line-height: 1.5em;
-	}
-
-	@media only screen and (max-width : 40em) {
-		#fourohfour { width: 92%;}
-	}
-	@media only screen and (max-width : 25em) {
-		#fourohfour {
-			font-size: 1.0em;
-		}
-	}
-	#err { margin-top: 1em;}
-	#err a {
-		padding: 5px 10px;
-		border-radius: 3px;
-		-moz-border-radius: 3px;
-		-webkit-border-radius: 3px;
-		-o-border-radius: 3px;
-		text-decoration: none;
-		font-size: 0.9rem;
-		font-weight: 500;
-		display: inline-block;
-		margin: 0.5em 0.5em 0.5em 0;
-		color: #fff;
-	}
-	#err a:hover {
-		background:  rgba(0,0,0,0.1);
-		border-color: rgba(0,0,0,0.2);
 	}
 </style>
 
@@ -69,6 +28,7 @@ permalink: 404.html
 
 <div id="fourohfour">
 	<p>Oops, that link doesn't exist! Visit the <a href="/archives">archives</a> or go back to the <a href="/">home page</a> instead.</p>
+	<p><small>If you think this is an fourohfour-bottommenuor, please let me know!</small></p>
 	<br/>
 	<p style="font-size: 1rem;margin-bottom: 0.5em">Recent posts</p>
 	
@@ -81,14 +41,6 @@ permalink: 404.html
       </li>
     {% endfor %}
 	</ul>
-
-	<footer id="err">
-		<a href="/about" title="About" class="">About</a>
-		<a href="/archives" title="Archives" class="">Archives</a>
-		<a href="/contact" title="Contact" class="">Contact</a>
-		<a href="/subscribe" title="Subscribe" class="">Subscribe</a>
-	</footer>
-
 </div>
 
 
