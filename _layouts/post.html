@@ -6,8 +6,11 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">
   <a href="/about">By Ravi Udeshi&nbsp;&#8260;&nbsp;</a>
+  
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  
   <small><a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">&nbsp;&#8260;&nbsp;[M&#8595;]</a></small>
+  </span>
   {{ content }}
 </article>
 
