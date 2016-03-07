@@ -2,8 +2,8 @@
 permalink:           /:short_year/:month/:title
 
 # Setup
-title:               "@rkudeshi"
-tagline:             "Jekyll-based blog"
+title:               "Ravi Udeshi"
+tagline:             "My Jekyll blog"
 url:                 http://rkudeshi.github.io
 paginate:            10
 baseurl:             ""

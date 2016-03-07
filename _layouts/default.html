@@ -12,7 +12,7 @@
           
           <!--  <small>{{ site.tagline }}</small> -->
           <!-- add list of pages in header -->
-          <span class="header-menu">
+          <span id="header-menu">
           {% for page in site.pages_list %}
           <small><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
