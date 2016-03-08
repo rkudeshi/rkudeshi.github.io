@@ -1,11 +1,9 @@
 ---
-title: ORIGMD What I want in iOS 9, OS X 10.11, and a new Apple TV
+title: What I want in iOS 9, OS X 10.11, and a new Apple TV
 date: 2015-06-08
 old-slug: ios-9-osx-11-new-apple-tv
 layout: post
 ---
-
-# What I want in iOS 9, OS X 10.11, and a new Apple TV
 
 In [last year's iOS wish list](http://raviudeshi.com/2014/06/ios-8-and-os-x-10-10), I noted that Android had finally caught up to iOS. This year, for the first time, it really feels like Google has surpassed Apple. Most importantly, Apple's recent breakneck pace of innovation has led to self-inflicted wounds—you can only keep adding new features at the expense of stability for so long before it all breaks down.
 

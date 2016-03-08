@@ -1,5 +1,5 @@
 ---
-title: ORIGMD How the Grammys early cutoff hurt Drake & Adele and comparing it to other award show timelines
+title: How the Grammys early cutoff hurt Drake & Adele and comparing it to other award show timelines
 date: 2015-12-19
 old-slug: award-show-timelines
 layout: post
@@ -96,7 +96,7 @@ A couple of notes:
 
 1. The above timeline is for "General Entry" films. Animated films, foreign films, short films, and documentaries have significantly earlier cutoffs.
 
-2. If a music album comes out on a certain date, that's when everyone generally gets to hear it for the first time (critics used to get them earlier, but the fear of leaks has mostly ended that). On the other hand, movies are rolled out gradually. Especially awards-bait movies - they're generally shown off at Cannes, Telluride, TIFF, and other film festivals before their official release in, say, late December. So keep that in mind when comparing the Grammys and Oscars timelines.
+2. If a music album comes out on a certain date, that's when everyone generally gets to hear it for the first time (critics used to get them earlier, but the fear of leaks has mostly ended that). On the other hand, movies are rolled out gradually. Especially awards-bait movies—-they're generally shown off at Cannes, Telluride, TIFF, and other film festivals before their official release in, say, late December. So keep that in mind when comparing the Grammys and Oscars timelines.
  
 3. The cutoff for movies is December 31, but that's only for a "one-week qualifying Los Angeles run." Basically, as long as a studio releases their movie in one theater in LA, it qualifies for that year's Oscar awards. So if a studio knows they have a solid Oscar contender, they could delay the movie's wide release until closer to the actual award show, presumably hoping the extra press translates to more tickets sold.
 

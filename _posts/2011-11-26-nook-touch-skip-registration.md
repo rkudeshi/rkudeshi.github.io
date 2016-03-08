@@ -1,5 +1,5 @@
 ---
-title: ORIGMD How to use the Nook Simple Touch without registering
+title: How to use the Nook Simple Touch without registering
 date: 2011-11-26
 old-slug: nook-touch-skip-registration
 layout: post
