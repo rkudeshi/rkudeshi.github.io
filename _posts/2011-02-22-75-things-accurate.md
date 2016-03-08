@@ -1,11 +1,11 @@
 ---
-title: Living with 75 Things
+title: Living with 75 Things (accurate?)
 date: 2011-02-22
 old-slug: 75-things
 layout: post
 ---
 
-[![Amazingly, all of this stuff was packed into that bag in the top right and a small knapsack.](wp/wp-content/uploads/2011/02/75-things-seattle1.jpg "75-things-seattle")](wp/wp-content/uploads/2011/02/75-things-seattle1.jpg)
+![Amazingly, all of this stuff was packed into that bag in the top right and a small knapsack.](/silo/2011/75-things-seattle1.jpg)
 
 As I write this, I’m 20,000 feet in the air, en route to Chicago. I’ve just left Seattle, where I’ve been living for the past 2 months.
 
@@ -15,7 +15,7 @@ Between those 2 bags and the things I have on my person, I’m only carrying 75 
 
 That’s right, 75 things in all.
 
-That’s pretty much all I brought with me 2 months ago, too. And the crazy thing is that I actually didn’t even need all that.
+That's pretty much all I brought with me 2 months ago, too. And the crazy thing is that I actually didn’t even need all that.
 
 The fact of the matter is that I have been happily living with fewer things than I used to cram in my car trunk alone.
 
@@ -23,9 +23,9 @@ The fact of the matter is that I have been happily living with fewer things than
 
 Sound impossible? Perhaps to some people. But ever since I started pursuing a clutter-free life in early 2009, this has actually been a dream of mine: needing so few things to live and work that I could pack everything into one bag and travel wherever my heart desired.
 
-I’m not the only one crazy enough to attempt this: in 2008, Dave Bruno started the [100 items challenge](http://guynameddave.com/about-the-100-thing-challenge/). The idea to permanently live with so few items was radical at the time, but many minimalist bloggers have since followed the same trailblazing path in recent years.
+I’m not the only one crazy enough to attempt this: in 2008, Dave Bruno started the [100 items challenge][http://guynameddave.com/about-the-100-thing-challenge/]. The idea to permanently live with so few items was radical at the time, but many minimalist bloggers have since followed the same trailblazing path in recent years.
 
-But while I’ve been slowly decluttering ever since I discovered [Unclutterer](http://www.unclutterer.com) and [Zen Habits](http://zenhabits.net), I knew I needed to do something radical to really jump-start myself on the path to minimalism. So last year, I called up my good friend [Dan Tran](http://twitter.com/probablydan) and asked him if he wanted some company this year. He graciously welcomed me and so I found myself on a plane to Seattle only days after graduating from college.
+But while I’ve been slowly decluttering ever since I discovered [Unclutterer][http://www.unclutterer.com] and [Zen Habits][http://zenhabits.net], I knew I needed to do something radical to really jump-start myself on the path to minimalism. So last year, I called up my good friend [Dan Tran][http://twitter.com/probablydan] and asked him if he wanted some company this year. He graciously welcomed me and so I found myself on a plane to Seattle only days after graduating from college.
 
 Now, I feel like my decision has been vindicated. I haven’t been at a loss for anything while staying in Seattle; in fact, I actually put a bunch of stuff I wasn’t using back in my bag after only a week.
 
@@ -38,9 +38,9 @@ But before I get ahead of myself, let me share with you exactly which 75 things 
 *   8 T-shirts
 *   2 sleeveless athletic tees
 *   6 button-down shirts (3 short-sleeve, 3 long-sleeve)
-*   7 pairs of pants (athletic shorts, jorts, blue khaki shorts, yoga pants, 3 pairs of jeans)
+*   7 pairs of pants (athletic shorts, jorts, blue khaki shorts, pajama pants, 3 pairs of jeans)
 *   9 pairs of boxers (8 cotton, 1 Ex Officio travel pair)
-*   8 pairs of socks[1](#fn:1 "see footnote")
+*   8 pairs of socks[^1]
 *   2 belts (one black, one tan)
 *   Zip-up hooded sweatshirt
 *   Jacket
@@ -50,7 +50,7 @@ But before I get ahead of myself, let me share with you exactly which 75 things 
 
 **Electronics (9):**
 
-*   13″ MacBook Pro + charger[2](#fn:2 "see footnote")
+*   13″ MacBook Pro + charger[^2]
 *   iPad + charger
 *   iPhone + sync cable
 *   Canon Rebel XS DSLR camera + 2GB SD card + charger
@@ -89,9 +89,9 @@ But even crazier is that I actually agree with him—I definitely did over-pack.
 
 All of the “extra” stuff I packed—the things I never touched or packed away after only a few days—fall into 2 general categories:
 
-**1\. Too Many Clothes:** Let’s face it, I packed a lot of clothes. Interestingly, when I was originally packing for the trip, I had even more clothes but they didn’t fit into my carry-on bag (12 t-shirts, more button-down shirts, etc.). When I started taking stuff out of my bag at midnight the night before my 8am flight, I was worried it might not leave me with enough. On the contrary, I found myself actually taking clothes _out_ of my weekly rotation. For example, I packed away 2 of the t-shirts and 2 of the long-sleeve button down shirts because I only wore them to delay doing the laundry each week; by putting them away, I forced myself to adhere to a regular laundry schedule and wear only the clothes I felt most confident in (most people [wear 20% of their clothes 80% of the time](http://www.oprah.com/home/Join-Peters-Clutter-Crew-and-Get-Your-Home-Organized/10), an idea derived from the [Pareto principle](https://secure.wikimedia.org/wikipedia/en/wiki/Pareto_principle)).
+**1. Too Many Clothes:** Let’s face it, I packed a lot of clothes. Interestingly, when I was originally packing for the trip, I had even more clothes but they didn’t fit into my carry-on bag (12 t-shirts, more button-down shirts, etc.). When I started taking stuff out of my bag at midnight the night before my 8am flight, I was worried it might not leave me with enough. On the contrary, I found myself actually taking clothes *out* of my weekly rotation. For example, I packed away 2 of the t-shirts and 2 of the long-sleeve button down shirts because I only wore them to delay doing the laundry each week; by putting them away, I forced myself to adhere to a regular laundry schedule and wear only the clothes I felt most confident in (most people [wear 20% of their clothes 80% of the time][http://www.oprah.com/home/Join-Peters-Clutter-Crew-and-Get-Your-Home-Organized/10], an idea derived from the [Pareto principle][https://secure.wikimedia.org/wikipedia/en/wiki/Pareto_principle]).
 
-**2\. Too Many “What If” Things:** Despite my best intentions, I fell into the trap of packing things that I really wouldn’t need regularly; instead, I should have remembered the [“Buy It There” philosophy](http://www.fourhourworkweek.com/blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/), which advocates buying cheap “what if” items only if and when you actually need something, not weighing down your bag with everything from the get-go. For example, I really didn’t need the gloves, beanie hat, screwdriver, remote, blanket,[3](#fn:3 "see footnote") or 2 extra hard drives,[4](#fn:4 "see footnote") just to name a few.
+**2. Too Many “What If” Things:** Despite my best intentions, I fell into the trap of packing things that I really wouldn’t need regularly; instead, I should have remembered the [“Buy It There” philosophy][http://www.fourhourworkweek.com/blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/], which advocates buying cheap “what if” items only if and when you actually need something, not weighing down your bag with everything from the get-go. For example, I really didn’t need the gloves, beanie hat, screwdriver, remote, blanket,[^3] or 2 extra hard drives,[^4] just to name a few.
 
 (By packing even lighter, I could have hopefully avoided stuffing my bag to the point of bursting!)
 
@@ -103,16 +103,11 @@ If my experience is any guide, it is both surprisingly difficult and easy to mai
 
 **What about you? How many possessions do you need to live your ideal life?**
 
-<div class="footnotes">
 
-* * *
+[^1]: Some minimalist bloggers actually count all pairs of underwear or socks as one item; I think that’s cheating, so I’m counting each pair as an additional item.
 
-1.  Some minimalist bloggers actually count all pairs of underwear or socks as one item; I think that’s cheating, so I’m counting each pair as an additional item.[ ↩](#fnref:1 "return to article")
+[^2]: Since chargers/sync cables/memory cards are pretty much useless on their own, I’ve chosen to count them as part of the item they’re designed to be used with and not as their own unique separate item.
 
-2.  Since chargers/sync cables/memory cards are pretty much useless on their own, I’ve chosen to count them as part of the item they’re designed to be used with and not as their own unique separate item.[ ↩](#fnref:2 "return to article")
+[^3]: My friend had some for guests already.
 
-3.  My friend had some for guests already.[ ↩](#fnref:3 "return to article")
-
-4.  Let’s just say I’m _really_ paranoid about my backup strategy, as you darn well should be too.[ ↩](#fnref:4 "return to article")
-
-</div>
+[^4]: Let’s just say I’m *really* paranoid about my backup strategy, as you darn well should be too.
