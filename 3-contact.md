@@ -1,6 +1,6 @@
 ---
 layout: page
-old-slug: contact
+permalink: /contact
 title: Contact
 ---
 

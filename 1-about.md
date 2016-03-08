@@ -1,6 +1,6 @@
 ---
 layout: page
-old-slug: about
+permalink: /about
 title: About Ravi Udeshi
 ---
 

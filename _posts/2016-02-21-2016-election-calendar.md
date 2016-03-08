@@ -1,5 +1,5 @@
 ---
-title: ORIGMD Tracking when every 2016 candidate dropped out (plus complete debate & primary calendar)
+title: Tracking when every 2016 candidate dropped out (plus complete debate & primary calendar)
 date: 2016-02-21
 old-slug: 2016-election-calendar
 layout: post

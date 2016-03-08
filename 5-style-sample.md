@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Style sample
-slug: style
+permalink: /style
 ---
 
 *This is a style sample page, to help me evaluate CSS changes and problems, an idea I first saw on [Matt Gemmell's](http://mattgemmell.com/about/style-sample/) blog.*

@@ -1,5 +1,5 @@
 ---
-title: ORIGMD The biggest album sales weeks of all time
+title: The biggest album sales weeks of all time
 date: 2015-12-31
 old-slug: album-sales-chart
 layout: post

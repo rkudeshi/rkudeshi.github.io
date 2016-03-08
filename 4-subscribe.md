@@ -1,6 +1,6 @@
 ---
 layout: page
-old-slug: subscribe
+permalink: /subscribe
 title: Subscribe
 ---
 

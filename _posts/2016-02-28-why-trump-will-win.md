@@ -1,5 +1,5 @@
 ---
-title: ORIGMD Why statheads think Trump will actually win the nomination now
+title: Why statheads think Trump will actually win the nomination now
 date: 2016-02-28 10:00:00
 old-slug: why-trump-will-win
 layout: post
@@ -13,7 +13,7 @@ Everything changed on February 23rd. Yes, that's when Trump won in Nevada. But i
 
 Here's why all the evidence says Trump is now the heavy favorite to actually win the nomination:
 
-### The case *AGAINST* Trump before 2/23
+### The case AGAINST Trump before 2/23
 
 When Trump announced he was running last summer, everyone laughed. Remember his 'Mexicans are rapists and drug-dealers' comment? That was in his announcement speech!
 
@@ -41,7 +41,7 @@ Except Trump bounced back. He got 1st in New Hampshire and 1st in South Carolina
 
 - Generally, 50% of people decide who they're supporting the last week before a primary vote. Of that group, folks were voting for anyone but Trump (he was only getting 18% of late-deciders, again significantly worse than his polls).
 
-### The case *FOR* Trump after 2/23
+### The case FOR Trump after 2/23
 
 But in Nevada, Trump confounded every expectation and turned the conventional wisdom upside-down:
 
