@@ -1,0 +1,107 @@
+---
+title: ORIGMD What I want in iOS 6
+date: 2012-06-10
+old-slug: ios-6
+layout: post
+---
+
+The WWDC keynote is tomorrow. As expected, Apple will unveil a litany of new products and software.
+
+Let's get the [leaked](http://www.macrumors.com/2012/06/10/wwdc-2012-rumor-roundup-ios-6-mountain-lion-icloud-and-macs/) things out of the way: a revamped Maps app, Facebook integration, Siri for iPad, OS X Mountain Lion preview, more iCloud apps (notes, reminders), and new Mac hardware (Retina Display laptops, anyone?).
+
+Got it? Good, now forget about them. Instead, let's prognosticate on some bigger and bolder ideas. Things that haven't been discussed to death already.
+
+Here's my wish list of features I'd love to see in iOS 6 or beyond:
+
+**1. Apple TV apps**
+
+The WWDC schedule has a lot of "To Be Announced" sessions, which has led people to suggest Apple's introducing something big: possibly [apps for the Apple TV set-top box](http://daringfireball.net/2012/05/reading_way_too_much_into_wwdc_schedule) or  a [Siri API for 3rd-party apps](http://thenextweb.com/apple/2012/05/31/will-apple-fill-secret-wwdc-sessions-with-siri-api-apple-tv-apps-facebook-or-something-else/).
+
+I think there's a few reasons Apple won't be adding apps to Apple TV just yet:
+
+* Competing set-top boxes (Roku, Boxee, Google TV) that do have apps have all floundered in the marketplace.[^1] Apple TV isn't selling like gangbusters either, but for the moment, there's no real competitive pressure that compels Apple to have apps or risk losing market share.
+* TV apps are a killer feature and they're waiting to introduce them with the "real" Apple TV to maximize impact. The full-fledged Apple television, expected next year, will presumably also have more features for developers to play with, like voice control and a camera.
+
+Given that, I think a Siri API is the more likely announcement.
+
+But what if Apple does add apps to Apple TV? I say it's a market-changer. Apple's additional functionality (AirPlay), ecosystem (iTunes store), and brick-and-mortar stores could suffocate the market for competing set-top boxes.
+
+Roku and Boxee did the hard work of convincing content providers to make TV apps in the first place (Hulu+ arguably only exists because of Boxee's amazing work porting the service without permission).[^2] But Apple will come in and scoop them all up, the allure of its orders-of-magnitude larger customer base too hard to ignore.
+
+In 2008, Apple introduced the original App Store with the iPhone 3G and device sales exploded. Will they do it again with Apple TV?
+
+[^1]: Aside from gaming consoles, Roku is arguably the most successful streaming set-top box. [GigaOm reports](http://gigaom.com/video/roku-streaming-stick/) they've sold 2.5 million units from the inception of the company through the end of 2011. For comparison, [Apple sold](http://gigaom.com/video/apple-tv-matters/) 1.4 million Apple TVs in just the last 3 months of 2011.
+
+[^2]: Speaking of Hulu+, an Apple TV app for the service was [developed last year but never released](http://9to5mac.com/2011/10/31/hulu-plus-app-is-ready-for-apple-tv-decision-to-update-is-political-not-technical/). Might we finally see it tomorrow, new Apple TV App Store or not?
+
+**2. YouTube app REMOVED as default**
+
+When the iPhone was originally launched, it didn't support 3rd-party apps. So Apple made its own apps for Google Maps and YouTube and included them as system apps. They've been built-in on every iPhone since.
+
+Since then, the relationship between Apple and Google has cooled. Apple doesn't want to rely on Google anymore, so they started buying up mapping companies 3 years ago. Tomorrow, we will see the fruits of that labor, as Google data is unceremoniously excised from the Maps app and replaced with a homegrown solution.[^3]
+
+I want Apple to go one step farther. While they're at it, can they kick out the YouTube app, too?
+
+The current Apple-made YouTube app has barely changed since 2007. But YouTube is a very different service now. Many of the app's old elements are broken and many of YouTube's new features aren't supported.
+
+The reason you sometimes get an error about a video not playing on mobile devices—especially music videos—is because the app doesn't support YouTube ads. I'd rather be able to watch a video with ads than not be able to watch it at all.[^4]
+
+Even Google hates the app. That's why [they built](https://www.pcworld.com/article/200686/youtube_mobile_site_trumps_dedicated_app.html) a full-featured [mobile site](http://m.youtube.com) that no longer redirects you to the built-in YouTube app when possible.
+
+A new standalone app in the App Store, made by Google and regularly updated with new YouTube features, would be a vast improvement.
+
+[^3]: In recent days, Google employees have said Google Maps will stay on the iPhone one way or another. Presumably, they will release their own app in the App Store. Will it have turn-by-turn navigation, like the Android app? In 2010, a [Google employee mentioned](https://mashable.com/2010/04/22/free-turn-by-turn-google-directions-iphone/) they were working on it, but nothing ever materialized.
+
+[^4]: Little-known tip: Most videos that won't play in the current built-in YouTube app can still be viewed on your phone. Just go to <http://m.youtube.com> and find your video.
+
+**3. Safari extensions**
+
+One of the more glaring limitations on iOS right now is not being able to change the default app for making calls or checking email or browsing the web. I don't envision Apple ever changing that for usability reasons.
+
+Fine. So give us a way to customize the built-in browser a little instead.
+
+There's too much innovation happening in the browser not to add a little customizability. Apps like Instapaper, Readability, Delicious, Pinboard, Pinterest, DuckDuckGo, and many others would be greatly improved if they could do just a little more inside the browser.
+
+Look, I don't know how an extension system that maintains the simplicity and usability of iOS would work. But then that's why the folks in Cupertino get the big bucks and not me.
+
+Or, you know, they could just let us set a different default browser.
+
+(While we're talking about Safari updates, don't forget a unified URL/search bar, à la Chrome and OS X Safari. Makes even more sense on mobile, where there's no keyboard shortcuts.)
+
+**4. Improved App Store**
+
+As successful as the App Store has been, the current implementation could use some improvement.
+
+First, background app downloads. There's nothing worse than when you want to download more than one app and being kicked out of the App Store app after each purchase. An option for background downloads (or a download queue) would easily solve this.
+
+Second, search and discovery. When developers have to [rename their app](http://blog.tapstream.com/post/24542193450/on-naming-apps) just to get discovered, you know there's a problem. Fortunately, Apple [bought](http://techcrunch.com/2012/02/23/apple-chomp/) Chomp earlier this year, so that should lead to some direct upgrades.
+
+Third, the "top 25" lists. The top paid apps list doesn't change often enough. The top free apps list is infested with sketchy games hocking in-app purchases. The top grossing apps list makes me lose hope for humanity. But it doesn't have to be all doom-and-gloom. Instead, like [AppShopper](http://appshopper.com), Apple could do more innovative things like showcasing apps with rising momentum or dropping prices.
+
+**5. More app sandboxing**
+
+Earlier this year, Path got into trouble for sucking in your contacts without informed consent. Fortunately, the uproar got them to [quickly revert](http://blog.path.com/post/17274932484/we-are-sorry). But not every developer is as scrupulous.
+
+The fiasco mainly highlighted how insecure your personal data is on iOS, despite Apple's purported "walled garden." On the Mac side, Apple has started enforcing app sandboxing, only granting apps permission to access your personal data on a temporary and need-to-know basis.
+
+I hope Apple embraces and extends this behavior on the iOS side. Just like GPS and push notifications, I want to know when an app wants access to my contacts or calendar or email or photos.
+
+**6. Files, files, files**
+
+As much as Steve Jobs believed otherwise, I say the file system still has a place in the digital world. The success of Dropbox is evidence of that.
+
+One of the shortcomings in iOS is that apps can't access each other's data. You can't start a document in Simplenote and then edit it in Pages. On a normal computer, you can just save a file in one program and open it with another.
+
+WebOS had a VERY cool feature called Synergy that [solved this problem](http://ignorethecode.net/blog/2012/02/21/steal_webos_features/). You could login to your Dropbox account once and then every app could use it as a backend for files. Apple will never integrate Dropbox like that, but what about storing files in iCloud? Apple already has Documents in the Cloud; it just needs to make it easier for apps to access, and more importantly SHARE, these documents.
+
+**7. Wi-Fi phone calls**
+
+T-Mobile has long had a [feature](https://www.t-mobile.com/company/PressReleases_Article.aspx?assetName=Prs_Prs_20070627&title=T-Mobile%20Introduces%20Unlimited%20Calling%20Over%20Wi-Fi%20With%20the%20National%20Launch%20of%20T-Mobile%20HotSpot%20@Home) in which certain phones could make calls using your home Wi-Fi network. I've never understood why this feature wasn't more widely adopted by the carriers. Phone calls made over Wi-Fi mean less strain on their network and ensure customers always have a quality signal at home.
+
+T-Mobile originally required you to use specific feature phones with the UMA technology built-in, but they later got the service [working](http://gigaom.com/mobile/on-t-mobile-all-wi-fi-calls-are-free/) on generic Android phones with a pre-configured app. Similarly, Apple could bundle this technology into iOS 6 and then allow carriers to enable support over time, as they did with MMS.
+
+Wi-Fi phone calls would be a natural evolution of FaceTime for consumers, as well as a cost-saving measure for the carriers. But like iMessage, it could also quickly become another salvo for Apple in its ongoing cold war with the carriers and provide more leverage when it comes time to renegotiate contracts.
+
+**8. Pokémon for iOS**
+
+A man can dream, right?

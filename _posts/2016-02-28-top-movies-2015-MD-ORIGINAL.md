@@ -1,0 +1,158 @@
+---
+title: ORIGMD My top movies of 2015 + Oscar picks
+date: 2016-02-28 19:00:00
+old-slug: top-movies-2015
+layout: post
+---
+
+For the first time ever, I actually watched almost all of the movies nominated for an Oscar. Before the award ceremony, I thought I would write a little bit about each one (and a few movies not nominated) to encourage you to watch the best of them. Plus, my Oscar picks at the bottom!
+
+### My favorite films
+
+Here are some of my favorite movies from this year. I included just about every Oscar movie—because, duh, they're almost all really good—along with some other movies that you may have missed this year.
+
+#### The best of the best
+
+Each one of these movies just knocked me out or took my breath away. I couldn't wait to watch each of them again. These are the movies I *make* other people watch because I love them so much:
+
+* **Brooklyn**: An immigrant story, told exquisitely. Saoirse Ronan takes a tired trope of a character and imbues it with so much life and emotion. At the beginning of the movie, I was wondering why she was nominated for an Oscar. At the end, I can barely imagine her not winning.
+* **Carol**: A not-quite-love story between Cate Blanchett and Rooney Mara. This movie just absolutely wrecked me. I was fixed to my seat the entire time and bawling in the corner afterwards. (10 movies were nominated for Best Picture at the Critics Choice Awards. 8 of those were similarly nominated at the Oscars. This one wasn't. Ridiculous.)
+* **Creed**: It's hard to have a fresh take on the boxing genre (especially after the Rocky movies exhausted most of them), so what Ryan Coogler and Michael B. Jordan do here is nothing short of sensational. Heck, this movie is so good that *Sylvester Stallone* got nominated for an Oscar. (If you liked this, definitely watch Coogler + Jordan's last team-up, *Fruitvale Station*.)
+* **Mad Max: Fury Road**: I usually HATE action movies like this. So it says something when this was my favorite movie of the year. The day after I saw it in theaters, I went back to watch it again. Yes, it's really *that* good!
+* **Room**: The story of a young woman kidnapped and locked in a small room and a child who's never known anything else. Jacob Tremblay has the best acting performance of the year. Yes, better than Leo. I said it.
+* **Sicario**: WOW WOW WOW. I would've never watched this movie about the drug war if I hadn't heard about it on the [Hollywood Prospectus podcast](http://grantland.com/hollywood-prospectus/hollywood-prospectus-podcast-sicario-and-homeland/), and boy am I glad I did. Just incredible tension and cinematography all-around. You probably missed this movie because it wasn't nominated for any of the major Oscar awards, but did you know it was nominated for Best Picture at the Critics Choice Awards? Please, watch this movie when it pops up on Netflix or HBO.
+
+#### The rest of the best
+
+Here's the movies that I thought were simply terrific. Just because these movies aren't in the above group doesn't mean I didn't love them (that's what happens when you're making a best-of list!).
+
+* **Ex Machina**: Like *Snowpiercer* last year, this movie had an unconventional release (available on VOD before it hit theaters) and became an Internet cult favorite. It's the first movie I've seen involving a Turing test and it handles it with aplomb. Definitely watch this if you wish Hollywood had more original stories because it's just so very good. (Also, Alicia Vikander, who will probably win an Oscar tonight for her part in *The Danish Girl*, plays one of the leads in this as a humanoid robot unlike any you've ever seen.)
+* **Spotlight**: If you liked *All The President's Men*, you have to watch this movie too. There's a reason it was pegged as the favorite for Best Picture all the way back last October.
+* **Steve Jobs**: Once you realize that this isn't really the story of Steve Jobs at all (Aaron Sorkin takes one too many liberties in making his life story more efficiently dramatic), you can appreciate just how good this one is. It's a shame that Danny Boyle didn't get more credit for his direction on this one.
+* **Straight Outta Compton**: Stories about black characters aren't only for black audiences, and I can't tell you how happy I was when this movie made so much money at the box office. I only wish Dr. Dre and Ice Cube, who produced the film, had the courage to show the worst of their own characters too (look up [Dee Barnes](http://gawker.com/heres-whats-missing-from-straight-outta-compton-me-and-1724735910)).
+* **The Big Short**: The best, simplest explanation of what happened in the '08 financial crisis. I've read about this stuff, watched documentaries, etc, and even I came away with a better understanding after watching this one.
+* **The Danish Girl**: I understand the criticism of this movie (it simplifies the story too much, Redmayne is too overtly acting), but I don't care. It just bowled me over, over and over again. Alicia Vikander plays Gerda Wegener with more agency than almost any "tortured wife" character I've seen and Eddie Redmayne imbues Lili Elbe with so much life that you feel every emotion along with him. Give this all the awards and I wouldn't even be mad.
+* **The Martian**: It's not often you get a movie that celebrates science so openly and exuberantly. It's even rarer when that movie is really freakin' fun, too. I only wish it were longer!
+* **Trumbo**: This movie has been rightfully knocked as one of the weaker films of this year's nominees, but if you're at all interested in the history of Hollywood writers, it's a compelling watch indeed. (Cate Blanchett steals the show with a couple of stellar lines at just the right times, too!).
+
+#### Lest we zest too much
+* **45 Years**: A movie I admired more than I liked. It's a slow meditation on marriage and memory...if you liked the *Top of the Lake* miniseries on SundanceTV a couple years ago, you'll like this.
+* **Bridge of Spies**: Mark Rylance is exceptional as a captured Russian spy, but overall this was a bit too by-the-numbers for me. (This is the movie that made me realize just why Harvey Weinstein forces every director to chop 20 minutes off their films no matter what.)
+* **Concussion**: It's not good when the real person is much more magnetic on-screen than the actor playing him. Skip Will Smith's version and check out the real Bennett Omalu in Frontline's NFL investigation, League of Denial, instead. You can watch the whole thing for free on [PBS's website](http://www.pbs.org/wgbh/frontline/film/league-of-denial/).
+* **Inside Out**: I thought this movie was just OK. Everyone else loves it though. Maybe, like [Andy Ihnatko & The Avengers](https://twitter.com/search?q=from%3Aihnatko%20avengers&src=typd), it just wasn't my day when I watched it.
+* **Joy**: This is one of the two movies I missed in theaters. Still not out on home video either.
+* **The Hateful Eight**: I missed the 70mm run of this movie, so I looked for it at my regular theater instead. For some reason, they dropped it after only 2 weeks, before I could watch it. Still waiting for the home video release.
+* **The Revenant**: I love man-vs-nature and revenge stories, but it's not a good sign when you're checking your watch more than once during a movie (admittedly, it's also just really long). On a technical level, Iñárritu's direction and Leo's acting are tremendous, but this movie just left me a little cold.
+
+#### The best of the rest
+
+The Oscars aren't the be-all, end-all of good movies, and this year was no exception. Here are some other under-the-radar movies I really liked this year:
+
+* **Chappie**: After the heights of *District 9* and the lows of *Elysium*, I personally thought Neil Blomkamp bounced back with this one. The story is weak, especially towards the end, but the main character is just so fun to watch.
+* **Dope**: I loved this movie so much. It subverts and challenges your perceptions and stereotypes and it does it with so much bombast and pure fun. Pair it with last year's *Dear White People* for a great doubleheader. (Or, for a trifecta of amazing movies with underserved minority roles, add *Beyond the Lights* too!)
+* **Everest**: I knew little about the 1996 Everest expedition before this movie and, wow, was it a gripping surprise. I'll definitely be checking out Baltasar Kormákur's next movie.
+* **Focus**: Miles better than anything else Will Smith's done in recent years and it's so much fun watching him as a con man.
+* **Mississippi Grind**: I'm a sucker for a good movie about gamblers, but this wasn't at all what I was expecting, in a good way. If you like introspective, slow, but gripping dramas, check this one out.
+* **Sanjay's Super Team**: Seeing someone who likes like you on screen is a powerful thing and Disney/Pixar's animated short with Indian leads was a wonderful little treat indeed.
+* **The Walk**: This movie about wire-walking made me so damn happy. It's a French romance film, a light-hearted comedy, a heist film, and performance art all in one. I love showing this one to people.
+* **Trainwreck**: I knew Amy Schumer was good, but I didn't know she had this in her. It takes from the best of the Apatow-Rogen school of comedies, but Amy Schumer comes in and reinvigorates the genre so damn well.
+
+### Oscar picks
+
+I went through the main 8 categories (overall, directing, acting, screenplay) and picked my favorites in each. If you just want to see what will actually win, you can check FiveThirtyEight, which has been tracking the [precursor awards](http://projects.fivethirtyeight.com/oscars-2016/) and has a good set of [final predictions](http://fivethirtyeight.com/features/fivethirtyeights-final-oscar-picks/).
+
+#### Best Picture
+
+* The Big Short
+* Bridge of Spies
+* Brooklyn
+* Mad Max: Fury Road
+* The Martian
+* The Revenant
+* Room
+* Spotlight
+
+Look, all of these movies are *good*. *The Revenant* and *Bridge of Spies* are technically excellent, even if I found them underwhelming. I liked *The Big Short*, *Brooklyn*, *The Martian*, and *Spotlight* a lot, but I don't think they were the best movie of the year. So that leaves *Room* and *Mad Max: Fury Road* (unfortunately, *Sicario* and *Carol* weren't nominated, as they were at the Critics Choice Awards in the same category). You can't go wrong with either, but in the end, I've got to go with my heart (and a can of silver spray paint)...*Mad Max: Fury Road*!
+
+#### Best Director
+
+* Room - Lenny Abrahamson
+* The Revenant - Alejandro G. Iñárritu
+* Spotlight - Tom McCarthy
+* The Big Short - Adam McKay
+* Mad Max: Fury Road - George Miller
+
+All of these directors did great in different ways, but I think Lenny Abrahamson did more with less than anyone else nominated. *Room* could have gone wrong in so many ways, but he brings out simply tremendous performances in Brie Larson and Jacob Tremblay. Gotta give it to him.
+
+#### Best Actor
+
+* Trumbo - Bryan Cranston
+* The Martian - Matt Damon
+* The Revenant - Leonardo DiCaprio
+* Steve Jobs - Michael Fassbender
+* The Danish Girl - Eddie Redmayne
+
+I know Leo's going to win. And *The Revenant* was almost certainly the hardest film to actually make for an actor, but that shouldn't be enough to get you this award. So even though he won last year, I just felt so much more from Eddie Redmayne's performance.
+
+#### Best Actress
+
+* Carol - Cate Blanchett
+* Room - Brie Larson
+* Joy - Jennifer Lawrence
+* 45 Years - Charlotte Rampling
+* Brooklyn - Saoirse Ronan
+
+Saoirse Ronan blew me away in *Brooklyn*. Watch the ending and then go back to the beginning and it doesn't even feel like the same person. But after watching *Carol*, and seeing *Cate Blanchett* do more with a cold stare than almost any actor alive, there was just no question in my mind.
+
+#### Best Supporting Actor
+
+* The Big Short - Christian Bale
+* The Revenant - Tom Hardy
+* Spotlight - Mark Ruffalo
+* Bridge of Spies - Mark Rylance
+* Creed - Sylvester Stallone
+
+I'd probably rank Tom Hardy higher if I could understand half of the things he said in *The Revenant* (I'm not the only one who's going to have to watch the movie again on DVD with subtitles, right?). And Mark Rylance was just sublime. But Mark Ruffalo *embodied* his character, even if it wasn't the flashiest role. His rage was mine and I say this award should go to him.
+
+#### Best Supporting Actress
+
+* The Hateful Eight - Jennifer Jason Leigh
+* Carol - Rooney Mara
+* Spotlight - Rachel McAdams
+* The Danish Girl - Alicia Vikander
+* Steve Jobs - Kate Winslet
+
+Kate Winslet is always good, but I think she won the Golden Globe in this category more on name recognition from past performances. And Rooney Mara was just spectacular in *Carol* and has a strong claim to this award. But, for me, ultimately Alicia Vikander takes this. (Everyone, go watch *The Danish Girl*!)
+
+#### Best Original Screenplay
+
+* Bridge of Spies
+* Ex Machina
+* Inside Out
+* Spotlight
+* Straight Outta Compton
+
+At the Emmys, many consider the writing awards the "real" best show awards. I'm not going to say the same for the Oscars, but this category does award more originality and creativity than the main categories and these movies had that in spades. Ultimately, all I have to say is this: yes, *Ex Machina* is THAT good.
+
+#### Best Adapted Screenplay
+
+* The Big Short
+* Brooklyn
+* Carol
+* The Martian
+* Room
+
+It was a shock that both Sorkin and Tarantino weren't nominated for best screenplay. That's gotta be a first for both, right? That said, this is a wonderful category and possibly the hardest for me to pick from. So I've got to go with the one that had the most challenging source material and adapted it wonderfully for mass audiences: *The Big Short*.
+
+---
+
+By the way, if you're curious, there are [57 different movies](https://en.m.wikipedia.org/wiki/88th_Academy_Awards) nominated for Oscars this year. Here's how they break down:
+
+- 8 best picture nominees
+- 8 other movies nominated for acting
+- 3 other movies nominated for screenplay
+- 5 other movies nominated for original song
+- 4 other movies nominated for technical awards (*Sicario* for sound/cinematography, *Cinderella* for costume design, *The 100-Year Old Man Who Climbed Out The Window and Disappeared* for makeup & hair styling, and *Star Wars: The Force Awakens* for cinematography/sound/editing)
+- 29 documentaries/shorts/animated/foreign language (not including *Inside Out*, which was also nominated for screenplay)
+
+I thought I watched a lot of them this year (almost everything nominated for overall/acting/screenplay) but I admire anyone, like Todd VanDerWerff, who watched and [ranked all 57](http://www.vox.com/a/oscars-2016)!

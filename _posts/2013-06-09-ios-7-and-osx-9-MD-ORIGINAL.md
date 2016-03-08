@@ -1,0 +1,129 @@
+---
+title: ORIGMD What I want in iOS 7 + OS X 10.9
+date: 2013-06-09
+old-slug: ios-7-and-osx-9
+layout: post
+---
+
+Tomorrow, Apple will kick off its Worldwide Developers Conference by showcasing iOS 7 and OS X 10.9. We [already know](http://www.macrumors.com/2013/06/05/wwdc-2013-rumor-roundup-ios-7-os-x-10-9-iradio-and-new-macs/) some of what will be revealed: iOS will feature a design overhaul, native Flickr and Vimeo support, and better vehicle integration; OS X will improve Finder, Spaces, and multitasking for power users.
+
+Last year, I discussed [what I wanted in iOS 6](http://raviudeshi.com/2012/06/ios-6). Before starting this year's list, let's take a look back. Did anything improve in the last year?
+
+We got a Google-created YouTube app, background app downloads, and apps now have to ask before accessing your contacts and photos. But Safari is little-changed, App Store search and discovery is still fundamentally flawed, apps can't truly share files, and Wi-Fi phone calls are still a pipe dream.
+
+Alas, still no progress on the Apple TV. Like last year, I still think we won't see apps until Apple releases its full-fledged television set (not just a set-top box). However, I have come up with a novel middle ground that has some precedence and would work very well as a stop-gap until that time, which I'll discuss below.
+
+Going forward, here's what I want to see in iOS and OS X.
+ 
+### iOS
+
+**1. Improve communication between apps**
+
+Improved multitasking arrived in iOS 4. Notification Center arrived in iOS 5. Apple Maps arrived in iOS 6. The time has arrived for better app interoperability in iOS 7. It's pretty much the only major [low-hanging fruit](http://daringfireball.net/2012/05/ios_low_hanging_fruit) left. Simply put, iOS is stuck in the dark ages right now, with apps having to resort to kludgy hacks to share information with each other.
+
+For example, after you take a picture on iOS, your only options for sharing are Facebook or Twitter. Why don't apps like Instagram, Vine, Dropbox, Picasa, Flickr, SmugMug or Google Plus show up in the share menu? Because Apple won't let them right now. Or say you just jotted a quick letter in Simplenote and now you want to edit it in Pages. If you use the "open in..." menu, it creates a second copy of the file.
+
+Compare this to Android and Windows Phone (not to mention every computer ever made), where documents can be shared between apps and newly installed apps automatically show up in share menus. Apple should be ashamed that it's taken this long to add a similar feature on iOS.
+
+(If Apple wants to go one step further, I'd love to see the ability to set third-party apps as the default for email, web browser, and so on. But this opens a bit of a Pandora's box and I expect inter-app communication to come first.) 
+
+**2. Merge Photo Stream into Camera Roll**
+
+Photo Stream was a great idea two years ago. It was hard to keep your photos in sync between your devices and Photo Stream ostensibly solved that. Unfortunately, in practice, Photo Stream is complicated and cumbersome. I can't even count how many people ask me what it is, why it takes up so much space on their phone, and how to get rid of it.
+
+So let's simplify: drop the separate Photo Stream tab and just keep everyone's Camera Rolls in sync between devices. As you take new photos, they only show up in the Camera Roll. Easy to understand and your phone doesn't have to keep multiple copies of photos stored.
+
+(While we're at it, how about letting us create "events" on our phones, Apple? It really sucks that I have to wait until I import my photos into iPhoto to sort them into events.)
+
+**3. Improve Siri**
+
+Let's face facts: Google Now has put Siri to shame. To claim otherwise is to reveal yourself as a blind zealot.
+
+Allow me to count the ways in which Google Now is better: it's faster, it has better voice recognition, it can tap into your email and calendar, it works proactively behind-the-scenes, it learns your preferences the more you use it, and it works across more devices. If you don't believe me, go download the Google iOS app and try it out. You'll be shocked how far behind Apple and Siri are.
+
+Don't get me wrong, Google Now has its shortcomings too: it's a privacy nightmare and it only works with Gmail and Google Calendar. So what can Apple do with Siri to achieve feature parity without being creepy? Make the whole thing faster and do background data processing on your phone itself. That way, you can use any email and calendar provider, but Siri can still learn about your events, appointments, flights, package tracking, restaurant reservations, and so on (without storing all your details on Apple's servers).
+
+**4. Add comprehensive data usage monitoring**
+
+As far forward as iOS hardware and software have come, we have seen one step back in recent years: data plans. Most carriers have dropped unlimited data plans and many people on a budget (like me) are stuck with only 200 MB per month. When we lived in a world of free-flowing cellular data, data usage monitoring didn't matter. But now that almost everyone has some limit on their data, it is time for Apple to make it easier to monitor your data usage.
+
+Right now, your only option is to delve deep into the Settings app (Settings > General > Usage > Cellular Usage) to check your total data sent and received, but it doesn't reset monthly. Some carriers have stop-gap solutions: you can call *3282# on AT&T to get a text message with your current monthly data usage, but it only updates every 24 hours. And some apps like [Data Usage](http://appshopper.com/utilities/data-usage) can monitor your data in the background, but they use extra battery cycles and aren't 100% accurate.[^fn-data_usage]
+
+Android has a [data usage section](http://features.en.softonic.com/how-to-control-data-usage-in-android-4-0) in its settings, where you can see your up-to-the-minute total data used per month. It even tells you how much data each app is using. Apple needs to copy this, pronto.
+
+[^fn-data_usage]:I've tried a few data monitoring apps and Data Usage is, by far, the best. It's rarely off by more than a couple megabytes and it displays your % data used as an application badge (the same way Mail shows you number of unread emails in a red bubble on the app icon).  Stay far away from DataMan, DataMan Pro, DataMan Next and their ilk—they're not nearly as accurate and the developer has a habit of pulling the apps from the store (so you can't get updates any more) and re-adding them under a new name. There's also Onavo Count and Onavo Extend, which can monitor and compress your data. However, I don't use them because they require you to route all of your data through their servers.
+
+**5. Add a pedometer + fitness tracking**
+
+Have you tried [Moves](http://moves-app.com/) for iPhone? It uses your GPS, accelerometer and intelligent algorithms to figure out how many steps you take per day. Timelines and maps show you when and where you walked the most. It's incredible. It's a pedometer on steroids.
+
+It's also a huge battery hog. Why? Because your phone's location tracking has to be on all the time (not just when you open the app, like Maps). If the next iPhone had a built-in pedometer, Moves and every other app could tap into it. Imagine the possibilities:
+
+* Weight monitoring apps could automatically track how many calories you burn everyday
+* Running apps could tell you which songs get you moving faster
+* Podcast apps could rewind a few seconds for every step you take backwards
+* Games could unlock a new level if you do 20 jumping jacks in 30 seconds
+
+This also isn't a totally crazy idea. Did you know the current iPod Nano has a built-in pedometer? So did the previous-generation iPod Nano. And the one before that. That's right, there's been a pedometer in your iPod since 2009. We're way past due for one in the iPhone.
+
+So here's the plan for iOS 7, Apple: add a pedometer, create a basic first-party fitness app to track exercise and log food intake, let third-party developers take it from there, and rake in the millions. My check's in the mail, right?
+
+### OS X
+
+**1. Create an iBooks app**
+
+It's honestly befuddling why Apple hasn't made an iBooks app for OS X. At the very least, I should be able to preview my iBooks on my computer before syncing them to my iPad. If you don't want to build a whole separate iBooks app, let me at least open ePub files in Preview.
+
+(The lack of a good free ePub reader really exacerbates this problem. Trust me, I've tried just about option out there and they're all lacking. I buy a lot of books from independent authors, who give you both ePub and PDF versions, and it's nigh-impossible to preview them to figure out which one looks better on an iPad. For now, I've settled on [BookReader](http://macbookreader.com/), but it doesn't support DRM-protected books purchased from the iTunes store.)
+
+**2. Store iOS apps in the cloud instead of on our computers**
+
+Right now, your desktop iTunes library probably includes music, movies, books, and apps. You can play the first two natively in iTunes and books should be next. But why do you still have to keep a copy of your apps in iTunes?
+
+I try and buy lots of apps. I currently have 352 apps taking up 15.26 GB in iTunes right now. That's almost 10% of my hard drive being used by files that can't even be opened on a computer.
+
+iTunes 11 brought full support for songs stored in iCloud. Your purchased songs are stored in the cloud and you have the option to stream them or download them to your library. Apps should work the same way. Simple as that.
+
+**3. Add support for all text messages to Messages.app**
+
+I personally love the desktop Messages app. When I'm working at my computer and I get an iMessage, it's fantastic to be able to reply without switching devices. But after getting used to that, it's especially annoying when I get a normal text message and have to switch to my phone. Why should my workflow be affected by whether my contacts have iPhones/iMessage or not? I should be able to reply to all text messages, iMessage-flavored or otherwise, from my computer. Point blank period.
+
+Technically speaking, I know it's not easy to make this work seamlessly. Either my phone and computer have to be linked via Bluetooth or I'd have to proxy all of my text messages through iCloud. Neither solution is perfect. But both would be better than the status quo.
+
+**4. Don't screw it up**
+
+This might be the most important "feature" of all. Desktop operating systems have been around a long time now and there's an inevitable itch to tinker with what works. But it often leads to re-conceptualizing basic OS principles and becomes a usability nightmare (I'm looking at you, Windows 8 and Ubuntu Unity).
+
+OS X has been a model of stability in comparison. Even large updates like Leopard and Lion have mostly brought under-the-hood changes, while leaving the basic operating interface the same. Let's keep it that way.
+
+Say it with me: more evolutionary updates for OS X, save the revolutionary stuff for iOS.
+
+### Apple TV
+
+Last year, I said I wanted apps on the iOS-powered Apple TV but I didn't think it was going to happen yet. I still think Apple is going to wait for their full-fledged television set with voice control and a camera before letting developers make "real" apps.
+
+Fine, no native apps. But is there anything Apple can do before the PlayStation 4 and Xbox One arrive and suck up the hearts, minds, and wallets of set-top box consumers? 
+
+For that, we can look back at Apple's own history for a clue. When Apple introduced the original iPhone in 2007, it didn't support third-party apps. So users started jailbreaking their phones and developers starting making unauthorized apps. Apple recognized the demand and relented, adding third-party app support to the iPhone.
+
+But not for the kind of apps we all know and love today. Before the "true" App Store arrived in 2008 with the iPhone 3G, Apple originally only supported "[web apps](https://www.apple.com/pr/library/2007/06/11iPhone-to-Support-Third-Party-Web-2-0-Applications.html)" on the iPhone. That is, developers could make websites masquerading as apps and users could "install" shortcuts to them on their home screens.
+
+Fast forward to today. The Apple TV doesn't support apps and doesn't have a browser. So developers can't make apps for it, right?
+
+Wrong. An enterprising developer has created [PlexConnect](http://forums.plexapp.com/index.php/topic/69410-please-read-before-posting/), an Apple TV app for Plex Media Server. How does it work, you ask? It requires you to run a small piece of software on your computer and change one setting on your Apple TV. This ingenious workaround allows the PlexConnect app to replace the Trailers app on your Apple TV using XML.
+
+Voilà, a new third-party app on your Apple TV, no jailbreaking necessary!
+
+So, what can we learn from this and how does it help lead to Cupertino-sanctioned apps for the current Apple TV? So-called web apps for the Apple TV can provide plenty of functionality and they do NOT require native API access. And users clearly like Apple's hardware, but want it to stream video from more places.
+
+What can Apple do to capitalize on this, priming the marketplace for Apple TV apps without cannibalizing marketshare for the inevitable full-fledged Apple television set?
+
+One of two things:
+
+**1) Add a browser to the Apple TV.** The Apple TV already runs iOS, so porting over Safari shouldn't be too difficult. It's something every other set-top box already has (even Microsoft finally relented and added a browser to the Xbox 360, after claiming for years that no one would want it). Then, it would work just like the original iPhone's browser: you can install a shortcut to any website on your home screen. But just as the original iPhone's web apps could tap into some native functionality (making phone calls, sending emails, displaying maps), Apple TV web apps would support streaming video and all buttons on the remote.
+
+**2) Create a web app marketplace.** If Apple doesn't want to make a browser, they could create a basic marketplace for XML-based apps like PlexConnect. Just as Apple's website indexes OS X Dashboard widgets and the iTunes Store indexes podcasts, Apple doesn't have to host the content themselves or support paid versions. Rather, they could just provide links to the free XML apps and have an easy way to add them to the Apple TV's main screen.
+
+Either option would be a huge step up from what we have now. It doesn't require Apple to create a new API. It trains users to start using the Apple TV for third-party apps. It saves the really interesting apps and games, which need more power or tap into system services like Siri and FaceTime, for the full-fledged television set whenever Apple is ready to introduce it.
+
+All in all, Apple TV web apps would be a great middle-ground between Apple, developers, and users. Let's hope we hear something about it sooner rather than later—preferably tomorrow!

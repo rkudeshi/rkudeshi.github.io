@@ -1,0 +1,44 @@
+---
+title: ORIGMD Tidal might succeed, but not for the reason artists want
+date: 2015-03-30
+old-slug: tidal
+layout: post
+---
+
+Tidal, a music streaming service Jay-Z recently bought, relaunched today with 2 major differences compared to the competition:
+
+* It's owned by artists. A lot of A-listers: Alicia Keys, Arcade Fire, Beyoncé, Calvin Harris, Coldplay, Daft Punk, Jack White, Jason Aldean, J. Cole, Jay-Z, Kanye West, Deadmau5, Madonna, Rihanna, Nicki Minaj, and Usher.
+
+* It pays more in royalties to artists.
+
+You can watch the star-studded launch event here (it starts at 29:42):
+
+https://youtu.be/T5H8TGlLus0?t=29m42s
+
+Here's where the problems start. That bit about paying musicians more? It's [not exactly true](http://www.theverge.com/2015/3/30/8314833/tidal-jay-z-streaming-music):
+
+>Before today, that premium tier was the only one TIDAL offered. This morning it introduced a $9.99 service with standard definition audio, which will pay just the standard royalty rates. The double royalties only get paid on streams for customers who sign up for the $19.99 plan, which promises higher quality audio files, but is twice the cost of a typical Spotify subscription. In other words TIDAL is bound by the same economics as its competitors, but it choose to move up the food chain, away from the free ad-supported tier that pay the least per stream.
+
+So Tidal may or may not actually pay artists more. But if they want to promote it that way, all the power to them. Unfortunately, I think that message will only resonate with a minority of customers. I think most people choosing a music streaming service care more about cost and catalogue.
+
+And that gets to the competitive advantage this service could actually succeed with: **exclusives**.
+
+Supposedly, Jay-Z is trying to get artists to launch new albums with timed exclusives on Tidal. So Kanye West's new album might be on Tidal only for the first month before being released to the other streaming services. If the other co-owners start launching new songs and albums on Tidal first, and especially if they can wrangle up enough other musicians to join them, then *maybe* Tidal can steal away some Spotify customers.
+
+But Spotify has a huge head start in a couple key areas:
+
+1. **Users**. As of [last count](http://techcrunch.com/2015/01/12/spotify-now-has-15m-paying-users-60m-overall/), Spotify had 60 million users, 15 million of those actually paying. Before today, Tidal had 17,000 total users (all paid, though).
+
+2. **Technology**. It's not easy building a successful [celestial jukebox](http://www.amazon.com/Copyrights-Highway-Gutenberg-Celestial-Jukebox/dp/0804747482)...just ask before-their-time bygones like Rhapsody, Mog, and Zune Pass. Spotify perfected the necessary tech: ubiquitous apps, algorithmic recommendations, and integrated social.
+
+3. **Payment model**. Tidal doesn't have a free tier because the new owners believe it devalues music. Like Taylor Swift, they think [music should not be a commodity](http://variety.com/2014/music/news/taylor-swift-writes-op-ed-on-the-music-biz-music-should-not-be-free-1201258856/). But do you know why Spotify succeeded where so many else failed? They let people get a free taste. So many people try Spotify for months on end before paying up for the premium tier. Freemium works.
+
+Though, detractors might say, look at what happened in streaming video. Netflix had a runaway lead, but Amazon Prime and Hulu and HBO Now and Yahoo Screen and others are catching up. And in the face of balkanization of content, consumers have been willing to pay for more than one service.
+
+But streaming music is not streaming video. The completeness of your catalogue matters. People will subscribe to the service that has the music they want. Or, more accurately, people WON'T subscribe to a service that doesn't have their favorite musicians. Until now, music streaming services have competed on a mostly even field: everyone has the same basic catalogue so they instead had to differentiate themselves on features and price. Tidal's entry is poised to upend that.
+
+As consumers, all we can do is sit back and see if Jay-Z can pull off the ultimate boss move: get Tidal's co-owners to follow Taylor Swift's lead and remove their music from Spotify entirely. Now that would really be upending the industry.
+
+---
+
+**UPDATE**: Bob Lefsetz and Ben Thompson have written much better, more astute articles on the topic [here](http://lefsetz.com/wordpress/index.php/archives/2015/03/30/tidal/) and [here](http://stratechery.com/2015/tidal-future-music/). Definitely read them.

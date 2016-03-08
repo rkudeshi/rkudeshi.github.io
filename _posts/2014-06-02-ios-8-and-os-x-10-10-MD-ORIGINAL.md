@@ -1,0 +1,127 @@
+---
+title: ORIGMD What I want in iOS 8 and OS X 10.10
+date: 2014-06-02
+old-slug: ios-8-and-os-x-10-10
+layout: post
+---
+
+We've hit a tipping point. Long-time Apple evangelist Paul Stamatiou now argues [Android is better](http://paulstamatiou.com/android-is-better/). Quite convincingly, too—even I'm thinking about switching this year. Apple can no longer coast on its past successes now that developers and consumers have arguably better options now.
+
+The only things we got from [last year's wish list](http://raviudeshi.com/2013/06/ios-7-and-osx-9) were a pedometer in the iPhone and iBooks on OS X.
+
+Still missing: better inter-app communication, Safari extensions, improved App Store rankings, Wi-Fi phone calls, a Siri that can actually compete with Google Now, and storing iOS apps in the cloud instead of on our computers. (Oh, and Apple TV apps, which I've been [going on about](http://raviudeshi.com/2012/06/ios-6) for 2 years now.)
+
+Given that, here's what I'd like to see in the next versions of iOS and OS X.
+
+### iOS
+
+**1. Ability to return apps**
+
+No one likes what the race to the bottom has done to iOS apps and games. If Apple won't add a robust trial mode, then at least match Android's ability to return apps for a refund within 15 minutes. Eliminate any hesitation from trying high-quality paid apps and games.
+
+**2. Option to 'archive' apps**
+
+Six years into the app revolution, some of us have accumulated a LOT of apps. And we're running out of space, even on the largest capacity iOS devices.
+
+Right now, you can delete apps and re-download them from the App Store, but you lose any data (e.g. game saves, user files). This also hurts app developers because once you've deleted an app, it's highly unlikely you'll ever download it again.
+
+I propose that Apple give us an option to 'archive' apps. Leave the icon on the homescreen, save any data, but delete the app itself. If I ever want to download the app again, I can just click on the icon and the OS should be able to essentially [lazy load](http://en.wikipedia.org/wiki/Lazy_loading) it.
+
+**3. Delete apps from all devices**
+
+When you download a new app/book/song, Apple will happily initiate an automatic download on your other devices. But it makes no similar functionality available for when you want to *uninstall* an app from all of your devices. And if I don't delete an app from my computer before I sync my phone, sometimes it will show up again.
+
+When I delete an app from my iPhone, give me an option to automatically do the same from my iPad and computer.
+
+**4. Centralized health management**
+
+The [rumor mill](http://9to5mac.com/2014/03/17/this-is-healthbook-apples-first-major-step-into-health-fitness-tracking/) suggests Apple is going to include a Healthbook app in iOS 8. I really hope it acts as a platform, not just an app. I want to be able to log my meals, weight, and exercise and have it available to any app I choose. With an army of modular apps tapping the central data store, you could switch apps if and when someone makes a better version.
+
+We've already seen this with the proliferation of apps that take advantage of the M7 processor (aka, the pedometer). Before iOS 7, the only apps that could monitor your step count were [Moves and Argus](http://techcrunch.com/2013/01/24/moves-app-activity-tracker/) thanks to their proprietary algorithms. With the release of iOS 7, we saw small purpose-built apps like [Pedometer++](http://david-smith.org/blog/2014/01/31/interesting-lessons-from-building-a-pedometer/) from independent developers. And now we're finally seeing a third wave, with apps only tangentially focused on step-counting like [MyFitnessPal](http://blog.myfitnesspal.com/2014/05/now-you-can-track-your-steps-in-myfitnesspal/) and [Day One](http://dayoneapp.com/2013/11/day-one-ios-7-redesign/) integrating this data.
+
+Think about the possibilities. Your doctor could ask to see your activity log to confirm a diagnosis. Your insurance company could give you a discount if you share your blood pressure readings[^1]. You and your friends could have a weight loss competition even if you use different apps.
+
+Just as new social networking apps can tap your phone's contacts to hit the ground running, hopefully a new wave of salubrious apps will be able to piggyback on Healthbook.
+
+[^1]: This is, understandably, a very slippery privacy slope. But the fact of the matter is that people are doing it already. For example, car insurance companies offer discounts if you let them [monitor your driving for a few days](http://articles.latimes.com/2010/dec/28/business/la-fi-allstate-20101228).
+
+**5. Third-party apps as default**
+
+Despite Apple's best efforts, the App Store is [NOT a meritocracy](http://pando.com/2013/04/08/will-pulling-appgratis-from-the-app-store-create-a-true-meritocracy/). There is still no way to set a different default browser or camera or email app.
+
+Humble thyself, Apple, and open up the floodgates. We already bought your phone, you don't need to force us to use your apps too.
+
+**6. Fix Notification Center**
+
+All indications are that we're going to get this in some form. Apple is going to kill the 'Missed' tab and make Notification Center simpler and more intuitive. Good. Maybe even steal a page from Android and [make notifications actionable in-line](http://www.businessinsider.com/12-ways-android-is-still-better-than-ios-7-2013-9#better-notifications-bar-5).
+
+**7. Kill Newsstand**
+
+Users hate it. Developers have [no more use for it](http://www.marco.org/2013/11/29/ios7-newsstand). Let it go.
+
+
+### OS X
+
+**1. Optimize iPhoto for the way we take photos now**
+
+Amusingly enough, Apple has only itself to blame for the phenomenon plaguing iPhoto: it made the iPhone camera too good. 
+
+Way back when, taking your camera somewhere was a special occasion. But now, we shoot scenery and selfies all day, every day.
+
+Right now, iPhoto requires you to manually import your photos into Events and Albums. The Photos app on iOS 7, on the other hand, auto-organizes your pictures into Moments and Collections based on the time and location data embedded in every snapshot.
+
+It's easy, Apple: take the schema you introduced in iOS 7, add it to iPhoto, and make it stupid-simple to import our photos. If anyone wants to group their photos manually, they can—but they shouldn't have to anymore.
+
+**2. Open the App Store to ALL apps**
+
+For all its flaws, people put up with the iOS App Store because it's the only game in town. But on a Mac, the App Store is a choice.
+
+And increasingly, developers are choosing to avoid it.
+
+Look no further than Panic, arguably the biggest and most influential Mac app developer—they're [taking their flagship app Coda out of the Mac App Store](http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/) and selling it independently. Why in the world would they give up the simple distribution, high rankings, and promotional boost from being featured in the store? Because Apple still doesn't know how to treat developers right.
+
+The world of Mac apps is beautiful and bountiful. But the Mac App Store only accepts a small selection of them. Powerful and complex apps that really dig into your computer are not allowed, ostensibly for security reasons[^2]. But when a company like Panic can't get their app to work with sandboxing restrictions—even after getting direct help from Apple, a pipe dream for just about anyone else—its time to step back and re-evaluate the situation.
+
+Desktop apps are more complex than mobile apps and Apple should aspire to have every app sold through the App Store. Heck, use the Mac App Store as a place to try out more flexible options with an eye to bringing them over to the iOS App Store. For example, set aside different sections for sandboxed ("extra secure") and non-sandboxed apps. Or even a section for verified apps that can issue updates without needing to be reviewed by Apple every time.
+
+Lead with a carrot, not a stick: get every app into the App Store and then work with developers to make them more secure over time.
+
+[^2]: For the record, I'm not just talking about sandboxing. Even before that, the App Store was really only a place for small single-purpose apps. Even something as simple as [f.lux](https://justgetflux.com/), that needs to run in the background and make small system modifications, is not permissible. Don't even get me started on OS X stalwarts like TextExpander, Launchbar, iStat Menus, Dropbox et al.
+
+**3. Fix iBooks file management**
+
+For ebook lovers, OS X 10.9 was one step forward, two steps back. Apple finally added an iBooks app and it works well for reading books on your computer. Unfortunately, they totally bungled the way the app stores your files.
+
+For comparison's sake, let's look at iTunes and iPhoto:
+
+* Whether you rip CDs, import MP3s, or buy from Apple's music store, iTunes saves your songs in the same place: in `~/Music/iTunes/iTunes Media/Music`. Go ahead, take a look...you'll see your albums neatly organized into files and folders that you can access and backup easily.
+
+* iPhoto saves everything into `~/Pictures/iPhoto Library`. If you right-click and select *Show Package Contents*, and then go into the *Masters* folder, you can see your photos organized by date. In the event of a data disaster, you can easily get your pictures out. You're carefully curated events and albums are more hit-or-miss, but at least your photos are stored in a standard, easily transferable format.
+
+So what cardinal sin does iBooks commit? It takes your industry-standard ePub files and converts them into proprietary folders with cryptic filenames[^3]. Adding insult to injury, it buries them in a hidden system folder (`~/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books`)[^4]. You can't get your files out easily and you certainly can't open them in another program without a lot of work.
+
+The other big issue with the handoff from iTunes to iBooks in Mavericks is that you can't edit the metadata anymore. If your ebooks have a misspelled title or author, or you want to change their category, you're out of luck.
+
+As a Seattle basketball fan might say, bring back our <s>Sonics</s> sane file management.
+
+[^3]: A more technical explanation: iBooks unzips your ePub files, renames the folder with a hashed title, and then does god-knows-what with the files inside. If you're wondering why they'd do this, it probably has something to do with the weird way Apple likes to manage ebook metadata: instead of modifying the standard .opf file inside an ePub (the equivalent of ID3 tag data for an MP3), iBooks files save that data in a iTunesMetadata.plist file. See [here](https://ipadtest.wordpress.com/2010/04/08/itunes-modifies-epub-ebook-files/) and [here](http://tidbits.com/article/14262) for more details.
+
+[^4]: A big issue with storing books in a system folder is that online backup services typically ignore these folders by default. So while your music and photos are stored in standard locations in your user folder and almost certainly backed up, your ebooks may not be. (If you use Backblaze, go to System Preferences and check which folders are not selected for backup—you might well be surprised.)
+
+**4. Restore colored labels**
+
+Call me a curmudgeon, but I hate how Apple implemented tags in Mavericks. Before, if you added a colored label to a file, it put the whole filename in a colored bubble (like a text message on iOS 7). Now, if you add a tag, it puts a small colored bubble way to the right of the filename. Just look at this [comparison picture.](https://discussions.apple.com/servlet/JiveServlet/showImage/2-23664791-324995/Finder-OSX10-7_10-9-Compare.jpg)
+
+The problem is the colored tag bubbles are too small and far away from the filename to be useful. The colored labels were great because they were large and easy to scan.
+
+There's no shame in calling a mulligan, Apple. Just go back to the way it was and we'll forget you ever messed it up.
+
+(Or at least put the tag circles closer to the filename.)
+
+**5. For the love of god, just don't screw it up**
+
+When Apple fired Scott 'Skeuomorph' Forstall and installed Jony Ive as head of software design, the people rejoiced. Personally, I worried: hardware design is very different from software design and Jony Ive has little experience with the latter as far as I know.
+
+Since then, iOS 7 came and went and everyone has more-or-less adapted by now. But a desktop OS is a different beast and I use my computer way more than my phone. And, let's face it, OS X is pretty perfect as-is (note that all of my above gripes have to do with certain apps, not how the OS works).
+
+Look Jony, throw a fresh coat of paint on the thing if you must. Just please, please don't screw it up.
