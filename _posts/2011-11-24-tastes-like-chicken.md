@@ -5,8 +5,6 @@ old-slug: tastes-like-chicken
 layout: post
 ---
 
-<a href="/silo/2011/tofurky.jpg"><img src="/silo/2011/tofurky-584x388.jpg" alt="" title="tofurky" width="584" height="388"/></a>
-
 I once read an article about the things that taste most like chicken.[^1] First was chicken.
 
 But second was Tofurky.
