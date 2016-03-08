@@ -52,7 +52,9 @@ Google’s Android operating system for smartphones is also seeing incredible ad
 
 Today, I face a dilemma: I willingly use and love many Google services but I am increasingly concerned about the privacy implications. So what am I going to do about it?
 
-[![](wp/wp-content/uploads/2010/08/going-google-free.png "going-google-free")](wp/wp-content/uploads/2010/08/going-google-free.png)Very simple; **I’m going to try and go for an entire week without using a single Google service**.
+<a href="/silo/2010/going-google-free.png"><img class="alignright" title="going-google-free" src="/silo/2010/going-google-free.png" alt="" width="213" height="155" /></a>
+
+Very simple; **I’m going to try and go for an entire week without using a single Google service**.
 
 My goal isn’t to make this permanent; I think Google provides many great best-of-breed services. What I do hope to do is raise awareness of the pervasiveness of Google and identify some good (and hopefully a few better) alternatives to many Google products.
 
