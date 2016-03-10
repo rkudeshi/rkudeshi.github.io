@@ -57,3 +57,11 @@ defaults:
 
 # Fix date/time generation
 timezone: America/New_York
+
+# jekyll-seo-tag stuff
+logo: ""
+# site-wide description (for Google snippet?)
+description: ""
+# for including in shared tweets?
+twitter:
+  username: rkudeshi

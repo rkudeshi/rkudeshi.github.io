@@ -27,8 +27,11 @@
       </main>
 
       <footer class="footer">
-        <p><small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.</small></p>
-        <p><small>Proudly powered by Jekyll. Last updated: {{ site.time }}</small></p>
+        <small>
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.<br/>
+        Proudly powered by Jekyll.<br/>
+        Last updated: {{ site.time }}<br/>
+        </small>
       </footer>
     </div>
 
