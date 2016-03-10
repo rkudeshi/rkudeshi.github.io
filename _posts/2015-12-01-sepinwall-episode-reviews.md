@@ -13,25 +13,25 @@ _NOTE: I tried to build this list programmatically using a combination of thetvd
 
 ### Table of Contents
 
-1. [Oz](#C01)
-2. [The Sopranos](#C02)
-3. [The Wire](#C03)
-4. [Deadwood](#C04)
-5. [The Shield](#C05)
-6. [Lost](#C06)
-7. [Buffy the Vampire Slayer](#C07)
-8. [24](#C08)
-9. [Battlestar Galactica](#C09)
-10. [Friday Night Lights](#C10)
-11. [Mad Men](#C11)
-12. [Breaking Bad](#C12)
-13. [Game of Thrones](#C13)
+1. [Oz](#oz)
+2. [The Sopranos](#the-sopranos)
+3. [The Wire](#the-wire)
+4. [Deadwood](#deadwood)
+5. [The Shield](#the-shield)
+6. [Lost](#lost)
+7. [Buffy the Vampire Slayer](#buffy-the-vampire-slayer)
+8. [24](#24)
+9. [Battlestar Galactica](#battlestar-galactica)
+10. [Friday Night Lights](#friday-night-lights)
+11. [Mad Men](#mad-men)
+12. [Breaking Bad](#breaking-bad)
+13. [Game of Thrones](#game-of-thrones)
 
-### <a name="C01"></a>Oz
+### Oz
 
 _As far as I can find, Alan hasn’t written about Oz individually._
 
-### <a name="C02"></a>The Sopranos
+### The Sopranos
 
 _Alan reviewed various Season 4-6 episodes for the Newark Star-Ledger and did a Season 1 rewatch in 2015._
 
@@ -76,7 +76,7 @@ _Alan reviewed various Season 4-6 episodes for the Newark Star-Ledger and did a 
 * The Sopranos 6×21, “Made in America”: [Sepinwall’s review](http://blog.nj.com/alltv/2007/06/sopranos_rewind_made_in_americ.html)
 * **The Sopranos: [David Chase post-finale interview](http://blog.nj.com/alltv/2007/06/david_chase_speaks.html)**
 
-### <a name="C03"></a>The Wire
+### The Wire
 
 _Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly copied from [that list](http://www.hitfix.com/whats-alan-watching/the-wire-links-for-reviews-to-every-episode). The “Newbie” reviews are for people watching the series for the first time, while the “Veteran” reviews have future spoilers for the whole series._
 
@@ -143,7 +143,7 @@ _Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly co
 * The Wire 5×10, “-30-“: [Sepinwall’s review](http://sepinwall.blogspot.com/2008/03/wire-30-farewell-to-baltimore.html)
 * **The Wire: [David Simon post-finale interview](http://sepinwall.blogspot.com/2008/03/wire-david-simon-q.html)**
 
-### <a name="C04"></a>Deadwood
+### Deadwood
 
 _Like The Wire, Alan did “Newbie” and “Veteran” reviews of Deadwood. However, after episode 208, he consolidated them into one and noted that first-time watchers should avoid the comments, where future spoilers are allowed._
 
@@ -184,7 +184,7 @@ _Like The Wire, Alan did “Newbie” and “Veteran” reviews of Deadwood. How
 * Deadwood 3×11, “The Catbird Seat”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-11-the-catbird-seat)
 * Deadwood 3×12, “Tell Him Something Pretty”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-12-tell-him-something-pretty)
 
-### <a name="C05"></a>The Shield
+### The Shield
 
 _Alan only started reviewing this show with Season 6, so nothing available before then._
 
@@ -215,7 +215,7 @@ _Alan only started reviewing this show with Season 6, so nothing available befor
 * The Shield 7×13, “Family Meeting”: [Sepinwall’s review](http://sepinwall.blogspot.com/2008/11/shield-family-meeting-goodbye-vic.html)
 * **The Shield: [Shawn Ryan post-finale interview](http://sepinwall.blogspot.com/2008/11/shield-shawn-ryan-post-finale-q.html)**
 
-### <a name="C06"></a>Lost
+### Lost
 
 _Alan reviewed Season 2 more sporadically, which is why not all episodes have reviews. After that, he covered everything though._
 
@@ -321,7 +321,7 @@ _Alan reviewed Season 2 more sporadically, which is why not all episodes have re
 * **Lost: [DVD epilogue review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-new-man-in-charge-you-guys-have-a-dvd-player)**
 * **Lost: [The Lost finale, a year later](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-the-lost-finale-a-year-later)**
 
-### <a name="C07"></a>Buffy the Vampire Slayer
+### Buffy the Vampire Slayer
 
 _I believe Alan reviewed at least some Buffy episodes for the Newark Star-Ledger (some of his quotes are cited on Wikipedia pages for individual episodes), but I can’t find the full articles anywhere. However, he and Dan Fienberg did a re-watch of season 1 on their podcast in 2012. They also discussed the series finale on the podcast in 2015, so I’ve included those links below._
 
@@ -339,7 +339,7 @@ _I believe Alan reviewed at least some Buffy episodes for the Newark Star-Ledger
 * Buffy the Vampire Slayer 1×12, “Prophecy Girl”: [Sepinwall’s review](http://www.hitfix.com/the-fien-print/listen-firewall-iceberg-podcast-no-142) (podcast)
 * Buffy the Vampire Slayer 7×22, “Chosen”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-episode-296-fear-the-walking-dead-blunt-talk-more) (podcast)
 
-### <a name="C08"></a>24
+### 24
 
 _Another show Alan reviewed very sporadically (especially in its later lesser seasons), but he did review every episode of the 24: Live Another Day revival in 2014._
 
@@ -386,7 +386,7 @@ _Another show Alan reviewed very sporadically (especially in its later lesser se
 * 24 9×10, “Day 9: 8:00 P.M. – 9:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-800-pm-900-pm-tell-me-where-your-gym-is)
 * 24 9×12, “Day 9: 10:00 P.M. – 11:00 A.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-24-live-another-day-10-pm-11-am-bye-bye-jack-bauer)
 
-### <a name="C09"></a>Battlestar Galactica
+### Battlestar Galactica
 
 _Alan’s early reviews didn’t include the episode name in the blog post title, so I matched the date of his blog posts with the show’s air dates. Please contact me if there are any mistakes!_
 
@@ -443,7 +443,7 @@ _Alan’s early reviews didn’t include the episode name in the blog post title
 * **Battlestar Galactica: [Writers Weddle & Thompson post-417 interview](http://sepinwall.blogspot.com/2009/02/battlestar-galactica-weddle-thompson.html)**
 * **Battlestar Galactica: [Ron Moore post-finale interview](http://sepinwall.blogspot.com/2009/03/battlestar-galactica-ronald-d-moore.html)**
 
-### <a name="C10"></a>Friday Night Lights
+### Friday Night Lights
 
 _This is probably my favorite show of any on this list…if you haven’t watched it, go to Netflix right now and start! It’s so good!_
 
@@ -536,7 +536,7 @@ _This is probably my favorite show of any on this list…if you haven’t watche
 * Friday Night Lights 5×13, “Always”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-always-texas-forever)
 * **Friday Night Lights: [A Look Back at FNL’s Greatness and Great Moments](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-a-look-back-at-its-greatness-and-its-greatest-moments)**
 
-### <a name="C11"></a>Mad Men
+### Mad Men
 
 _As one of the newer shows, Alan reviewed every episode as it aired. Don’t miss his additional articles at the end too._
 
@@ -657,7 +657,7 @@ _As one of the newer shows, Alan reviewed every episode as it aired. Don’t mis
 * **Mad Men: [Mad Men Rankings](http://www.hitfix.com/whats-alan-watching/the-definitive-annotated-essential-list-of-mad-men-rankings)**
 * **Mad Men: [Mad Men’s Memorable Moments](http://www.hitfix.com/galleries/mad-men-its-naughtiest-most-unethical-illegal-and-rude-moments)**
 
-### <a name="C12"></a>Breaking Bad
+### Breaking Bad
 
 _As one of the newer shows, Alan reviewed every episode as it aired._
 
@@ -735,7 +735,7 @@ _As one of the newer shows, Alan reviewed every episode as it aired._
 * **Breaking Bad: [Breaking Bad finale, revisited](http://www.hitfix.com/whats-alan-watching/the-breaking-bad-finale-revisited-was-it-all-a-dream-a-nightmare-or-just-right)**
 * **Breaking Bad: [Ozymandias review, take two](http://www.hitfix.com/whats-alan-watching/breaking-bad-ozymandias-review-take-two)**
 
-### <a name="C13"></a>Game of Thrones
+### Game of Thrones
 
 _Bonus! I compiled the links for this show because I figure it’s the next most likely Alan would’ve included in his book (and his reviews were VERY helpful for me when I caught up on the show a couple years ago)._
 
