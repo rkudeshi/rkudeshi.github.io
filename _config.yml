@@ -17,8 +17,9 @@ sass:
 
 # About/contact
 author:
+  twitter:           rkudeshi
   name:              Ravi Udeshi
-  url:               http://raviudeshi.com/contact
+  url:               http://raviudeshi.com
   email:             example@example.com
 
 # Custom vars
