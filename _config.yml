@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Ravi Udeshi
-  url:               https://twitter.com/rkudeshi
+  url:               http://raviudeshi.com/contact
   email:             example@example.com
 
 # Custom vars
@@ -38,6 +38,7 @@ gems:
 # ###########
 # ADDED CUSTOM BY RAVI
 # ##########
+
 # List of pages
 pages_list:       
   about: '/about'
@@ -45,6 +46,7 @@ pages_list:
   contact: '/contact'
   subscribe: '/subscribe'
 
+# Layout is "post" by default
 defaults:
   -
     scope:
@@ -52,3 +54,6 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+
+# Fix date/time generation
+timezone: America/New_York
