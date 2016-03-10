@@ -37,3 +37,10 @@ article h4 {
     margin: 1.5rem 0 1rem;
     font-size: 1.125rem;
 }
+
+// Footnotes
+/* Unfortunately, Kramdown doesn't give me an HR above the footnotes class */
+.footnotes {
+	margin-top: 3rem;
+	text-size: small;
+}
