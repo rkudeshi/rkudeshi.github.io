@@ -28,9 +28,9 @@
 
       <footer class="footer">
         <small>
-        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.<br/>
-        Proudly powered by Jekyll.<br/>
-        Last updated: {{ site.time | date: "%-m/%-d %a %i:%M:%S%p" }}<br/>
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">2005-{{ site.time | date: '%Y' }}</time>. All rights reserved. Powered by Jekyll.
+        <br/><br/>
+        <span style="color:#fcfcfc">{{ site.time | date: "%a %I:%M:%S" }}</span>
         </small>
         <!-- Liquid time tags: https://docs.shopify.com/themes/liquid/filters/additional-filters -->
       </footer>
