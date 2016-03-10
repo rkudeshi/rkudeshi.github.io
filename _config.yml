@@ -32,6 +32,8 @@ gems:
   - jekyll-gist
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-seo-tag
+
 
 # ###########
 # ADDED CUSTOM BY RAVI
