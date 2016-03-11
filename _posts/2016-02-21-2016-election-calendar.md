@@ -1,8 +1,13 @@
 ---
 title: Tracking when every 2016 candidate dropped out (plus complete debate & primary calendar)
 date: 2016-02-21
-old-slug: 2016-election-calendar
-layout: post
+redirect_from:
+ - /2016-election-calendar
+ - /2016-election-calendar/
+ - /2016/02/2016-election-calendar
+ - /2016/02/2016-election-calendar/
+ - /2016/02/21/2016-election-calendar
+ - /2016/02/21/2016-election-calendar/
 ---
 
 I've always been curious about when presidential candidates drop out of the race, especially relative to important election dates. Some candidates drop out after underperforming in a primary. Others call it quits after having problems raising money following a bad debate performance. Or, in 2012 for example, Tim Pawlenty dropped out after a poor showing at the Iowa Straw Poll.

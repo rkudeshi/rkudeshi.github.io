@@ -2,8 +2,11 @@
 title: I'd Pay For a Hulu Subscription If…
 date: 2010-04-26
 redirect_from:
+ - /hulu-subscription
  - /hulu-subscription/
+ - /2010/04/hulu-subscription
  - /2010/04/hulu-subscription/
+ - /2010/04/26/hulu-subscription
  - /2010/04/26/hulu-subscription/
 ---
 

@@ -1,8 +1,13 @@
 ---
 title: How the Grammys early cutoff hurt Drake & Adele and comparing it to other award show timelines
 date: 2015-12-19
-old-slug: award-show-timelines
-layout: post
+redirect_from:
+ - /award-show-timelines
+ - /award-show-timelines/
+ - /2015/12/award-show-timelines
+ - /2015/12/award-show-timelines/
+ - /2015/12/19/award-show-timelines
+ - /2015/12/19/award-show-timelines/
 ---
 
 The Grammy Awards nominees were announced recently. And, like every year, there was something that bugged me: the award show isn't until mid-February, but a lot of recent songs aren't nominated.

@@ -1,8 +1,13 @@
 ---
 title: Links to Sepinwall's episode-by-episode reviews for every show in his book, The Revolution Was Televised
 date: 2015-12-01
-old-slug: sepinwall-episode-reviews
-layout: post
+redirect_from:
+ - /sepinwall-episode-reviews
+ - /sepinwall-episode-reviews/
+ - /2015/12/sepinwall-episode-reviews
+ - /2015/12/sepinwall-episode-reviews/
+ - /2015/12/01/sepinwall-episode-reviews
+ - /2015/12/01/sepinwall-episode-reviews/
 ---
 
 My favorite TV critic, Alan Sepinwall, is releasing the updated version of his book [The Revolution Was Televised](http://amzn.to/1NZFbuo) today. I love the book, especially because it introduced me to shows I’ve since watched and absolutely loved (Friday Night Lights!).

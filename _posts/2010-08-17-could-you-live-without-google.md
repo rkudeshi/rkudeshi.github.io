@@ -1,8 +1,13 @@
 ---
 title: Could You Live Without Google for a Week?
 date: 2010-08-17
-old-slug: could-you-live-without-google
-layout: post
+redirect_from:
+ - /could-you-live-without-google
+ - /could-you-live-without-google/
+ - /2010/08/could-you-live-without-google
+ - /2010/08/could-you-live-without-google/
+ - /2010/08/17/could-you-live-without-google
+ - /2010/08/17/could-you-live-without-google/
 ---
 
 Google, in little over a decade, has become the most pervasive company on the Internet. They freely give away their best products and we have correspondingly embraced them.

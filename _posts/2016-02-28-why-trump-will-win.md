@@ -1,8 +1,13 @@
 ---
 title: Why statheads think Trump will actually win the nomination now
-date: 2016-02-28 10:00:00
-old-slug: why-trump-will-win
-layout: post
+date: 2016-02-28
+redirect_from:
+ - /why-trump-will-win
+ - /why-trump-will-win/
+ - /2016/02/why-trump-will-win
+ - /2016/02/why-trump-will-win/
+ - /2016/02/28/why-trump-will-win
+ - /2016/02/28/why-trump-will-win/
 ---
 
 Last week, after Donald Trump won the South Carolina Republican primary, I got into a heated argument with someone. He said he thought Trump would win the nomination and I vehemently disagreed. I read election news religiously, I majored in this stuff in college, I watch every new poll and development. Simply put, I argued the evidence wasn't there for Trump to keep winning.

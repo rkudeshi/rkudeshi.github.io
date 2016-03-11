@@ -1,8 +1,13 @@
 ---
 title: "Living Without Google: A Story in Tweets"
 date: 2010-08-24
-old-slug: going-google-free-twitter-history
-layout: post
+redirect_from:
+ - /going-google-free-twitter-history
+ - /going-google-free-twitter-history/
+ - /2010/08/going-google-free-twitter-history
+ - /2010/08/going-google-free-twitter-history/
+ - /2010/08/24/going-google-free-twitter-history
+ - /2010/08/24/going-google-free-twitter-history/
 ---
 
 Could you [live without Google for a week](http://www.raviudeshi.com/2010/08/could-you-live-without-google)?

@@ -1,8 +1,13 @@
 ---
 title: The biggest album sales weeks of all time
 date: 2015-12-31
-old-slug: album-sales-chart
-layout: post
+redirect_from:
+ - /album-sales-chart
+ - /album-sales-chart/
+ - /2015/12/album-sales-chart
+ - /2015/12/album-sales-chart/
+ - /2015/12/31/album-sales-chart
+ - /2015/12/31/album-sales-chart/
 ---
 
 As I mentioned at the end of my [last post](http://raviudeshi.com/2015/12/adele-25-sales), I had a hard time finding consistent first-week album sales information. Even the industry bible, HitsDailyDouble, doesn't archive old sales data (and uses slightly different numbers than most other sites). Where's the music version of BoxOfficeMojo when you need it?

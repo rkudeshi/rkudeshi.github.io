@@ -1,8 +1,13 @@
 ---
 title: How to use the Nook Simple Touch without registering
 date: 2011-11-26
-old-slug: nook-touch-skip-registration
-layout: post
+redirect_from:
+ - /nook-touch-skip-registration
+ - /nook-touch-skip-registration/
+ - /2011/11/nook-touch-skip-registration
+ - /2011/11/nook-touch-skip-registration/
+ - /2011/11/26/nook-touch-skip-registration
+ - /2011/11/26/nook-touch-skip-registration/
 ---
 
 I really, really hate companies that don't let you use their devices without registering them in some way. Even Apple isn't that evil.[^1]

@@ -1,8 +1,13 @@
 ---
 title: "The Setup: Stuff I Use"
 date: 2009-07-29
-old-slug: the-setup-stuff-i-use
-layout: post
+redirect_from:
+ - /the-setup-stuff-i-use
+ - /the-setup-stuff-i-use/
+ - /2009/07/the-setup-stuff-i-use
+ - /2009/07/the-setup-stuff-i-use/
+ - /2009/07/29/the-setup-stuff-i-use
+ - /2009/07/29/the-setup-stuff-i-use/
 ---
 
 <small>_Note: Idea borrowed from [Paul Stamatiou](http://paulstamatiou.com/stuff-i-use) with permission._</small>

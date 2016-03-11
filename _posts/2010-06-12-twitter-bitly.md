@@ -1,8 +1,13 @@
 ---
 title: Twitter Just TKO'ed Bit.ly with t.co
 date: 2010-06-12
-old-slug: twitter-bitly
-layout: post
+redirect_from:
+ - /twitter-bitly
+ - /twitter-bitly/
+ - /2010/06/twitter-bitly
+ - /2010/06/twitter-bitly/
+ - /2010/06/12/twitter-bitly
+ - /2010/06/12/twitter-bitly/
 ---
 
 <a href="/silo/2010/warpath.png"><img class="alignright" title="warpath" src="/silo/2010/warpath-159x300.png" alt="Twitter's on the warpath!" width="159" height="300" /></a>

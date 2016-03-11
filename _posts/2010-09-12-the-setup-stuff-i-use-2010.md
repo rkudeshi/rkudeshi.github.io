@@ -1,8 +1,13 @@
 ---
 title: "The Setup: Stuff I Use (2010)"
 date: 2010-09-12
-old-slug: the-setup-stuff-i-use-2010
-layout: post
+redirect_from:
+ - /the-setup-stuff-i-use-2010
+ - /the-setup-stuff-i-use-2010/
+ - /2010/09/the-setup-stuff-i-use-2010
+ - /2010/09/the-setup-stuff-i-use-2010/
+ - /2010/09/12/the-setup-stuff-i-use-2010
+ - /2010/09/12/the-setup-stuff-i-use-2010/
 ---
 
 I’m continually fascinated to learn what hardware and software people I admire use. [The Setup](http://usesthis.com) does a fantastic job interviewing prominent technologists about this exact topic. One of my favorite bloggers, [Paul Stamatiou](http://paulstamatiou.com/stuff-i-use), has created a version of this as well, which I’m blatantly stealing (with permission!).

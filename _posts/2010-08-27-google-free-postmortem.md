@@ -1,8 +1,13 @@
 ---
 title: "Going Google-Free: A Video Postmortem"
 date: 2010-08-27
-old-slug: google-free-postmortem
-layout: post
+redirect_from:
+ - /google-free-postmortem
+ - /google-free-postmortem/
+ - /2010/08/google-free-postmortem
+ - /2010/08/google-free-postmortem/
+ - /2010/08/27/google-free-postmortem
+ - /2010/08/27/google-free-postmortem/
 ---
 
 Before I started this little experiment, I was wary of just how big of a monopoly Google seemingly had on useful web services.

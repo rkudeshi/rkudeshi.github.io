@@ -1,8 +1,13 @@
 ---
 title: Automatically Detect Displays in Mac OS X using AppleScript
 date: 2011-03-16
-old-slug: automatically-detect-displays
-layout: post
+redirect_from:
+ - /automatically-detect-displays
+ - /automatically-detect-displays/
+ - /2011/03/automatically-detect-displays
+ - /2011/03/automatically-detect-displays/
+ - /2011/03/16/automatically-detect-displays
+ - /2011/03/16/automatically-detect-displays/
 ---
 
 If you’re anything like me, you need a large display to be productive (I used a 24-inch LCD when I lived at home and was later spoiled by using [Dan Tran’s](http://twitter.com/probablydan) 30-inch monstrosity when I was in Seattle).

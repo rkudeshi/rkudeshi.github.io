@@ -1,8 +1,13 @@
 ---
 title: Tastes like chicken
 date: 2011-11-24
-old-slug: tastes-like-chicken
-layout: post
+redirect_from:
+ - /tastes-like-chicken
+ - /tastes-like-chicken/
+ - /2011/11/tastes-like-chicken
+ - /2011/11/tastes-like-chicken/
+ - /2011/11/24/tastes-like-chicken
+ - /2011/11/24/tastes-like-chicken/
 ---
 
 I once read an article about the things that taste most like chicken.[^1] First was chicken.

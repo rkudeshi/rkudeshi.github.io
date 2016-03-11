@@ -1,8 +1,13 @@
 ---
 title: Steve Jobs
 date: 2011-10-05
-old-slug: steve-jobs
-layout: post
+redirect_from:
+ - /steve-jobs
+ - /steve-jobs/
+ - /2011/10/steve-jobs
+ - /2011/10/steve-jobs/
+ - /2011/10/05/steve-jobs
+ - /2011/10/05/steve-jobs/
 ---
 
 Steve Jobs passed away today. He will be remembered for revolutionizing at least four industries: music (iPod, iTunes Music Store), movies (Pixar), mobile phones (iPhone) and, of course, computers (Macintosh, iPad).
