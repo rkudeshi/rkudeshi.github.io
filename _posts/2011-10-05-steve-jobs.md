@@ -2,11 +2,8 @@
 title: Steve Jobs
 date: 2011-10-05
 redirect_from:
- - /steve-jobs
  - /steve-jobs/
- - /2011/10/steve-jobs
  - /2011/10/steve-jobs/
- - /2011/10/05/steve-jobs
  - /2011/10/05/steve-jobs/
 ---
 

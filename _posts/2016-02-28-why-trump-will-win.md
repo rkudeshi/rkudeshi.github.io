@@ -1,12 +1,9 @@
 ---
 title: Why statheads think Trump will actually win the nomination now
-date: 2016-02-28
+date: 2016-02-28 10:00:00
 redirect_from:
- - /why-trump-will-win
  - /why-trump-will-win/
- - /2016/02/why-trump-will-win
  - /2016/02/why-trump-will-win/
- - /2016/02/28/why-trump-will-win
  - /2016/02/28/why-trump-will-win/
 ---
 

@@ -2,11 +2,8 @@
 title: "Living Without Google: A Story in Tweets"
 date: 2010-08-24
 redirect_from:
- - /going-google-free-twitter-history
  - /going-google-free-twitter-history/
- - /2010/08/going-google-free-twitter-history
  - /2010/08/going-google-free-twitter-history/
- - /2010/08/24/going-google-free-twitter-history
  - /2010/08/24/going-google-free-twitter-history/
 ---
 

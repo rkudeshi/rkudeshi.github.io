@@ -2,11 +2,8 @@
 title: Automatically Detect Displays in Mac OS X using AppleScript
 date: 2011-03-16
 redirect_from:
- - /automatically-detect-displays
  - /automatically-detect-displays/
- - /2011/03/automatically-detect-displays
  - /2011/03/automatically-detect-displays/
- - /2011/03/16/automatically-detect-displays
  - /2011/03/16/automatically-detect-displays/
 ---
 

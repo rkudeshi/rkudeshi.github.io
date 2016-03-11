@@ -2,11 +2,8 @@
 title: What I want in iOS 9, OS X 10.11, and a new Apple TV
 date: 2015-06-08
 redirect_from:
- - /ios-9-osx-11-new-apple-tv
  - /ios-9-osx-11-new-apple-tv/
- - /2015/06/ios-9-osx-11-new-apple-tv
  - /2015/06/ios-9-osx-11-new-apple-tv/
- - /2015/06/08/ios-9-osx-11-new-apple-tv
  - /2015/06/08/ios-9-osx-11-new-apple-tv/
 ---
 

@@ -2,11 +2,8 @@
 title: "The Setup: Stuff I Use (2010)"
 date: 2010-09-12
 redirect_from:
- - /the-setup-stuff-i-use-2010
  - /the-setup-stuff-i-use-2010/
- - /2010/09/the-setup-stuff-i-use-2010
  - /2010/09/the-setup-stuff-i-use-2010/
- - /2010/09/12/the-setup-stuff-i-use-2010
  - /2010/09/12/the-setup-stuff-i-use-2010/
 ---
 

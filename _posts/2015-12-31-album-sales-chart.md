@@ -2,11 +2,8 @@
 title: The biggest album sales weeks of all time
 date: 2015-12-31
 redirect_from:
- - /album-sales-chart
  - /album-sales-chart/
- - /2015/12/album-sales-chart
  - /2015/12/album-sales-chart/
- - /2015/12/31/album-sales-chart
  - /2015/12/31/album-sales-chart/
 ---
 

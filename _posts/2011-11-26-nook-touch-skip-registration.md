@@ -2,11 +2,8 @@
 title: How to use the Nook Simple Touch without registering
 date: 2011-11-26
 redirect_from:
- - /nook-touch-skip-registration
  - /nook-touch-skip-registration/
- - /2011/11/nook-touch-skip-registration
  - /2011/11/nook-touch-skip-registration/
- - /2011/11/26/nook-touch-skip-registration
  - /2011/11/26/nook-touch-skip-registration/
 ---
 

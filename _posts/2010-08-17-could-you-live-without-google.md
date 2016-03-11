@@ -2,11 +2,8 @@
 title: Could You Live Without Google for a Week?
 date: 2010-08-17
 redirect_from:
- - /could-you-live-without-google
  - /could-you-live-without-google/
- - /2010/08/could-you-live-without-google
  - /2010/08/could-you-live-without-google/
- - /2010/08/17/could-you-live-without-google
  - /2010/08/17/could-you-live-without-google/
 ---
 

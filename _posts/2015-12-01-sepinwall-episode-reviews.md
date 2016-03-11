@@ -2,11 +2,8 @@
 title: Links to Sepinwall's episode-by-episode reviews for every show in his book, The Revolution Was Televised
 date: 2015-12-01
 redirect_from:
- - /sepinwall-episode-reviews
  - /sepinwall-episode-reviews/
- - /2015/12/sepinwall-episode-reviews
  - /2015/12/sepinwall-episode-reviews/
- - /2015/12/01/sepinwall-episode-reviews
  - /2015/12/01/sepinwall-episode-reviews/
 ---
 

@@ -2,11 +2,8 @@
 title: How the Grammys early cutoff hurt Drake & Adele and comparing it to other award show timelines
 date: 2015-12-19
 redirect_from:
- - /award-show-timelines
  - /award-show-timelines/
- - /2015/12/award-show-timelines
  - /2015/12/award-show-timelines/
- - /2015/12/19/award-show-timelines
  - /2015/12/19/award-show-timelines/
 ---
 

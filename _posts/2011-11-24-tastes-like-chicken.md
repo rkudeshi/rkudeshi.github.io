@@ -2,11 +2,8 @@
 title: Tastes like chicken
 date: 2011-11-24
 redirect_from:
- - /tastes-like-chicken
  - /tastes-like-chicken/
- - /2011/11/tastes-like-chicken
  - /2011/11/tastes-like-chicken/
- - /2011/11/24/tastes-like-chicken
  - /2011/11/24/tastes-like-chicken/
 ---
 

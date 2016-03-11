@@ -2,11 +2,8 @@
 title: Tracking when every 2016 candidate dropped out (plus complete debate & primary calendar)
 date: 2016-02-21
 redirect_from:
- - /2016-election-calendar
  - /2016-election-calendar/
- - /2016/02/2016-election-calendar
  - /2016/02/2016-election-calendar/
- - /2016/02/21/2016-election-calendar
  - /2016/02/21/2016-election-calendar/
 ---
 

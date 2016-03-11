@@ -2,11 +2,8 @@
 title: Twitter Just TKO'ed Bit.ly with t.co
 date: 2010-06-12
 redirect_from:
- - /twitter-bitly
  - /twitter-bitly/
- - /2010/06/twitter-bitly
  - /2010/06/twitter-bitly/
- - /2010/06/12/twitter-bitly
  - /2010/06/12/twitter-bitly/
 ---
 

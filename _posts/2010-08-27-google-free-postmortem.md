@@ -2,11 +2,8 @@
 title: "Going Google-Free: A Video Postmortem"
 date: 2010-08-27
 redirect_from:
- - /google-free-postmortem
  - /google-free-postmortem/
- - /2010/08/google-free-postmortem
  - /2010/08/google-free-postmortem/
- - /2010/08/27/google-free-postmortem
  - /2010/08/27/google-free-postmortem/
 ---
 
