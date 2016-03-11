@@ -34,6 +34,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 
 # ###########
