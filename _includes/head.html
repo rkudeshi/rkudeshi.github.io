@@ -19,7 +19,11 @@
 <script type="text/javascript" src="{{ site.baseurl }}/js/jquery-1.12.1.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/js/bigfoot.min.js"></script>
 <script type="text/javascript">
-    $.bigfoot();
+    var bigfoot = $.bigfoot(
+        {
+            actionOriginalFN: none,
+            numberResetSelector: "article"
+        }
+    );
 </script>
-
 </head>
