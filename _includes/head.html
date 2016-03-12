@@ -16,14 +16,17 @@
 
   {% seo title=false %}
 
+<!-- add bigfoot.js footnotes -->
 <script type="text/javascript" src="{{ site.baseurl }}/js/jquery-1.12.1.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/js/bigfoot.min.js"></script>
 <script type="text/javascript">
     var bigfoot = $.bigfoot(
         {
-            actionOriginalFN: none,
+            actionOriginalFN: "none",
             numberResetSelector: "article"
         }
     );
 </script>
+<!-- end bigfoot.js footnotes -->
+
 </head>
