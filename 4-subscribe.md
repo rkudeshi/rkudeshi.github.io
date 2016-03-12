@@ -6,7 +6,7 @@ title: Subscribe
 
 There are 3 ways to get updates when new content is posted:
 
-* **RSS**: The full-text RSS feed is available at <http://raviudeshi.com/feed>.
+* **RSS**: The full-text RSS feed is available [here](http://feeds.raviudeshi.com/RaviUdeshi).
 
 * **Twitter**: I tweet site updates at [@rkudeshi](http://twitter.com/rkudeshi), among other topics.
 
