@@ -15,7 +15,8 @@ title: "Ravi Udeshi"
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     <!-- <div>{{ post.content | strip_html | truncate:150 }}</div> -->
-    <div>{{ post.content }}</div>
+    <!-- <div>{{ post.content }}</div> -->
+    {{ post.content | strip_html | truncate:400 }}
 
     {% comment %}
     {{ post.content }}
