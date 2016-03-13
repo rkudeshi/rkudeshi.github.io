@@ -39,17 +39,17 @@ article h4 {
 }
 
 // Footnotes
-/* Unfortunately, Kramdown doesn't give me an HR above the footnotes class */
+/* Unfortunately, Kramdown doesn't create an HR above the footnotes class */
 .footnotes {
 	margin-top: 3rem;
 	text-size: small;
 }
 .bigfoot-footnote p {
-    /* color: #999; */
+    color: #999;
     font-size: smaller;
 }
 .bigfoot-footnote p a, .bigfoot-footnote p a:visited {
-    /* color: whitesmoke; */
+    color: whitesmoke;
 }
 
 // Footer
