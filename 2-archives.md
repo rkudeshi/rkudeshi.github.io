@@ -25,7 +25,9 @@ permalink: /archives
    <h4 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h4>
     {% assign date = currentdate %}
   {% endif %}
+   <span class="archives-list"><p>
    <span class="archives-dates">{{ post.date | date: "%b %Y" }}</span>
    <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+   </p></span>
   {% if forloop.last %}{% endif %}
 {% endfor %}
