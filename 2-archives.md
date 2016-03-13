@@ -27,6 +27,5 @@ permalink: /archives
   {% endif %}
    <span class="archives-dates">{{ post.date | date: "%b %Y" }}</span>
    <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
-   <br/>
   {% if forloop.last %}{% endif %}
 {% endfor %}
