@@ -3,8 +3,8 @@ permalink:           /:short_year/:month/:title
 
 # Setup
 title:               "Ravi Udeshi"
-tagline:             "My Jekyll blog"
-url:                 http://rkudeshi.github.io
+tagline:             ""
+url:                 http://new.raviudeshi.com
 paginate:            10
 baseurl:             ""
 
@@ -37,9 +37,11 @@ gems:
   - jekyll-feed
 
 
-# ###########
-# ADDED CUSTOM BY RAVI
-# ##########
+########################
+#                      #
+# ADDED CUSTOM BY RAVI #
+#                      #
+########################
 
 # List of pages
 pages_list:       
@@ -67,3 +69,9 @@ description: ""
 # for including in shared tweets?
 twitter:
   username: rkudeshi
+
+########################
+#                      #
+#  END CUSTOM BY RAVI  #
+#                      #
+########################
