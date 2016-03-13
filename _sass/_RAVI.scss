@@ -45,8 +45,11 @@ article h4 {
 	text-size: small;
 }
 .bigfoot-footnote p {
-    color: inherit;
-    font-size: inherit;
+    /* color: #999; */
+    font-size: smaller;
+}
+.bigfoot-footnote p a, .bigfoot-footnote p a:visited {
+    /* color: whitesmoke; */
 }
 
 // Footer
