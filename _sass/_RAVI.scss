@@ -46,7 +46,11 @@ article h4 {
 }
 .bigfoot-footnote p {
     color: #bbb;
-    font-size: smaller;
+
+    @media (min-width: $large-breakpoint) {
+        font-size: smaller;
+    }
+
 }
 .bigfoot-footnote p a, .bigfoot-footnote p a:visited {
     color: #eee;
