@@ -16,6 +16,7 @@ permalink: /archives
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
+---
 
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
@@ -28,5 +29,5 @@ permalink: /archives
    <span class="archives-dates">{{ post.date | date: "%b %Y" }}</span>
    <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
    </p>
-  {% if forloop.last %}<!-- /ul -->{% endif %}
+  {% if forloop.last %}{% endif %}
 {% endfor %}
