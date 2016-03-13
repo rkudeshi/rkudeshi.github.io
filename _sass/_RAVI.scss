@@ -76,9 +76,15 @@ hr {
 }
 
 // Archives - list of posts
+.archives-list {
+    padding-bottom: 0.4rem;
+    line-height: 1.2;
+}
 .archives-dates {
     float: left;
     margin-right: 0.5em;
+    color: #999;
+    font-size: 75%;
 }
 .archives-titles {
     display: block;
