@@ -20,10 +20,8 @@ layout: default
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          {{ post.title }}
-        </a>
+        <span><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small></span>
+        <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
       </li>
     {% endfor %}
   </ul>
