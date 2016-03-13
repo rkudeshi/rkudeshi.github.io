@@ -77,8 +77,10 @@ hr {
 
 // Archives - list of posts
 .archives-dates {
-    display: inline-block;
+    float: left;
+    margin-right: 0.5em;
 }
 .archives-titles {
-    display: inline-block;
+    display: block;
+    overflow: hidden;
 }
