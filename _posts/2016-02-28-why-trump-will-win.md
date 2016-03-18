@@ -91,20 +91,20 @@ The way I see it, the race plays out in one of three ways:
 
     But for the comeback to work, Rubio will have to do 2 more things: frame the race as solely Trump-vs-Rubio (hoping voters increasingly ignore Cruz), and perform better-than-expected on Super Tuesday. Rubio's competitive in Minnesota and Virginia and if he can actually pull off the win in both, he will rewrite this race yet *again*.
 
-2. **Trump wins the nomination and the party tries to undermine him.**:
+2. **Trump wins the nomination and the party tries to undermine him.**
 
     If Trump wins the nomination, the GOP will be fractured. Some will support him, figuring he's better than Hillary, but many won't. They'll figure it's better to focus on 2020, when Hillary would be trying to win a 4th consecutive term for the Democrats, a rarity for any party in modern politics. In fact, Mitch McConnell is already telling Senate Republicans up for re-election this year that it's OK for them to run ads against Trump.
 
     And if Trump wins the nomination, I think there's a very good chance some Republican will run as a sacrificial candidate, splitting the GOP vote and essentially throwing the election. The problem for the RNC is that all 16 of this year's other candidates are barred by the "pledge" they created last year to force every candidate to support the eventual Republican nominee. They thought it would force Trump to get behind a real Republican nominee, but now all the other candidates are going to have to get behind Trump!
-    
+
     My money on such a sacrificial candidate is Mitt Romney. He's out of politics now and wouldn't be messing up a chance at another race down the line by "defecting" from the official Republican ticket. In addition, having him on the ballot would help protect downballot candidates, giving Republican voters a chance to still vote the "party line," but not for Trump.
 
-3. **Trump wins the nomination and the party gets behind him**:
+3. **Trump wins the nomination and the party gets behind him.**
 
     Republicans know floating a 3rd-party bid would give the White House to Democrats. And when they already have the House, the Senate, the Supreme Court, and [2/3 of all state legislatures](http://www.vox.com/2014/11/6/7164287/midterm-elections-2014-state-legislatures-governors-party-control), maybe they'd rather take an unpredictable Republican than a Democrat as POTUS.[^president-trump]
 
     If Trump gets the full backing of the national party, including fundraising and endorsements, voters will notice and perhaps get in line. And as a dovish Republican who says same-sex marriage is the law of the land & Planned Parenthood does a lot of good, he might even pick off some independent- to-liberal voters.
-    
+
     Look, when the GOP race started, no one thought Donald Trump had a chance. If he wins the nomination and has the backing of the party, I'm not counting ANYTHING out of the realm of possibility any more.
 
 Of course, this is all assuming we don't get a brokered convention or Trump third-party bid. The way this election has gone, who knows what's going to happen next!
