@@ -12,6 +12,8 @@
     font-size: 0.8rem;
 }
 
+
+
 // Header & menubar
 .masthead a {
 	padding-right: 1.5rem;
@@ -25,6 +27,8 @@
 	padding-left: 30px;
 } */
 
+
+
 // Article headings
 article h3 {
     border-top: 1px solid lightgray;
@@ -37,6 +41,8 @@ article h4 {
     margin: 1.5rem 0 1rem;
     font-size: 1.125rem;
 }
+
+
 
 // Footnotes
 /* Unfortunately, Kramdown doesn't create an HR above the footnotes class */
@@ -56,10 +62,14 @@ article h4 {
     color: #eee;
 }
 
+
+
 // Footer
 .footer {
 	text-align: center;
 }
+
+
 
 // HR
 hr {
@@ -75,6 +85,8 @@ hr {
     width: 40%;
 }
 
+
+
 // Archives - list of posts
 .archives-list {
     padding-bottom: 0.4rem;
@@ -89,4 +101,31 @@ hr {
 .archives-titles {
     display: block;
     overflow: hidden;
+}
+
+
+
+// Full-width header and footer
+
+html, body {
+  overflow-x: hidden;
+}
+
+.masthead, {
+    margin-right: -9999rem;
+    margin-left: -9999rem;
+    padding-right: 9999rem;
+    padding-left: 9999rem;
+    background: #353A4A;
+}
+
+.masthead-title {
+    color: lightskyblue;
+}
+
+.footer {
+    margin: 6rem -9999rem 0rem;
+    padding: 2rem 9999rem 0rem;
+    background: rgba(0, 0, 10, 0.9);
+    border-top: 10px solid #353A4A;
 }
