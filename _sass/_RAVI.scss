@@ -81,8 +81,8 @@ hr {
     background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
     border: 0;
     height: 1px;
-    margin: 3rem auto;
-    width: 40%;
+    margin: 2.5rem auto;
+    width: 30%;
 }
 
 
@@ -122,6 +122,7 @@ html, body {
     padding-right: 9999rem;
     padding-left: 9999rem;
     background: #353A4A;
+    border-bottom: 5px solid lightskyblue;
 }
 
 .masthead-title {
@@ -132,7 +133,8 @@ html, body {
     margin: 6rem -9999rem 0rem;
     padding: 2rem 9999rem 0rem;
     background: rgba(0, 0, 10, 0.9);
-    border-top: 10px solid #353A4A;
+    /* border-top: 10px solid #353A4A; */
+    border-top: 8px solid lightskyblue;
 }
 
 .footer-meta {
