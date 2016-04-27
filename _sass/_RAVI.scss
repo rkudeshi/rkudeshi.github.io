@@ -13,7 +13,12 @@
 // Header & menubar
 
 .masthead a {
-	padding-right: 1.5rem;
+	margin-right: 1.5rem;
+}
+
+.masthead a:hover {
+    text-decoration: none;
+    border-bottom: 5px solid lightskyblue;
 }
 
 #header-menu {
