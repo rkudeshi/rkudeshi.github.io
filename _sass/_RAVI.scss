@@ -10,16 +10,6 @@
 
 
 
-// Metadata under post titles
-.post-meta, .post-meta a {
-    color: #9a9a9a;
-    text-transform: uppercase;
-    font-size: 0.8rem;
-}
-
-
-
-
 // Header & menubar
 
 .masthead a {
@@ -43,7 +33,7 @@ html, body {
   overflow-x: hidden;
 }
 
-.masthead, {
+.masthead {
     margin-right: -9999rem;
     margin-left: -9999rem;
     padding-right: 9999rem;
@@ -63,6 +53,12 @@ html, body {
     background: rgba(0, 0, 10, 0.9);
     /* border-top: 10px solid #353A4A; */
     border-top: 8px solid lightskyblue;
+    
+    /* margin: 6rem -19rem 0rem; */
+    /* padding: 2rem 19rem 0rem; */
+    /* border: 0px solid; */
+    /* border-top: 10px solid; */
+    /* border-image: linear-gradient(to right, pink, lightskyblue, pink) 1; */
 }
 
 .footer-meta {
@@ -85,6 +81,17 @@ html, body {
     font-size: 1.5rem;
     line-height: 1.125;
 }
+
+
+
+
+// Metadata under post titles
+.post-meta, .post-meta a {
+    color: #9a9a9a;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
 
 
 
