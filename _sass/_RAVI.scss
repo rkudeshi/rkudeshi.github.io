@@ -2,8 +2,13 @@
 //
 // Added by Ravi.
 
+
+
 .alignright { float: right; }
 .alignleft { float: left; }
+
+
+
 
 // Metadata under post titles
 .post-meta, .post-meta a {
@@ -14,7 +19,9 @@
 
 
 
+
 // Header & menubar
+
 .masthead a {
 	padding-right: 1.5rem;
 }
@@ -27,86 +34,6 @@
 	padding-left: 30px;
 } */
 
-
-
-// Article headings
-article h3 {
-    border-top: 1px solid lightgray;
-    border-bottom: 1px solid lightgray;
-    text-align: center;
-    padding: 5px 0 2px;
-    margin: 2rem 0rem 1rem;
-}
-article h4 {
-    margin: 1.5rem 0 1rem;
-    font-size: 1.125rem;
-}
-
-
-
-// Footnotes
-/* Unfortunately, Kramdown doesn't create an HR above the footnotes class */
-.footnotes {
-	margin-top: 3rem;
-	text-size: small;
-}
-.bigfoot-footnote p {
-    color: #bbb;
-
-    @media (min-width: $large-breakpoint) {
-        font-size: smaller;
-    }
-
-}
-.bigfoot-footnote p a, .bigfoot-footnote p a:visited {
-    color: #eee;
-}
-
-
-
-// Footer
-.footer {
-	text-align: center;
-}
-
-
-
-// HR
-hr {
-    background: none;
-    background-size: initial;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
-    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
-    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
-    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
-    border: 0;
-    height: 1px;
-    margin: 2.5rem auto;
-    width: 30%;
-}
-
-
-
-// Archives - list of posts
-.archives-list {
-    padding-bottom: 0.4rem;
-    line-height: 1.2;
-    display: table;
-}
-.archives-dates {
-    /* float: left; */
-    /* margin-right: 0.5em; */
-    color: #999;
-    font-size: 75%;
-    display: table-cell;
-    min-width: 4rem;
-    white-space: nowrap;
-}
-.archives-titles {
-    /* display: block; */
-    /* overflow: hidden; */
-    display: table-cell;
-}
 
 
 
@@ -143,8 +70,99 @@ html, body {
 
 
 
+// Footer
+
+.footer {
+    text-align: center;
+}
+
+
+
+
 // Post titles
 .page-title, .post-title, .post-title a {
     font-size: 1.5rem;
     line-height: 1.125;
+}
+
+
+
+// Article headings
+
+article h3 {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    padding: 5px 0 2px;
+    margin: 2rem 0rem 1rem;
+}
+article h4 {
+    margin: 1.5rem 0 1rem;
+    font-size: 1.125rem;
+}
+
+
+
+
+// Footnotes
+/* Unfortunately, Kramdown doesn't create an HR above the footnotes class */
+
+.footnotes {
+	margin-top: 3rem;
+	text-size: small;
+}
+.bigfoot-footnote p {
+    color: #bbb;
+
+    @media (min-width: $large-breakpoint) {
+        font-size: smaller;
+    }
+
+}
+.bigfoot-footnote p a, .bigfoot-footnote p a:visited {
+    color: #eee;
+}
+
+
+
+
+// HR
+
+hr {
+    background: none;
+    background-size: initial;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
+    background-image: linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.99), rgba(0,0,0,0));
+    border: 0;
+    height: 1px;
+    margin: 2.5rem auto;
+    width: 30%;
+}
+
+
+
+
+// Archives - list of posts
+
+.archives-list {
+    padding-bottom: 0.4rem;
+    line-height: 1.2;
+    display: table;
+}
+.archives-dates {
+    /* float: left; */
+    /* margin-right: 0.5em; */
+    color: #999;
+    font-size: 75%;
+    display: table-cell;
+    min-width: 4rem;
+    white-space: nowrap;
+}
+.archives-titles {
+    /* display: block; */
+    /* overflow: hidden; */
+    display: table-cell;
 }
