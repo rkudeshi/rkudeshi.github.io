@@ -48,23 +48,6 @@ title: "Ravi Udeshi"
   {% endif %}
 </div>
 
-
-<div class="more-posts">
-<aside class="related">
-  <h3>More posts</h3>
-  <ul class="related-posts">
-    {% for post in paginator.posts limit:20 %}
-      <li>
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time></small>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-</div>
-
 <div class="more-posts">
 <aside class="related">
   <h3>More posts</h3>
