@@ -64,3 +64,17 @@ title: "Ravi Udeshi"
   </ul>
 </aside>
 </div>
+
+<div class="more-posts">
+<aside class="related">
+  <h3>More posts</h3>
+  <ul class="related-posts">
+    {% for post in paginator.posts limit:20 %}
+      <li>
+        <span class="archives-dates"><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small></span>
+        <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+</div>
