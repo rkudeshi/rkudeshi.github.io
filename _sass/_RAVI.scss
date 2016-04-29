@@ -108,11 +108,16 @@ html, body {
 // Article headings
 
 article h3 {
-    border-top: 1px solid lightgray;
-    border-bottom: 1px solid lightgray;
+    /* border-top: 1px solid lightgray; */
+    /* border-bottom: 1px solid lightgray; */
     text-align: center;
     padding: 5px 0 2px;
     margin: 2rem 0rem 1rem;
+    color: hotpink;
+    background: aliceblue;
+    border: 2px solid lightskyblue;
+    border-left: none;
+    border-right: none;
 }
 article h4 {
     margin: 1.5rem 0 1rem;
