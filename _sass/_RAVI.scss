@@ -163,6 +163,11 @@ article h4 {
 .related h3 {
     margin-top: 1rem;
 }
+@media (max-width: 30em) {
+  .related {
+    margin: 0 -1.5rem 1rem;
+  }
+}
 
 // HR
 
