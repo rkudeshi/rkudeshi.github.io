@@ -23,8 +23,7 @@
 
 .masthead a:hover {
     text-decoration: none;
-    /* border-bottom: 5px solid lightskyblue; */
-    box-shadow: 0px 5px 10px lightskyblue;
+    border-bottom: 5px solid lightskyblue;
 }
 
 #header-menu {
@@ -50,7 +49,8 @@ html, body {
     padding-right: 9999rem;
     padding-left: 9999rem;
     background: #353A4A;
-    border-bottom: 5px solid lightskyblue;
+    /* border-bottom: 5px solid lightskyblue; */
+    box-shadow: 0px 5px 10px lightskyblue;
     margin-bottom: 2rem;
 }
 
