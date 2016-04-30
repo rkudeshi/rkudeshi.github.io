@@ -5,11 +5,11 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-meta">
-  <a href="/about">By Ravi Udeshi</a>
-  <span>&nbsp;&#8260;&nbsp;</span>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  <span>&nbsp;&#8260;&nbsp;</span>
-  <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">M&#8595;</a>
+    <a href="/about">By Ravi Udeshi</a>
+    <span>&nbsp;&#8260;&nbsp;</span>
+    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+    <span>&nbsp;&#8260;&nbsp;</span>
+    <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">M&#8595;</a>
   </span>
   {{ content }}
 </article>

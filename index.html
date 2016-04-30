@@ -6,14 +6,22 @@ title: "Ravi Udeshi"
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
+    
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-   <span class="post-meta">{{ post.date | date: "%b %d" }}</span>
-      </h1>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h1>
 
-    <div class>{{ post.content | strip_html | truncate:600 }}</div>
+    <div class="post-meta">
+      <a href="/about">By Ravi Udeshi</a>
+      <span>&nbsp;&#8260;&nbsp;</span>
+      <span>{{ page.date | date_to_string }}</span>
+      <span>&nbsp;&#8260;&nbsp;</span>
+      <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">M&#8595;</a>
+    </div>
+
+    <div class="post-content">
+    {{ post.content | strip_html | truncate:600 }}
+    </div>
 
     {% comment %}
     {{ post.content }}
