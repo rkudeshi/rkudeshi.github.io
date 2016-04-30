@@ -15,16 +15,13 @@ title: "Ravi Udeshi"
     <!-- <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> -->
 
     <span class="post-meta">
-    <a href="/about">By Ravi Udeshi</a>
-    <span>&nbsp;&#8260;&nbsp;</span>
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-    <span>&nbsp;&#8260;&nbsp;</span>
-    <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
+      <a href="/about">By Ravi Udeshi</a>
+      <span>&nbsp;&middot;&nbsp;</span>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d" }}</time>
+      <span>&nbsp;&middot;&nbsp;</span>
+      <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
     </span>
 
-
-    <!-- <div>{{ post.content | strip_html | truncate:150 }}</div> -->
-    <!-- <div>{{ post.content }}</div> -->
     <div class>{{ post.content | strip_html | truncate:600 }}</div>
 
     {% comment %}
