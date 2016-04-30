@@ -10,17 +10,9 @@ title: "Ravi Udeshi"
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-
-    <!-- <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> -->
-
-    <span class="post-meta">
-      <a href="/about">By Ravi Udeshi</a>
-      <span>&nbsp;&middot;&nbsp;</span>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d" }}</time>
-      <span>&nbsp;&middot;&nbsp;</span>
-      <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
+    <span class="post-meta">{{ post.date | date: "%b %d" }}</time>
     </span>
+    </h1>
 
     <div class>{{ post.content | strip_html | truncate:600 }}</div>
 
