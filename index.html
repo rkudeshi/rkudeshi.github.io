@@ -7,11 +7,10 @@ title: "Ravi Udeshi"
   {% for post in paginator.posts %}
   <article class="post">
     <h1 class="post-title">
+     <span class="post-meta">{{ post.date | date: "%b %d" }}</span><br/>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    <span class="post-meta">{{ post.date | date: "%b %d" }}</time>
-    </span>
     </h1>
 
     <div class>{{ post.content | strip_html | truncate:600 }}</div>
