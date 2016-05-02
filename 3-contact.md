@@ -8,7 +8,7 @@ The beauty of the web, unlike printed media, is how it facilitates wonderfully f
 
 I welcome all comments, constructive or critical. But dare I say I prefer the latter? While praise is a welcome occurrence, criticism is more important. Please do not hesitate to contact me if you disagree with something I’ve written, find a typo, or any other reason.
 
-I am available via email at ![contact-mail](http://raviudeshi.com/files/images/contact-mail.png)
+I am available via email at ![contact-mail](/silo/images/contact-mail.png)
 
 I can also be found on Twitter as [@rkudeshi](http://twitter.com/rkudeshi).
 
