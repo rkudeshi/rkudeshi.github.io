@@ -98,14 +98,16 @@ html, body {
 
 
 // Metadata under post titles
-.post-meta, .post-meta a {
+.post-meta {
     color: #9a9a9a;
     text-transform: uppercase;
     font-size: 0.8rem;
     font-weight: 600;
     margin-bottom: 0.8rem;
 }
-
+.post-meta a, .post-meta a:hover {
+    color: #9a9a9a;
+}
 
 
 
