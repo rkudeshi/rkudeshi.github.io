@@ -71,6 +71,10 @@ description: ""
 twitter:
   username: rkudeshi
 
+# Fix foootnotes on iOS
+kramdown:
+      footnote_backlink: "&#8617;&#xfe0e;"
+
 ########################
 #                      #
 #  END CUSTOM BY RAVI  #
