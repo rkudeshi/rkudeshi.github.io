@@ -10,7 +10,6 @@ baseurl:             ""
 analytics_id:        "UA-180415-1"
 
 # Assets
-#
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
@@ -22,11 +21,6 @@ author:
   name:              Ravi Udeshi
   url:               http://raviudeshi.com
   email:             ""
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
 
 # Gems
 gems:
