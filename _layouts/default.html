@@ -8,15 +8,17 @@
     <div class="container content">
       <header class="masthead">
 
-        <div class="masthead-title">
-          <h2><a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a></h2>
-        </div>
+        <h3>
+          <div class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          </div>
 
-        <div class="masthead-menu">
-          {% for page in site.pages_list %}
-          <h3><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></h3>
-          {% endfor %}
-        </div>
+          <div class="masthead-menu">
+            {% for page in site.pages_list %}
+            <a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a>
+            {% endfor %}
+          </div>
+        </h3>
 
       </header>
 
