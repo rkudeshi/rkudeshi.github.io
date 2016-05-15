@@ -17,14 +17,9 @@
 
 // Header & menubar
 
-.masthead a {
-	margin-right: 1.5rem;
+.masthead {
     color: lightskyblue;
-    font-size: 1.25rem;
-}
-.masthead a:hover {
-    text-decoration: none;
-    /* border-bottom: 5px solid lightskyblue; */
+    font-size: 1.25rem;    
 }
 .masthead-title {
     display: inline-block;
@@ -32,9 +27,16 @@
 }
 .masthead-menu {
 	display: inline-block;
-    opacity: 0.75;
+    opacity: 0.5;
     font-weight: 400;
     font-size: 90%;
+}
+.masthead a {
+    margin-right: 1.5rem;
+}
+.masthead a:hover {
+    text-decoration: none;
+    /* border-bottom: 5px solid lightskyblue; */
 }
 
 
