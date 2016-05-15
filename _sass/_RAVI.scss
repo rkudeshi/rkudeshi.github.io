@@ -44,10 +44,16 @@ body {
 .masthead a {
     color: lightskyblue;
     margin-right: 1.5rem;
-}
-.masthead a:hover {
-    text-decoration: none;
-    /* border-bottom: 5px solid lightskyblue; */
+
+    &:last-child {
+        margin-right: 0;
+    }
+
+    &:hover {
+        text-decoration: none;
+        /* border-bottom: 5px solid lightskyblue; */
+    }
+
 }
 
 
@@ -191,7 +197,7 @@ article h4 {
 @media (max-width: 30em) {
   .related {
     margin: 0 -1.5rem 1rem;
-  }
+}
 }
 
 // HR
