@@ -11,7 +11,7 @@ layout: default
     <span>&nbsp;&#8260;&nbsp;</span>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
     <span>&nbsp;&#8260;&nbsp;</span>
-    <span>{{ content | strip_html | number_of_words | plus:100 | divided_by:200 }}-min read</span>
+    <span>{{ content | strip_html | number_of_words | plus:100 | divided_by:200 }} min read</span>
     <span>&nbsp;&#8260;&nbsp;</span>
     <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">M&#8595;</a>
   </div>
