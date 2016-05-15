@@ -20,6 +20,7 @@
 .masthead a {
 	margin-right: 1.5rem;
     color: lightskyblue;
+    font-size: 1.25rem;
 }
 .masthead a:hover {
     text-decoration: none;
@@ -27,16 +28,14 @@
 }
 .masthead-title {
     display: inline-block;
+    font-weight: 600;
 }
 .masthead-menu {
 	display: inline-block;
     opacity: 0.75;
     font-weight: 400;
+    font-size: 90%;
 }
-
-/* .header-menu a {
-	padding-left: 30px;
-} */
 
 
 
