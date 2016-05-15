@@ -3,30 +3,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>
-  {{ page.title }}
+    {{ page.title }}
   </title>
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
-  <!--
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
-  -->
+  <!-- link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml" -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="http://feeds.raviudeshi.com/RaviUdeshi">
 
   {% seo title=false %}
 
-<!-- add bigfoot.js footnotes -->
-<script type="text/javascript" src="{{ site.baseurl }}/js/jquery-1.12.1.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/bigfoot.min.js"></script>
-<script type="text/javascript">
+  <!-- add bigfoot.js footnotes -->
+  <script type="text/javascript" src="{{ site.baseurl }}/js/jquery-1.12.1.min.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}/js/bigfoot.min.js"></script>
+  <script type="text/javascript">
     var bigfoot = $.bigfoot(
-        {
-            actionOriginalFN: "ignore",
-            numberResetSelector: "article"
-        }
+    {
+      actionOriginalFN: "ignore",
+      numberResetSelector: "article"
+    }
     );
-</script>
-<!-- end bigfoot.js footnotes -->
+  </script>
+  <!-- end bigfoot.js footnotes -->
 
 </head>
