@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  
+
   <h1 class="post-title">{{ page.title }}</h1>
   
   <div class="post-meta">
@@ -19,9 +19,13 @@ layout: default
   <div class="post-content">{{ content }}</div>
 
   <div class="post-meta post-bottom">
-    <span class="share-all share-face">Share</span>
-    <span class="share-all share-twit">Tweet</span>  
-    <span class="share-all share-email">Email</span>
+    
+    <span class="share-all share-face"><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Share</a></span>
+    
+    <span class="share-all share-twit"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Tweet</a></span>  
+    
+    <span class="share-all share-email"><a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" target="_blank" title="Email">Email</a></span>
+  
   </div>
 
 </article>
