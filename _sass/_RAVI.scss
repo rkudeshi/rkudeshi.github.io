@@ -99,6 +99,11 @@ html, body {
 
 .footer {
     text-align: center;
+
+    a {
+        color:inherit;
+        border-bottom: 1px dotted;
+    }
 }
 
 
