@@ -78,7 +78,7 @@ html, body {
 
 .footer {
     margin: 6rem -9999rem 0rem;
-    padding: 2rem 9999rem 0rem;
+    padding: 1.5rem 9999rem;
     background: rgba(0, 0, 10, 0.9);
     /* border-top: 10px solid #353A4A; */
     border-top: 8px solid lightskyblue;
@@ -108,6 +108,9 @@ html, body {
     a:hover {
         text-decoration: none;
     }
+}
+.footer p {
+    margin: 0.25rem;
 }
 
 
