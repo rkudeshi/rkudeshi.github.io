@@ -21,8 +21,9 @@ body {
     background-color: rgb(25, 25, 34);
 }
 .background {
-    background-color: #fff;
+    background-color: #FDFDFD;
 }
+
 
 
 
@@ -113,13 +114,17 @@ html, body {
 
 
 // Posts
-.posts .post:hover {
-    border-radius: 10px;
-    background: rgba(0,0,0,0.02);
-    box-shadow: 0px 0px 0px;
-    margin: -1rem;
-    padding: 1rem;
+.page, .post {
+    padding: 1.5rem;
+    margin: -1.5rem;
     margin-bottom: 3rem;
+    background: white;
+    border-radius: 10px;
+    margin-top: 2rem;
+    box-shadow: 0 0 5px #ddd;
+}
+.posts .post:hover {
+    box-shadow: 0px 0px 5px #bbb;
     transition: background-color 3s ease-out;
 }
 
