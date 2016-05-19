@@ -9,7 +9,7 @@ layout: default
   <div class="post-meta">
     <a href="/about">By Ravi Udeshi</a>
     <span>&nbsp;&#8260;&nbsp;</span>
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+    <a href="{{ site.url}}{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></a>
     <span>&nbsp;&#8260;&nbsp;</span>
     <span>{{ content | strip_html | number_of_words | plus:100 | divided_by:200 }} min read</span>
     <span>&nbsp;&#8260;&nbsp;</span>
