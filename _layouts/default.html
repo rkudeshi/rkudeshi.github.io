@@ -24,9 +24,15 @@
 
       <footer class="footer">
         <small>
-          <p>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.
-            <br/>
-            I &#9825; <a href="http://jekyllrb.com/">Jekyll</a> &middot; Rev {{ site.time | date: "%a" | truncate:2,'' | upcase }}{{ site.time | date: "%I%M" }} &middot; <a href="http://github.com/rkudeshi/rkudeshi.github.io/">Source</a></p>
+          <p>&copy; 2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.</p>
+          
+          <p>
+          <span>I &#9825; <a href="http://jekyllrb.com/">Jekyll</a></span>
+          <span> &middot; </span>
+          <span title="{{ site.time | date: "%c" }}">Rev {{ site.time | date: "%a" | truncate:2,'' | upcase }}{{ site.time | date: "%I%M" }}</span>
+          <span> &middot; </span>
+          <span><a href="http://github.com/rkudeshi/rkudeshi.github.io/">Source</a></span>
+          </p>
           </small>
 
           <!-- Liquid time tags: https://docs.shopify.com/themes/liquid/filters/additional-filters -->
