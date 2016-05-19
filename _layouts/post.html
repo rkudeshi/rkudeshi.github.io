@@ -28,6 +28,18 @@ layout: default
   
   </div>
 
+  {% if site.related_posts != empty %}
+  <div>
+    <h4>Related posts</h4>
+      {% for post in site.related_posts limit:5 %}
+        <div class="archives-list">
+        <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+        </div>
+      {% endfor %}
+  </div>
+  {% endif %}
+
+
 </article>
 
 {% if site.related_posts != empty %}
@@ -38,6 +50,5 @@ layout: default
       <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
       </div>
     {% endfor %}
-  </div>
 </aside>
 {% endif %}
