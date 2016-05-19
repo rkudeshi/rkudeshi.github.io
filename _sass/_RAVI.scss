@@ -142,6 +142,24 @@ html, body {
 
 
 
+// Read more links
+a.read-more {
+    padding: 0.1rem 0.75rem;
+    margin-left: 0.25rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    font-size: 75%;
+    background: whitesmoke;
+    color: #888;
+}
+a.read-more:hover {
+    background: #333;
+    color: lightskyblue;
+}
+
+
+
+
 // Post titles
 .page-title, .post-title, .post-title a {
     font-size: 1.5rem;
