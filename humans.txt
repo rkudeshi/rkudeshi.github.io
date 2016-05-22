@@ -2,9 +2,13 @@
 ---
 
 /* SITE */
+
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}
 Standards: HTML5, CSS3
-Components: {% for dependency in site.github.versions %}{{ dependency[0] }}{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}
+Components:
+{% for dependency in site.github.versions %}
+- {{ dependency[0] }}
+{% endfor %}
 
 /* CONTRIBUTORS */
 {% for contributor in site.github.contributors %}
