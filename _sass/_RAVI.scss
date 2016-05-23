@@ -136,7 +136,19 @@ html, body {
     box-shadow: 0 0 5px #ddd;
     transition: box-shadow 0.5s;
 }
-
+.page, .post, .post-content {
+    position: relative;
+    overflow: hidden;
+}
+.post-fadeout {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3rem;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(transparent, transparent);
+}
 
 
 
