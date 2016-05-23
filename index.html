@@ -14,7 +14,7 @@ title: "Ravi Udeshi"
     </h1>
 
     <div class="post-content">
-      {{ post.content | truncate:600 }}
+      {{ post.content | strip_html | truncate:600 }}
       <div class="post-fadeout"></div>
     </div>
 
