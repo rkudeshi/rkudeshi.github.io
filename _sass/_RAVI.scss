@@ -161,6 +161,12 @@ a.read-more {
     font-size: 75%;
     background: whitesmoke;
     color: #888;
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
 a.read-more:hover {
     background: #333;
