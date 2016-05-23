@@ -324,3 +324,10 @@ hr {
     /* overflow: hidden; */
     display: table-cell;
 }
+
+
+
+// Remove 300ms touch delay on iOS devices
+a {
+  touch-action: manipulation;
+}
