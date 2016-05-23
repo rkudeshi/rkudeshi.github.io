@@ -147,7 +147,7 @@ html, body {
     height: 3rem;
     width: 100%;
     text-align: center;
-    background: linear-gradient(transparent, transparent);
+    background: linear-gradient(transparent, white);
 }
 
 
@@ -155,8 +155,8 @@ html, body {
 // Read more links
 a.read-more {
     padding: 0.1rem 0.75rem;
-    margin-left: 0.25rem;
-    border-radius: 1rem;
+    /* margin-left: 0.25rem; */
+    /* border-radius: 1rem; */
     text-decoration: none;
     font-size: 75%;
     background: whitesmoke;
