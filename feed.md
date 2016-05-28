@@ -1,5 +1,5 @@
 ---
 title: RSS Feed
-permalink: /feed/
+permalink: /feed-test/
 redirect_to: http://feeds.raviudeshi.com/RaviUdeshi
 ---
