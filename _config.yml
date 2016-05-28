@@ -24,8 +24,6 @@ author:
 
 # Gems
 gems:
-  - jekyll-paginate
-  - jekyll-gist
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -68,6 +66,9 @@ twitter:
 # Fix foootnotes on iOS
 kramdown:
       footnote_backlink: "&#8617;&#xfe0e;"
+
+feed:
+  path: feed/index.xml
 
 ########################
 #                      #
