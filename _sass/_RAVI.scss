@@ -34,7 +34,10 @@ body {
 }
 .masthead a {
     color: lightskyblue;
-    margin-right: 1.5rem;
+    /* margin-right: 1.5rem; */
+    padding: 1rem 0.75rem;
+    display: inline-block;
+    transform: skew(15deg);
 
     &:hover {
         text-decoration: none;
@@ -44,12 +47,18 @@ body {
 .masthead-title {
     display: inline-block;
     font-weight: 600;
+    transform: skew(-15deg);
+    background: lightskyblue;
+}
+.masthead-title a {
+    color: white;
 }
 .masthead-menu {
 	display: inline-block;
     opacity: 0.5;
     font-weight: 400;
     font-size: 90%;
+    transform: skew(-15deg);
 }
 .masthead-menu a:last-child {
     margin-right: 0;
