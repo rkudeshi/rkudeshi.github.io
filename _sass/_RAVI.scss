@@ -43,6 +43,10 @@ body {
         text-decoration: none;
         /* border-bottom: 5px solid lightskyblue; */
     }
+
+    @media (max-width: 30em) {
+        padding: 0.7rem 0.5rem;
+    }
 }
 .masthead-title {
     display: inline-block;
