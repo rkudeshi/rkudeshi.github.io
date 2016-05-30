@@ -136,12 +136,13 @@ html, body {
     box-shadow: 0 0 5px #ddd;
     transition: box-shadow 0.5s;
 }
-.page, .post, .post-content {
+.page, .post, .post-excerpt {
     position: relative;
     overflow: hidden;
 }
-.post-content {
+.post-excerpt {
     margin-bottom: 0.25rem;
+    max-height: 25rem;
 }
 .post-fadeout {
     position: absolute;
