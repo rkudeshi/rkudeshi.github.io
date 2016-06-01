@@ -78,16 +78,11 @@ html, body {
 }
 
 .masthead {
-    margin-right: -9999rem;
-    margin-left: -9999rem;
-    padding-right: 9999rem;
-    padding-left: 9999rem;
     margin: 0 -9999rem;
     padding: 0 9999rem;
     background: #353A4A;
-    /* border-bottom: 5px solid lightskyblue; */
-    box-shadow: 0px 5px 0px lightskyblue;
     box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 0.4rem 0 lightskyblue;
     margin-bottom: 1.5rem;
 }
 
