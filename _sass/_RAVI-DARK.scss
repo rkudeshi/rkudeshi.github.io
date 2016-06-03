@@ -5,6 +5,7 @@
     /* box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3); */
     /* box-shadow: 0 0.4rem 0 lightskyblue; */
     margin-bottom: 1.5rem;
+    box-shadow: none;
  }
 
  .masthead a {
@@ -29,4 +30,14 @@ article h3 {
     border-left: none;
     border-right: none;
     background: linear-gradient(150deg, #fff 00%, #fff 10%, #111 10%, #111 20%, #222 20%, #222 30%, #333 30%, #333 40%, #444 40%, #444 50%, #555 50%, #555 60%, #666 60%, #666 70%, #777 70%, #777 80%, #888 80%, #888 90%, #fff 90%, #fff 100%);
+    border: none;
 }
+
+.masthead-title {
+    display: inline-block;
+    font-weight: 600;
+    transform: skew(-15deg);
+    background: lightskyblue;
+    background: linear-gradient(to right, #000 0%, #000 10%, #111 10%, #111 20%, #222 20%, #222 30%, #333 30%, #333 40%, #444 40%, #444 50%, #555 50%, #555 60%, #666 60%, #666 70%, #777 70%, #777 80%, #888 80%, #888 90%);
+}
+
