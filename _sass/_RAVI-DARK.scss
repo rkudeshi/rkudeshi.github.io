@@ -1,0 +1,32 @@
+.masthead {
+    margin: 0 -9999rem;
+    padding: 0 9999rem;
+    background: black;
+    /* box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3); */
+    /* box-shadow: 0 0.4rem 0 lightskyblue; */
+    margin-bottom: 1.5rem;
+ }
+
+ .masthead a {
+    color: white;
+    padding: 0.7rem 0.7rem;
+    display: inline-block;
+    transform: skew(15deg);
+}
+
+.background {
+    background-color: #FDFDFD;
+    background: linear-gradient(150deg, #000 00%, #fff 10%, #111 10%, #111 20%, #222 20%, #222 30%, #333 30%, #333 40%, #444 40%, #444 50%, #555 50%, #555 60%, #666 60%, #666 70%, #777 70%, #777 80%, #888 80%, #888 90%, #fff 90%, #fff 100%);
+}
+
+article h3 {
+    text-align: center;
+    padding: 5px 0 2px;
+    margin: 2rem 0rem 1rem;
+    color: white;
+    background: ghostwhite;
+    /* border: 2px solid lightskyblue; */
+    border-left: none;
+    border-right: none;
+    background: linear-gradient(150deg, #fff 00%, #fff 10%, #111 10%, #111 20%, #222 20%, #222 30%, #333 30%, #333 40%, #444 40%, #444 50%, #555 50%, #555 60%, #666 60%, #666 70%, #777 70%, #777 80%, #888 80%, #888 90%, #fff 90%, #fff 100%);
+}
