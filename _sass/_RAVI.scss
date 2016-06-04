@@ -33,49 +33,39 @@ body {
     font-size: 1.25rem;
     text-align: center;
 }
-.masthead a {
+.masthead-menu a, .masthead-menu a:hover {
     display: inline-block;
     color: inherit;
     padding: 0.7rem 0.7rem;
     transform: skew(15deg);
-
-    &:hover {
-        text-decoration: none;
-    }
+    text-decoration: none;
 
     @media (max-width: 30em) {
         padding: 0.7rem 0.5rem;
     }
 }
-.masthead-title {
-    display: inline-block;
-    font-weight: 600;
-    transform: skew(-15deg);
-    background: lightskyblue;
-    color: white;
-    text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
-}
-.masthead-title a {
-    color: inherit;
-}
 .masthead-menu {
-	display: inline-block;
+    display: inline-block;
     color: lightskyblue;
     opacity: 0.5;
     font-weight: 400;
     font-size: 90%;
     transform: skew(-15deg);
 }
+.masthead-menu:first-child {
+    background: lightskyblue;
+    color: white;
+    opacity: 1;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
 .masthead-menu:hover {
     opacity: 1;
 
-    &:nth-child(odd) {
-    color: orange;
-    }
-    
-    &:nth-child(even) {
-    color: pink;
-    }
+    &:nth-child(2) { color: orange; }
+    &:nth-child(3) { color: pink; }
+    &:nth-child(4) { color: orchid; }
+    &:nth-child(5) { color: salmon; }
 }
 
 
