@@ -60,12 +60,12 @@ body {
     text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 .masthead-menu {
-    opacity: 1;
+    opacity: 0.8;
 
-    &:nth-child(2) { color: orange; }
-    &:nth-child(3) { color: pink; }
-    &:nth-child(4) { color: orchid; }
-    &:nth-child(5) { color: salmon; }
+    &:nth-child(2) { color: pink; }
+    &:nth-child(3) { color: orchid; }
+    &:nth-child(4) { color: salmon; }
+    &:nth-child(5) { color: orange; }
 }
 
 
