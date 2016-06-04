@@ -44,8 +44,8 @@ body {
     bottom: 0;
     height: 100%;
     width: 3rem;
-    background: linear-gradient(to right,rgba(255,255,255,0), #353A4A);
-    /* pointer-events: none; */
+    background: linear-gradient(to right,rgba(53, 58, 74,0), #353A4A);
+    pointer-events: none;
 }
 .masthead-menu-item a, .masthead-menu-item a:hover {
     display: inline-block;
