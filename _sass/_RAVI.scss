@@ -30,7 +30,8 @@ body {
 // Header & menubar
 
 .masthead {
-    font-size: 1.25rem;    
+    font-size: 1.25rem;
+    text-align: center;
 }
 .masthead a {
     color: lightskyblue;
@@ -78,8 +79,10 @@ html, body {
 }
 
 .masthead {
-    margin: 0 -9999rem;
-    padding: 0 9999rem;
+    /* margin: 0 -9999rem; */
+    /* padding: 0 9999rem; */
+    margin: 0;
+    padding: 0;
     background: #353A4A;
     box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3);
     box-shadow: 0 0.4rem 0 lightskyblue;
@@ -87,8 +90,10 @@ html, body {
 }
 
 .footer {
-    margin: 3rem -9999rem 0rem;
-    padding: 1.5rem 9999rem;
+    /* margin: 3rem -9999rem 0rem; */
+    /* padding: 1.5rem 9999rem; */
+    margin: 3rem 0 0;
+    padding: 1.5rem 0;
     background: rgba(0, 0, 10, 0.9);
     /* border-top: 10px solid #353A4A; */
     border-top: 8px solid lightskyblue;
