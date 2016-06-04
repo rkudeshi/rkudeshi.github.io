@@ -34,15 +34,13 @@ body {
     text-align: center;
 }
 .masthead a {
-    color: inherit;
-    /* margin-right: 1.5rem; */
-    padding: 0.7rem 0.7rem;
     display: inline-block;
+    color: inherit;
+    padding: 0.7rem 0.7rem;
     transform: skew(15deg);
 
     &:hover {
         text-decoration: none;
-        /* border-bottom: 5px solid lightskyblue; */
     }
 
     @media (max-width: 30em) {
