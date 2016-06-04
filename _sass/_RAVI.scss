@@ -90,7 +90,7 @@ html, body {
     background: #353A4A;
     box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3);
     box-shadow: 0 0.4rem 0 lightskyblue;
-    margin-bottom: 1.5rem;
+    /* margin-bottom: 1.5rem; */
     text-align: center;
     overflow-x: scroll;
     white-space: nowrap;
@@ -99,7 +99,8 @@ html, body {
 .footer {
     /* margin: 3rem -9999rem 0rem; */
     /* padding: 1.5rem 9999rem; */
-    margin: 3rem 0 0;
+    /* margin: 3rem 0 0; */
+    margin: 0rem 0 0;
     padding: 1.5rem 0;
     background: rgba(0, 0, 10, 0.9);
     /* border-top: 10px solid #353A4A; */
