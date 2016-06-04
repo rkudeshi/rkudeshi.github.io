@@ -66,6 +66,9 @@ body {
     font-size: 90%;
     transform: skew(-15deg);
 }
+.masthead-menu:hover {
+    opacity: 1;
+}
 .masthead-menu a:last-child {
     margin-right: 0;
 }
