@@ -32,8 +32,22 @@ body {
 .masthead {
     font-size: 1.25rem;
     text-align: center;
+    position: relative;
 }
-.masthead-menu a, .masthead-menu a:hover {
+.masthead-menu {
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.masthead-fadeout {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 3rem;
+    background: linear-gradient(to right,rgba(255,255,255,0), #353A4A);
+    /* pointer-events: none; */
+}
+.masthead-menu-item a, .masthead-menu-item a:hover {
     display: inline-block;
     color: inherit;
     padding: 0.7rem 0.7rem;
@@ -44,7 +58,7 @@ body {
         padding: 0.7rem 0.5rem;
     }
 }
-.masthead-menu {
+.masthead-menu-item {
     display: inline-block;
     color: lightskyblue;
     opacity: 0.5;
@@ -52,14 +66,14 @@ body {
     font-size: 90%;
     transform: skew(-15deg);
 }
-.masthead-menu:first-child {
+.masthead-menu-item:first-child {
     background: lightskyblue;
     color: white;
     opacity: 1;
     font-weight: 600;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
-.masthead-menu:hover {
+.masthead-menu-item:hover {
     opacity: 0.8;
 
     &:nth-child(1) { opacity: 1; }
@@ -92,8 +106,6 @@ html, body {
     box-shadow: 0 0.4rem 0 lightskyblue;
     /* margin-bottom: 1.5rem; */
     text-align: center;
-    overflow-x: scroll;
-    white-space: nowrap;
 }
 
 .footer {

@@ -7,14 +7,12 @@
   <div class="background">
 
     <header class="masthead">
-      <div class="masthead-menu">
-        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-      </div>
+    <div class="masthead-menu">
+      <div class="masthead-menu-item"><a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a></div>
       {% for page in site.pages_list %}
-      <div class="masthead-menu">
-        <a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a>
-      </div>
+      <div class="masthead-menu-item"><a href="{{ site.baseurl }}{{ page[1] }}">{{ page[0] }}</a></div>
       {% endfor %}
+    </div>
     </header>
 
     <div class="container content">
