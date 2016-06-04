@@ -43,7 +43,7 @@ body {
     right: 0;
     bottom: 0;
     height: 100%;
-    width: 3rem;
+    width: 5rem;
     background: linear-gradient(to right,rgba(53, 58, 74,0), #353A4A);
     pointer-events: none;
 }
@@ -72,6 +72,9 @@ body {
     opacity: 1;
     font-weight: 600;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+.masthead-menu-item:last-child {
+    margin-right: 1rem;
 }
 .masthead-menu-item:hover {
     opacity: 0.8;
