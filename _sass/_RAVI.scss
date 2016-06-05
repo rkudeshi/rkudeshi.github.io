@@ -72,9 +72,10 @@ body {
     opacity: 1;
     font-weight: 600;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+    margin-left: 1rem;
 }
 .masthead-menu-item:last-child {
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
 .masthead-menu-item:hover {
     opacity: 0.8;
