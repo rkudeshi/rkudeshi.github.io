@@ -24,7 +24,7 @@ layout: default
     
     <span class="share-all share-twit"><a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&url={{ site.url }}{{ page.url }}&via={{ site.author.twitter }}&related={{ site.author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Tweet</a></span>
     
-    <span class="share-all share-email"><a href="mailto:?subject={{ page.title | cgi_escape | replace:'+','%20' }}&body={{ page.title | cgi_escape | replace:'+','%20' }}%0D%0A{{ site.url }}{{ page.url }}" target="_blank" title="Share by Email">Email</a></span>
+    <span class="share-all share-email"><a href="mailto:?subject={{ page.title | cgi_escape | replace:'+','%20' }}&body={{ 'Hey, read this post on raviudeshi.com!' | cgi_escape | replace:'+','%20' }}%0D%0A{{ page.title | cgi_escape | replace:'+','%20' }}%0D%0A{{ site.url }}{{ page.url }}" target="_blank" title="Share by Email">Email</a></span>
   
   </div>
 
