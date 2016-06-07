@@ -9,11 +9,15 @@ title: Test
 
 <ul>
 
-<li>Normal: <a href="mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}</a></li>
+<li>Normal: <a href="mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title }}</a></li>
 
-<li>URI: <a href="mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank</a></li>
+<li>URI: <a href="mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | uri_escape }}</a></li>
 
-<li>CGI: <a href="mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}</a></li>
+<li>CGI: <a href="mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape }}</a></li>
+
+<li>URI>CGI: <a href="mailto:?subject={{ post.title | uri_escape | cgi_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | uri_escape | cgi_escape }}</a></li>
+
+<li>CGI>URI: <a href="mailto:?subject={{ post.title | cgi_escape | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape | uri_escape }}</a></li>
 
 </ul>
 
