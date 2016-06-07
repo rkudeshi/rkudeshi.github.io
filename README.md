@@ -1,5 +1,5 @@
-# rkudeshi.github.io
+# new.raviudeshi.com
 
-Using this site to learn about Jekyll and GitHub Pages, and hopefuly prepare for a migration of my main site to Jekyll.
+Hi there! If you've found this page, you're looking at the source for my Jekyll-based blog.
 
-Using Poole framework for now.
+http://new.raviudeshi.com
