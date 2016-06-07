@@ -19,6 +19,8 @@ title: Test
 
 <li>CGI>URI: <a href="mailto:?subject={{ post.title | cgi_escape | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape | uri_escape }}</a></li>
 
+<li>Final?: <a href="mailto:?subject={{ post.title | cgi_escape | replace:'+','%20' }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape | replace:'+','%20' }}</a></li>
+
 </ul>
 
 </li>
