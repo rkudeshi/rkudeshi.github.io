@@ -3,9 +3,20 @@ layout: page
 title: Test
 ---
 
+<ul>
 {% for post in site.posts %}
-Normal: <mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}" target="_blank">
-URI Escape: <mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">
-CGI Escape: <mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">
-<br/><br/>
+<li>{{ post.title }}
+
+<ul>
+
+<li>Normal: <a href="mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title }}&body={{ site.url }}{{ post.url }}</a></li>
+
+<li>URI: <a href="mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | uri_escape }}&body={{ site.url }}{{ post.url }}" target="_blank</a></li>
+
+<li>CGI: <a href="mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}" target="_blank">mailto:?subject={{ post.title | cgi_escape }}&body={{ site.url }}{{ post.url }}</a></li>
+
+</ul>
+
+</li>
 {% endfor %}
+</ul>
