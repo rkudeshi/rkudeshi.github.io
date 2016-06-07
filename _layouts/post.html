@@ -22,9 +22,9 @@ layout: default
     
     <span class="share-all share-face"><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Share</a></span>
     
-    <span class="share-all share-twit"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.author.twitter }}&related={{ site.author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Tweet</a></span>
+    <span class="share-all share-twit"><a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ page.url }}&via={{ site.author.twitter }}&related={{ site.author.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Tweet</a></span>
     
-    <span class="share-all share-email"><a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" target="_blank" title="Share by Email">Email</a></span>
+    <span class="share-all share-email"><a href="mailto:?subject={{ page.title | uri_escape }}&body={{ site.url }}{{ page.url }}" target="_blank" title="Share by Email">Email</a></span>
   
   </div>
 
