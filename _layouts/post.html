@@ -31,7 +31,8 @@ layout: default
   {% if site.related_posts != empty %}
   <div>
     <h4>Related posts</h4>
-      {% for post in site.posts | sample:5 %}
+      {% assign randomposts = site.posts | sample:5 %}
+      {% for post in randomposts %}
         <div class="archives-list">
         <span class="archives-titles"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
         </div>
