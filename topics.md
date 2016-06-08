@@ -59,12 +59,9 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	{% for post in site.posts %}
 	{% if post.tags contains tag %}
 	<li>
-		<a href="{{ post.url }}">
-			{{ post.title }}
-			<small>({{ post.date | date_to_string }})</small>
-		</a>
+		<a href="{{ post.url }}">{{ post.title }}</a>
 		{% for tag in post.tags %}
-		<small><small><a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a></small></small>
+		<small><small><a class="tag" href="#{{ tag | slugify }}">[{{ tag }}]</a></small></small>
 		{% endfor %}
 	</li>
 	{% endif %}
