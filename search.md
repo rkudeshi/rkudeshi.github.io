@@ -1,3 +1,8 @@
+---
+layout: page
+title: Search
+---
+
 <div class="search-box">
 	<form method="get" id="search" action="http://duckduckgo.com/">
 		<input type="hidden" name="sites" value="raviudeshi.com">
