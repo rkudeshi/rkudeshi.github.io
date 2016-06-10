@@ -82,7 +82,8 @@ body {
 .masthead-menu-item:last-child {
     margin-right: 1rem;
 }
-.masthead-menu-item:hover {
+/* .masthead-menu-item:hover { */
+.masthead-menu-item {
     opacity: 0.8;
 
     &:nth-child(1) { opacity: 1; }
