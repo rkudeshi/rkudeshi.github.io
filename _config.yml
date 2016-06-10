@@ -4,7 +4,7 @@ permalink:           /:short_year/:month/:title
 # Setup
 title:               "Ravi Udeshi"
 tagline:             ""
-url:                 http://new.raviudeshi.com
+url:                 http://raviudeshi.com
 paginate:            10
 baseurl:             ""
 analytics_id:        "UA-180415-1"
