@@ -7,7 +7,8 @@ redirect_from:
  - /2015/12/01/sepinwall-episode-reviews/
 ---
 
-**UPDATE (2016-06-09): Just launched a new version of my site. If you had this page bookmarked and prefer the old version, it'll be up at [http://old.raviudeshi.com](http://old.raviudeshi.com/2015/12/sepinwall-episode-reviews) for a while. Thanks!**
+**UPDATE (2016-06-09):** Just launched a new version of my site. If you had this page bookmarked and prefer the old version, it'll be up at [http://old.raviudeshi.com](http://old.raviudeshi.com/2015/12/sepinwall-episode-reviews) for a while. Thanks!
+{: .message }
 
 My favorite TV critic, Alan Sepinwall, is releasing the updated version of his book [The Revolution Was Televised](http://amzn.to/1NZFbuo) today. I love the book, especially because it introduced me to shows I’ve since watched and absolutely loved (Friday Night Lights!).
 
