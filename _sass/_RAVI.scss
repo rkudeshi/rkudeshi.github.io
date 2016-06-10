@@ -35,8 +35,11 @@ body {
     position: relative;
 }
 .masthead-menu {
-    overflow-x: scroll;
-    white-space: nowrap;
+    
+    @media (max-width: 500px) {
+        overflow-x: scroll;
+        white-space: nowrap;
+    }
 }
 .masthead-fadeout {
     position: absolute;
@@ -44,8 +47,11 @@ body {
     bottom: 0;
     height: 100%;
     width: 5rem;
-    background: linear-gradient(to right,rgba(53, 58, 74,0), #353A4A);
     pointer-events: none;
+
+    @media (max-width: 500px) {
+        background: linear-gradient(to right,rgba(53, 58, 74,0), #353A4A);
+    }
 }
 .masthead-menu-item a, .masthead-menu-item a:hover {
     display: inline-block;
