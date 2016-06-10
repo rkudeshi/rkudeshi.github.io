@@ -7,6 +7,8 @@ redirect_from:
  - /2015/12/01/sepinwall-episode-reviews/
 ---
 
+**UPDATE (2016-06-09): Just launched a new version of my site. If you had this page bookmarked and prefer the old version, it'll be up at [http://old.raviudeshi.com](http://old.raviudeshi.com/2015/12/sepinwall-episode-reviews) for a while. Thanks!**
+
 My favorite TV critic, Alan Sepinwall, is releasing the updated version of his book [The Revolution Was Televised](http://amzn.to/1NZFbuo) today. I love the book, especially because it introduced me to shows I’ve since watched and absolutely loved (Friday Night Lights!).
 
 As I catch up on some of the other shows in the book, as I do with every episode of good TV I watch, I immediately go to find Alan’s episode-by-episode reviews, which add lots of detail and insight. To make it easier for myself, I decide to compile all the links in one place for each episodic review for all the shows covered in his book (and one more!). Hope this helps anyone else that likes to read Alan’s reviews!
