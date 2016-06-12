@@ -172,7 +172,13 @@ html, body {
     border: 1px solid;
     margin: 0.75rem auto 0;
 }
-
+.footer input {
+    background: transparent;
+    color: inherit;
+    outline: none;
+    padding: 0.25rem;
+    border: 1px solid #333;
+}
 
 
 // Sticky footer
