@@ -2,6 +2,7 @@
 layout: page
 title: Archives
 permalink: /archives
+redirect_from: /archive
 ---
 
 {% for post in site.posts %}
