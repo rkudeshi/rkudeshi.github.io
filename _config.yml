@@ -24,6 +24,7 @@ author:
 
 # Gems
 gems:
+  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
