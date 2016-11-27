@@ -1,4 +1,6 @@
 _site
+_drafts
 .sass_cache
 gitignore
 .DS_Store
+*.scssc
