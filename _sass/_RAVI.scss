@@ -441,3 +441,29 @@ hr {
 a {
   touch-action: manipulation;
 }
+
+// Make code blocks scrollable (horizontal)
+.highlight {
+    overflow: scroll;
+    max-height: 1000px;
+}
+
+// Make tables smaller
+
+td, th { 
+    font-size: smaller;
+    border-left: none;
+    border-right: none;
+}
+
+table {
+    border-style: hidden;
+}
+
+tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
+    background-color: #fefefe;
+}
+
+tbody tr:nth-child(even) td, tbody tr:nth-child(even) th {
+    /*background-color: #fefefe;*/
+}
