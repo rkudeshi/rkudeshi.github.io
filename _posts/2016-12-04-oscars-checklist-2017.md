@@ -1058,11 +1058,11 @@ All in all, it's a pretty interesting list. The 1st-ranked movie has more than t
 
 Looks like I have a lot of catching up to do before February!
 
-|-----|---------------|-------------------------------------------------|-------------------------------------------------|
-| Num |     Points    |                      Title                      |                     Release                     |
-|-----|---------------|-------------------------------------------------|-------------------------------------------------|
+|-----|--------------|-------------------------------------------------|-------------------------------------------------|
+| Num |    Points    |                      Title                      |                     Release                     |
+|-----|--------------|-------------------------------------------------|-------------------------------------------------|
 |  1. | *504.46 pts* | **La La Land**                                  | <span style="color:limegreen">2016-12-16</span> |
-|  2. | *230.70 pts* | **Jackie**                                      | <span style="color:limegreen">2016-12-09</span>      |
+|  2. | *230.70 pts* | **Jackie**                                      | <span style="color:limegreen">2016-12-09</span> |
 |  3. | *194.60 pts* | **Manchester by the Sea**                       | <span style="color:gold">2016-12-02</span>      |
 |  4. | *165.78 pts* | **Fences**                                      | <span style="color:limegreen">2016-12-25</span> |
 |  5. | *152.67 pts* | **Silence**                                     | <span style="color:limegreen">2016-12-23</span> |
@@ -1070,55 +1070,55 @@ Looks like I have a lot of catching up to do before February!
 |  7. | *103.18 pts* | **Hacksaw Ridge**                               | <span style="color:gold">2016-11-04</span>      |
 |  8. | *75.50 pts*  | **Arrival**                                     | <span style="color:gold">2016-11-11</span>      |
 |  9. | *71.54 pts*  | **Rogue One: A Star Wars Story**                | <span style="color:limegreen">2016-12-16</span> |
-| 10. | *57.51 pts*  | **The Jungle Book**                             | <span style="color:crimson">2016-04-15</span> |
-| 11. | *55.33 pts*  | **Zootopia**                                    | <span style="color:crimson">2016-03-04</span> |
+| 10. | *57.51 pts*  | **The Jungle Book**                             | <span style="color:crimson">2016-04-15</span>   |
+| 11. | *55.33 pts*  | **Zootopia**                                    | <span style="color:crimson">2016-03-04</span>   |
 | 12. | *51.49 pts*  | **Lion**                                        | <span style="color:limegreen">2016-11-25</span> |
 | 13. | *50.73 pts*  | **Loving**                                      | <span style="color:gold">2016-11-04</span>      |
 | 14. | *49.29 pts*  | **Fantastic Beasts and Where to Find Them**     | <span style="color:gold">2016-11-18</span>      |
 | 15. | *39.33 pts*  | **Doctor Strange**                              | <span style="color:gold">2016-11-04</span>      |
 | 16. | *34.07 pts*  | **Nocturnal Animals**                           | <span style="color:gold">2016-11-18</span>      |
 | 17. | *30.43 pts*  | **Hidden Figures**                              | <span style="color:limegreen">2017-01-06</span> |
-| 18. | *28.11 pts*  | **Florence Foster Jenkins**                     | <span style="color:crimson">2016-08-12</span> |
+| 18. | *28.11 pts*  | **Florence Foster Jenkins**                     | <span style="color:crimson">2016-08-12</span>   |
 | 19. | *26.29 pts*  | **20th Century Women**                          | <span style="color:limegreen">2016-12-25</span> |
-| 20. | *23.38 pts*  | **Hell or High Water**                          | <span style="color:crimson">2016-08-12</span> |
-| 21. | *20.71 pts*  | **Sully**                                       | <span style="color:crimson">2016-11-09</span> |
-| 22. | *20.00 pts*  | **Kubo and the Two Strings**                    | <span style="color:crimson">2016-08-19</span> |
+| 20. | *23.38 pts*  | **Hell or High Water**                          | <span style="color:crimson">2016-08-12</span>   |
+| 21. | *20.71 pts*  | **Sully**                                       | <span style="color:crimson">2016-11-09</span>   |
+| 22. | *20.00 pts*  | **Kubo and the Two Strings**                    | <span style="color:crimson">2016-08-19</span>   |
 | 23. | *18.37 pts*  | **Live By Night**                               | <span style="color:limegreen">2017-01-13</span> |
 | 24. | *15.38 pts*  | **Moana**                                       | <span style="color:gold">2016-11-23</span>      |
-| 25. | *13.85 pts*  | **Deepwater Horizon**                           | <span style="color:crimson">2016-09-30</span> |
-| 26. | *13.50 pts*  | **Finding Dory**                                | <span style="color:crimson">2016-06-17</span> |
+| 25. | *13.85 pts*  | **Deepwater Horizon**                           | <span style="color:crimson">2016-09-30</span>   |
+| 26. | *13.50 pts*  | **Finding Dory**                                | <span style="color:crimson">2016-06-17</span>   |
 | 27. | *12.28 pts*  | **A Monster Calls**                             | <span style="color:limegreen">2016-12-23</span> |
 | 28. | *11.17 pts*  | **Rules Don't Apply**                           | <span style="color:gold">2016-11-23</span>      |
 | 29. | *9.09 pts*   | **The Red Turtle**                              | <span style="color:limegreen">2017-01-20</span> |
 | 30. | *7.14 pts*   | **Sing**                                        | <span style="color:limegreen">2016-12-21</span> |
-| 31. | *7.00 pts*   | **Miss Peregrine's Home for Peculiar Children** | <span style="color:crimson">2016-09-30</span> |
-| 32. | *5.50 pts*   | **Captain Fantastic**                           | <span style="color:crimson">2016-07-08</span> |
+| 31. | *7.00 pts*   | **Miss Peregrine's Home for Peculiar Children** | <span style="color:crimson">2016-09-30</span>   |
+| 32. | *5.50 pts*   | **Captain Fantastic**                           | <span style="color:crimson">2016-07-08</span>   |
 | 33. | *5.00 pts*   | **Passengers**                                  | <span style="color:limegreen">2016-12-21</span> |
-| 34. | *4.57 pts*   | **Deadpool**                                    | <span style="color:crimson">2016-02-12</span> |
-| 35. | *4.25 pts*   | **Billy Lynn's Long Halftime Walk**             | <span style="color:crimson">2016-11-18</span> |
-| 36. | *4.00 pts*   | **Captain America: Civil War**                  | <span style="color:crimson">2016-05-06</span> |
-| 37. | *3.57 pts*   | **Sausage Party**                               | <span style="color:crimson">2016-08-12</span> |
+| 34. | *4.57 pts*   | **Deadpool**                                    | <span style="color:crimson">2016-02-12</span>   |
+| 35. | *4.25 pts*   | **Billy Lynn's Long Halftime Walk**             | <span style="color:crimson">2016-11-18</span>   |
+| 36. | *4.00 pts*   | **Captain America: Civil War**                  | <span style="color:crimson">2016-05-06</span>   |
+| 37. | *3.57 pts*   | **Sausage Party**                               | <span style="color:crimson">2016-08-12</span>   |
 | 38. | *3.57 pts*   | **Allied**                                      | <span style="color:gold">2016-11-23</span>      |
-| 39. | *3.04 pts*   | **Hail, Caesar!**                               | <span style="color:crimson">2016-02-05</span> |
-| 40. | *3.00 pts*   | **The Birth of a Nation**                       | <span style="color:crimson">2016-10-07</span> |
-| 41. | *2.77 pts*   | **Love and Friendship**                         | <span style="color:crimson">2016-05-13</span> |
+| 39. | *3.04 pts*   | **Hail, Caesar!**                               | <span style="color:crimson">2016-02-05</span>   |
+| 40. | *3.00 pts*   | **The Birth of a Nation**                       | <span style="color:crimson">2016-10-07</span>   |
+| 41. | *2.77 pts*   | **Love and Friendship**                         | <span style="color:crimson">2016-05-13</span>   |
 | 42. | *2.52 pts*   | **The Founder**                                 | <span style="color:limegreen">2016-12-16</span> |
-| 43. | *2.52 pts*   | **Star Trek Beyond**                            | <span style="color:crimson">2016-07-22</span> |
+| 43. | *2.52 pts*   | **Star Trek Beyond**                            | <span style="color:crimson">2016-07-22</span>   |
 | 44. | *2.52 pts*   | **Elle**                                        | <span style="color:gold">2016-11-11</span>      |
 | 45. | *2.50 pts*   | **The Little Prince**                           | <span style="color:gold">2016-08-05</span>      |
 | 46. | *2.50 pts*   | **Miss Sloane**                                 | <span style="color:limegreen">2016-12-09</span> |
-| 47. | *1.52 pts*   | **Denial**                                      | <span style="color:crimson">2016-09-30</span> |
+| 47. | *1.52 pts*   | **Denial**                                      | <span style="color:crimson">2016-09-30</span>   |
 | 48. | *1.25 pts*   | **Trolls**                                      | <span style="color:gold">2016-11-04</span>      |
-| 49. | *1.00 pts*   | **Warcraft**                                    | <span style="color:crimson">2016-06-10</span> |
-| 50. | *1.00 pts*   | **The Lobster**                                 | <span style="color:crimson">2016-05-13</span> |
-| 51. | *1.00 pts*   | **The Hollars**                                 | <span style="color:crimson">2016-08-26</span> |
-| 52. | *1.00 pts*   | **The BFG**                                     | <span style="color:crimson">2016-07-01</span> |
-| 53. | *1.00 pts*   | **Snowden**                                     | <span style="color:crimson">2016-09-16</span> |
-| 54. | *1.00 pts*   | **Queen of Katwe**                              | <span style="color:crimson">2016-09-23</span> |
+| 49. | *1.00 pts*   | **Warcraft**                                    | <span style="color:crimson">2016-06-10</span>   |
+| 50. | *1.00 pts*   | **The Lobster**                                 | <span style="color:crimson">2016-05-13</span>   |
+| 51. | *1.00 pts*   | **The Hollars**                                 | <span style="color:crimson">2016-08-26</span>   |
+| 52. | *1.00 pts*   | **The BFG**                                     | <span style="color:crimson">2016-07-01</span>   |
+| 53. | *1.00 pts*   | **Snowden**                                     | <span style="color:crimson">2016-09-16</span>   |
+| 54. | *1.00 pts*   | **Queen of Katwe**                              | <span style="color:crimson">2016-09-23</span>   |
 | 55. | *1.00 pts*   | **Patriot's Day**                               | <span style="color:limegreen">2016-12-21</span> |
 | 56. | *1.00 pts*   | **My Life as a Zucchini**                       | <span style="color:gold">2016-11-11</span>      |
-| 57. | *1.00 pts*   | **Miss Hokusai**                                | <span style="color:crimson">2016-10-14</span> |
+| 57. | *1.00 pts*   | **Miss Hokusai**                                | <span style="color:crimson">2016-10-14</span>   |
 | 58. | *1.00 pts*   | **Gold**                                        | <span style="color:limegreen">2017-01-27</span> |
-| 59. | *1.00 pts*   | **Cafe Society**                                | <span style="color:crimson">2016-07-15</span> |
+| 59. | *1.00 pts*   | **Cafe Society**                                | <span style="color:crimson">2016-07-15</span>   |
 | 60. | *1.00 pts*   | **Bleed for This**                              | <span style="color:gold">2016-11-18</span>      |
-|-----|---------------|-------------------------------------------------|-------------------------------------------------|
+|-----|--------------|-------------------------------------------------|-------------------------------------------------|
