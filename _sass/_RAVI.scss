@@ -469,3 +469,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 tbody tr:nth-child(even) td, tbody tr:nth-child(even) th {
     /*background-color: #fdfdfd;*/
 }
+
+tbody tr:hover, tbody tr:hover td {
+    background-color: ghostwhite !important;
+}
