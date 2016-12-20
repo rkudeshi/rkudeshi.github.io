@@ -108,8 +108,8 @@ SYNOPSIS: A jazz pianist falls for an aspiring actress in Los Angeles.
 
 CRITICS CONSENSUS: La La Land breathes new life into a bygone genre with thrillingly assured direction, powerful performances, and an irresistible excess of heart.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/0pdqf4P9MB8' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="0pdqf4P9MB8">
+<a href="https://www.youtube.com/embed/0pdqf4P9MB8">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -133,8 +133,8 @@ SYNOPSIS: Following the assassination of President John F. Kennedy, First Lady J
 
 CRITICS CONSENSUS: Jackie offers an alluring peek into a beloved American public figure's private world -- and an enthralling starring performance from Natalie Portman in the bargain.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/g9pW3B8Ycc4' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="g9pW3B8Ycc4">
+<a href="https://www.youtube.com/embed/g9pW3B8Ycc4">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -158,8 +158,8 @@ SYNOPSIS: An uncle is forced to take care of his teenage nephew after the boy's 
 
 CRITICS CONSENSUS: Manchester by the Sea delivers affecting drama populated by full-bodied characters, marking another strong step forward for writer-director Kenneth Lonergan.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/gsVoD0pTge0' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="gsVoD0pTge0">
+<a href="https://www.youtube.com/embed/gsVoD0pTge0">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -183,8 +183,8 @@ SYNOPSIS: An African-American father struggles with race relations in the United
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/jj-ZYPVRQbc' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="jj-ZYPVRQbc">
+<a href="https://www.youtube.com/embed/jj-ZYPVRQbc">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -208,8 +208,8 @@ SYNOPSIS: In the seventeenth century, two Jesuit priests face violence and perse
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/TcNKM4TI41E' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="TcNKM4TI41E">
+<a href="https://www.youtube.com/embed/TcNKM4TI41E">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -233,8 +233,8 @@ SYNOPSIS: A timeless story of human connection and self-discovery, Moonlight chr
 
 CRITICS CONSENSUS: Moonlight uses one man's story to offer a remarkable and brilliantly crafted look at lives too rarely seen in cinema.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/9NJj12tJzqc' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="9NJj12tJzqc">
+<a href="https://www.youtube.com/embed/9NJj12tJzqc">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -258,8 +258,8 @@ SYNOPSIS: WWII American Army Medic Desmond T. Doss, who served during the Battle
 
 CRITICS CONSENSUS: Hacksaw Ridge uses a real-life pacifist's legacy to lay the groundwork for a gripping wartime tribute to faith, valor, and the courage of remaining true to one's convictions.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/s2-1hz1juBI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="s2-1hz1juBI">
+<a href="https://www.youtube.com/embed/s2-1hz1juBI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -283,8 +283,8 @@ SYNOPSIS: A linguist is recruited by the military to assist in translating alien
 
 CRITICS CONSENSUS: Arrival delivers a must-see experience for fans of thinking person's sci-fi that anchors its heady themes with genuinely affecting emotion and a terrific performance from Amy Adams.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/tFMo3UJ4B4g' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="tFMo3UJ4B4g">
+<a href="https://www.youtube.com/embed/tFMo3UJ4B4g">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -308,8 +308,8 @@ SYNOPSIS: The Rebellion makes a risky move to steal the plans to the Death Star,
 
 CRITICS CONSENSUS: Rogue One draws deep on Star Wars mythology while breaking new narrative and aesthetic ground -- and suggesting a bright blockbuster future for the franchise.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/frdj1zb9sMY' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="frdj1zb9sMY">
+<a href="https://www.youtube.com/embed/frdj1zb9sMY">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -333,8 +333,8 @@ SYNOPSIS: After a threat from the tiger Shere Khan forces him to flee the jungle
 
 CRITICS CONSENSUS: As lovely to behold as it is engrossing to watch, The Jungle Book is the rare remake that actually improves upon its predecessors -- all while setting a new standard for CGI.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/5mkm22yO-bs' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="5mkm22yO-bs">
+<a href="https://www.youtube.com/embed/5mkm22yO-bs">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -358,8 +358,8 @@ SYNOPSIS: In a city of anthropomorphic animals, a rookie bunny cop and a cynical
 
 CRITICS CONSENSUS: The brilliantly well-rounded Zootopia offers a thoughtful, inclusive message that's as rich and timely as its sumptuously state-of-the-art animation -- all while remaining fast and funny enough to keep younger viewers entertained.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/jWM0ct-OLsM' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="jWM0ct-OLsM">
+<a href="https://www.youtube.com/embed/jWM0ct-OLsM">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -383,8 +383,8 @@ SYNOPSIS: A five-year-old Indian boy gets lost on the streets of Calcutta, thous
 
 CRITICS CONSENSUS: Lion's undeniably uplifting story and talented cast are more than enough to make up for a fact-based story whose traditional Hollywood formula skims over a number of interesting real-life details.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/-RNI9o06vqo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="-RNI9o06vqo">
+<a href="https://www.youtube.com/embed/-RNI9o06vqo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -408,8 +408,8 @@ SYNOPSIS: The story of Richard and Mildred Loving, an interracial couple, whose 
 
 CRITICS CONSENSUS: Loving takes an understated approach to telling a painful -- and still relevant -- real-life tale, with sensitive performances breathing additional life into a superlative historical drama.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/zRXuCY7tRgk' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="zRXuCY7tRgk">
+<a href="https://www.youtube.com/embed/zRXuCY7tRgk">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -433,8 +433,8 @@ SYNOPSIS: The adventures of writer Newt Scamander in New York's secret community
 
 CRITICS CONSENSUS: Fantastic Beasts and Where to Find Them draws on Harry Potter's rich mythology to deliver a spinoff that dazzles with franchise-building magic all its own.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/ViuDsy7yb8M' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="ViuDsy7yb8M">
+<a href="https://www.youtube.com/embed/ViuDsy7yb8M">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -458,8 +458,8 @@ SYNOPSIS: A former neurosurgeon embarks on a journey of healing only to be drawn
 
 CRITICS CONSENSUS: Doctor Strange artfully balances its outré source material against the blockbuster constraints of the MCU, delivering a thoroughly entertaining superhero origin story in the bargain.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/HSzx-zryEgM' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="HSzx-zryEgM">
+<a href="https://www.youtube.com/embed/HSzx-zryEgM">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -483,8 +483,8 @@ SYNOPSIS: An art gallery owner is haunted by her ex-husband's novel, a violent t
 
 CRITICS CONSENSUS: Well-acted and lovely to look at, Nocturnal Animals further underscores writer-director Tom Ford's distinctive visual and narrative skill.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/-H1Ii1LjyFU' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="-H1Ii1LjyFU">
+<a href="https://www.youtube.com/embed/-H1Ii1LjyFU">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -508,8 +508,8 @@ SYNOPSIS: A team of African-American women provide NASA with important mathemati
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/RK8xHq6dfAo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="RK8xHq6dfAo">
+<a href="https://www.youtube.com/embed/RK8xHq6dfAo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -533,8 +533,8 @@ SYNOPSIS: The story of Florence Foster Jenkins, a New York heiress who dreamed o
 
 CRITICS CONSENSUS: Florence Foster Jenkins makes poignant, crowd-pleasing dramedy out of its stranger-than-fiction tale -- and does its subject justice with a reliably terrific turn from star Meryl Streep.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/HszfdNS0JSc' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="HszfdNS0JSc">
+<a href="https://www.youtube.com/embed/HszfdNS0JSc">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -558,8 +558,8 @@ SYNOPSIS: The story of three women who explore love and freedom in Southern Cali
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/6JnFaltqnAY' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="6JnFaltqnAY">
+<a href="https://www.youtube.com/embed/6JnFaltqnAY">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -583,8 +583,8 @@ SYNOPSIS: A divorced father and his ex-con older brother resort to a desperate s
 
 CRITICS CONSENSUS: Hell or High Water offers a solidly crafted, well-acted Western heist thriller that eschews mindless gunplay in favor of confident pacing and full-bodied characters.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/JQoqsKoJVDw' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="JQoqsKoJVDw">
+<a href="https://www.youtube.com/embed/JQoqsKoJVDw">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -608,8 +608,8 @@ SYNOPSIS: The story of Chesley Sullenberger, an American pilot who became a hero
 
 CRITICS CONSENSUS: As comfortingly workmanlike as its protagonist, Sully makes solid use of typically superlative work from its star and director to deliver a quietly stirring tribute to an everyday hero.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/mjKEXxO2KNE' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="mjKEXxO2KNE">
+<a href="https://www.youtube.com/embed/mjKEXxO2KNE">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -633,8 +633,8 @@ SYNOPSIS: A young boy named Kubo must locate a magical suit of armor worn by his
 
 CRITICS CONSENSUS: Kubo and the Two Strings matches its incredible animation with an absorbing -- and bravely melancholy -- story that has something to offer audiences of all ages.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/p4-6qJzeb3A' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="p4-6qJzeb3A">
+<a href="https://www.youtube.com/embed/p4-6qJzeb3A">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -658,8 +658,8 @@ SYNOPSIS: A story set in the Prohibition Era and centered around a group of indi
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/ClcQUlXcCKw' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="ClcQUlXcCKw">
+<a href="https://www.youtube.com/embed/ClcQUlXcCKw">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -683,8 +683,8 @@ SYNOPSIS: In Ancient Polynesia, when a terrible curse incurred by Maui reaches a
 
 CRITICS CONSENSUS: With a title character as three-dimensional as its lush animation and a story that adds fresh depth to Disney's time-tested formula, Moana is truly a family-friendly adventure for the ages.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/LKFuXETZUsI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="LKFuXETZUsI">
+<a href="https://www.youtube.com/embed/LKFuXETZUsI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -708,8 +708,8 @@ SYNOPSIS: A dramatization of the April 2010 disaster when the offshore drilling 
 
 CRITICS CONSENSUS: Deepwater Horizon makes effective use of its titular man-made disaster to deliver an uncommonly serious -- yet still suitably gripping -- action thriller.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/S-UPJyEHmM0' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="S-UPJyEHmM0">
+<a href="https://www.youtube.com/embed/S-UPJyEHmM0">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -733,8 +733,8 @@ SYNOPSIS: The friendly but forgetful blue tang fish begins a search for her long
 
 CRITICS CONSENSUS: Funny, poignant, and thought-provoking, Finding Dory delivers a beautifully animated adventure that adds another entertaining chapter to its predecessor's classic story.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/3JNLwlcPBPI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="3JNLwlcPBPI">
+<a href="https://www.youtube.com/embed/3JNLwlcPBPI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -758,8 +758,8 @@ SYNOPSIS: A boy seeks the help of a tree monster to cope with his single mom's t
 
 CRITICS CONSENSUS: A Monster Calls deftly balances dark themes and fantastical elements to deliver an engrossing and uncommonly moving entry in the crowded coming-of-age genre.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/R2Xbo-irtBA' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="R2Xbo-irtBA">
+<a href="https://www.youtube.com/embed/R2Xbo-irtBA">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -783,8 +783,8 @@ SYNOPSIS: An unconventional love story of an aspiring actress, her determined dr
 
 CRITICS CONSENSUS: With Rules Don't Apply, Warren Beatty takes an overall affable -- but undeniably slight -- look at a corner of old Hollywood under Howard Hughes' distinctive shadow.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/a_QiAunKtxo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="a_QiAunKtxo">
+<a href="https://www.youtube.com/embed/a_QiAunKtxo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -808,8 +808,8 @@ SYNOPSIS: The dialogue-less film follows the major life stages of a castaway on 
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/t1Yw3AVDr6U' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="t1Yw3AVDr6U">
+<a href="https://www.youtube.com/embed/t1Yw3AVDr6U">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -833,8 +833,8 @@ SYNOPSIS: A koala named Buster Moon has one final chance to restore his theater 
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/Y7uGHY-t80I' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="Y7uGHY-t80I">
+<a href="https://www.youtube.com/embed/Y7uGHY-t80I">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -858,8 +858,8 @@ SYNOPSIS: When Jacob discovers clues to a mystery that stretches across time, he
 
 CRITICS CONSENSUS: Miss Peregrine's Home for Peculiar Children proves a suitable match for Tim Burton's distinctive style, even if it's on stronger footing as a visual experience than a narrative one.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/mAdpJw-MM-M' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="mAdpJw-MM-M">
+<a href="https://www.youtube.com/embed/mAdpJw-MM-M">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -883,8 +883,8 @@ SYNOPSIS: In the forests of the Pacific Northwest, a father devoted to raising h
 
 CRITICS CONSENSUS: Captain Fantastic's thought-provoking themes -- and an absorbing starring turn from Viggo Mortensen -- add up to an above-average family drama with unexpected twists.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/D1kH4OMIOMc' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="D1kH4OMIOMc">
+<a href="https://www.youtube.com/embed/D1kH4OMIOMc">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -908,8 +908,8 @@ SYNOPSIS: A spacecraft traveling to a distant colony planet and transporting tho
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/7BWWWQzTpNU' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="7BWWWQzTpNU">
+<a href="https://www.youtube.com/embed/7BWWWQzTpNU">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -933,8 +933,8 @@ SYNOPSIS: A fast-talking mercenary with a morbid sense of humor is subjected to 
 
 CRITICS CONSENSUS: Fast, funny, and gleefully profane, the fourth-wall-busting Deadpool subverts superhero film formula with wildly entertaining -- and decidedly non-family-friendly -- results.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/FyKWUTwSYAs' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="FyKWUTwSYAs">
+<a href="https://www.youtube.com/embed/FyKWUTwSYAs">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -958,8 +958,8 @@ SYNOPSIS: 19-year-old Billy Lynn is brought home for a victory tour after a harr
 
 CRITICS CONSENSUS: Billy Lynn's Long Halftime Walk has noble goals, but lacks a strong enough screenplay to achieve them -- and its visual innovations are often merely distracting.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/bEG2uamc324' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="bEG2uamc324">
+<a href="https://www.youtube.com/embed/bEG2uamc324">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -983,8 +983,8 @@ SYNOPSIS: Political interference in the Avengers' activities causes a rift betwe
 
 CRITICS CONSENSUS: Captain America: Civil War begins the next wave of Marvel movies with an action-packed superhero blockbuster boasting a decidedly non-cartoonish plot and the courage to explore thought-provoking themes.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/dKrVegVI0Us' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="dKrVegVI0Us">
+<a href="https://www.youtube.com/embed/dKrVegVI0Us">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1008,8 +1008,8 @@ SYNOPSIS: A sausage strives to discover the truth about his existence.
 
 CRITICS CONSENSUS: Sausage Party is definitely offensive, but backs up its enthusiastic profanity with an impressively high laugh-to-gag ratio -- and a surprisingly thought-provoking storyline.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/9VoNgLnjzVg' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="9VoNgLnjzVg">
+<a href="https://www.youtube.com/embed/9VoNgLnjzVg">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1033,8 +1033,8 @@ SYNOPSIS: In 1942, an intelligence officer in North Africa encounters a female F
 
 CRITICS CONSENSUS: Allied has its moments, but doesn't quite achieve epic wartime romance status -- a disappointment made more profound by the dazzling talent assembled on either side of the camera.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/Jlp94-C31cY' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="Jlp94-C31cY">
+<a href="https://www.youtube.com/embed/Jlp94-C31cY">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1058,8 +1058,8 @@ SYNOPSIS: A Hollywood fixer in the 1950s works to keep the studio's stars in lin
 
 CRITICS CONSENSUS: Packed with period detail and perfectly cast, Hail, Caesar! finds the Coen brothers delivering an agreeably lightweight love letter to post-war Hollywood.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/kMqeoW3XRa0' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="kMqeoW3XRa0">
+<a href="https://www.youtube.com/embed/kMqeoW3XRa0">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1083,8 +1083,8 @@ SYNOPSIS: Nat Turner, a literate slave and preacher in the antebellum South, orc
 
 CRITICS CONSENSUS: The Birth of a Nation overpowers its narrative flaws and uneven execution through sheer conviction, rising on Nate Parker's assured direction and the strength of its vital message.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/KWs5TTn19qk' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="KWs5TTn19qk">
+<a href="https://www.youtube.com/embed/KWs5TTn19qk">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1108,8 +1108,8 @@ SYNOPSIS: Lady Susan Vernon takes up temporary residence at her in-laws' estate 
 
 CRITICS CONSENSUS: Love & Friendship finds director Whit Stillman bringing his talents to bear on a Jane Austen adaptation -- with a thoroughly delightful period drama as the result.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/XSMNHKqrCOo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="XSMNHKqrCOo">
+<a href="https://www.youtube.com/embed/XSMNHKqrCOo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1133,8 +1133,8 @@ SYNOPSIS: The story of McDonald's founder Ray Kroc.
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/AX2uz2XYkbo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="AX2uz2XYkbo">
+<a href="https://www.youtube.com/embed/AX2uz2XYkbo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1158,8 +1158,8 @@ SYNOPSIS: The USS Enterprise crew explores the furthest reaches of uncharted spa
 
 CRITICS CONSENSUS: Star Trek Beyond continues the franchise's post-reboot hot streak with an epic sci-fi adventure that honors the series' sci-fi roots without skimping on the blockbuster action.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/XRVD32rnzOw' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="XRVD32rnzOw">
+<a href="https://www.youtube.com/embed/XRVD32rnzOw">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1183,8 +1183,8 @@ SYNOPSIS: A successful businesswoman gets caught up in a game of cat and mouse a
 
 CRITICS CONSENSUS: Elle finds director Paul Verhoeven operating at peak power -- and benefiting from a typically outstanding performance from Isabelle Huppert in the central role.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/H-iBBgcp7PY' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="H-iBBgcp7PY">
+<a href="https://www.youtube.com/embed/H-iBBgcp7PY">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1208,8 +1208,8 @@ SYNOPSIS: A little girl lives in a very grown-up world with her mother, who trie
 
 CRITICS CONSENSUS: Beautifully animated and faithful to the spirit of its classic source material, The Little Prince is a family-friendly treat that anchors thrilling visuals with a satisfying story.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/ihi491RQo5A' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="ihi491RQo5A">
+<a href="https://www.youtube.com/embed/ihi491RQo5A">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1233,8 +1233,8 @@ SYNOPSIS: In the world of political power-brokers, Sloane takes on the most powe
 
 CRITICS CONSENSUS: Miss Sloane sits squarely on the shoulder's of Jessica Chastain's performance -- and she responds with awards-worthy work that single-handedly elevates the film.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/AMUkfmUu44k' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="AMUkfmUu44k">
+<a href="https://www.youtube.com/embed/AMUkfmUu44k">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1258,8 +1258,8 @@ SYNOPSIS: Acclaimed writer and historian Deborah E. Lipstadt must battle for his
 
 CRITICS CONSENSUS: If Denial doesn't quite do its incredible story complete justice, it comes close enough to offer a satisfying, impactful drama -- and another powerful performance from Rachel Weisz.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/yH7ktvUWaYo' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="yH7ktvUWaYo">
+<a href="https://www.youtube.com/embed/yH7ktvUWaYo">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1283,8 +1283,8 @@ SYNOPSIS: After the Bergens invade Troll Village, Poppy, the happiest Troll ever
 
 CRITICS CONSENSUS: Trolls brings its instantly recognizable characters to the big screen in a colorful adventure that, while geared toward the younger set, isn't without rewards for parents.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/xyjm5VQ11TQ' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="xyjm5VQ11TQ">
+<a href="https://www.youtube.com/embed/xyjm5VQ11TQ">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1308,8 +1308,8 @@ SYNOPSIS: As an Orc horde invades the planet Azeroth using a magic portal, a few
 
 CRITICS CONSENSUS: Warcraft has visual thrills to spare, but they -- and director Duncan Jones' distinctive gifts -- are wasted on a sluggish and derivative adaptation of a bestselling game with little evident cinematic value.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/RhFMIRuHAL4' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="RhFMIRuHAL4">
+<a href="https://www.youtube.com/embed/RhFMIRuHAL4">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1333,8 +1333,8 @@ SYNOPSIS: In a dystopian near future, single people, according to the laws of Th
 
 CRITICS CONSENSUS: As strange as it is thrillingly ambitious, The Lobster is definitely an acquired taste -- but for viewers with the fortitude to crack through Yorgos Lanthimos' offbeat sensibilities, it should prove a savory cinematic treat.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/vU29VfayDMw' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="vU29VfayDMw">
+<a href="https://www.youtube.com/embed/vU29VfayDMw">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1358,8 +1358,8 @@ SYNOPSIS: A man returns to his small hometown after learning that his mother has
 
 CRITICS CONSENSUS: The Hollars gathers an impressive assortment of talented stars; unfortunately, it's all in service of a story that's been played out more effectively in countless other indie dramedies.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/gDm-hMnvB44' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="gDm-hMnvB44">
+<a href="https://www.youtube.com/embed/gDm-hMnvB44">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1383,8 +1383,8 @@ SYNOPSIS: A girl named Sophie encounters the Big Friendly Giant who, despite his
 
 CRITICS CONSENSUS: The BFG minimizes the darker elements of Roald Dahl's classic in favor of a resolutely good-natured, visually stunning, and largely successful family-friendly adventure.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/GZ0Bey4YUGI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="GZ0Bey4YUGI">
+<a href="https://www.youtube.com/embed/GZ0Bey4YUGI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1408,8 +1408,8 @@ SYNOPSIS: The NSA's illegal surveillance techniques are leaked to the public by 
 
 CRITICS CONSENSUS: Snowden boasts a thrilling fact-based tale and a solid lead performance from Joseph Gordon-Levitt, even if director Oliver Stone saps the story of some of its impact by playing it safe.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/QlSAiI3xMh4' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="QlSAiI3xMh4">
+<a href="https://www.youtube.com/embed/QlSAiI3xMh4">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1433,8 +1433,8 @@ SYNOPSIS: A Ugandan girl sees her world rapidly change after being introduced to
 
 CRITICS CONSENSUS: Queen of Katwe is a feel-good movie of uncommon smarts and passion, and outstanding performances by Lupita Nyong'o and David Oyelowo help to elevate the film past its cliches.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/z4l3-_yub5A' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="z4l3-_yub5A">
+<a href="https://www.youtube.com/embed/z4l3-_yub5A">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1458,8 +1458,8 @@ SYNOPSIS: An account of Boston Police Commissioner Ed Davis's actions in the eve
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/_c9IpI_pNGI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="_c9IpI_pNGI">
+<a href="https://www.youtube.com/embed/_c9IpI_pNGI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1483,8 +1483,8 @@ SYNOPSIS: Courgette is an intriguing nickname for a 9-year-old boy. Although his
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/3I1pRoRJtlw' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="3I1pRoRJtlw">
+<a href="https://www.youtube.com/embed/3I1pRoRJtlw">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1508,8 +1508,8 @@ SYNOPSIS: The life and works of Japanese artist and ukiyo-e painter Katsushika H
 
 CRITICS CONSENSUS: Miss Hokusai illuminates the life and creative legacy of its brilliant subject with a beautifully animated biopic whose absorbing visuals are matched by its narrative grace.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/wuiU81oJ5xE' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="wuiU81oJ5xE">
+<a href="https://www.youtube.com/embed/wuiU81oJ5xE">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1533,8 +1533,8 @@ SYNOPSIS: An unlikely pair venture to the Indonesian jungle in search of gold.
 
 CRITICS CONSENSUS: No consensus yet.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/gdLXPv5NsA4' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="gdLXPv5NsA4">
+<a href="https://www.youtube.com/embed/gdLXPv5NsA4">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1558,8 +1558,8 @@ SYNOPSIS: In the 1930s, a Bronx native moves to Hollywood and falls in love with
 
 CRITICS CONSENSUS: Café Society's lovely visuals and charming performances round out a lightweight late-period Allen comedy whose genuine pleasures offset its amiable predictability.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/Rl4X6pFfmTI' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="Rl4X6pFfmTI">
+<a href="https://www.youtube.com/embed/Rl4X6pFfmTI">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
@@ -1583,8 +1583,8 @@ SYNOPSIS: The inspirational story of World Champion Boxer Vinny Pazienza who, af
 
 CRITICS CONSENSUS: Bleed for This rises on the strength of Miles Teller's starring performance to deliver a solid fact-based boxing drama that takes a few genre clichés on the chin but keeps on coming.
 
-<div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/zQ6ny-fROX8' frameborder='0' allowfullscreen></iframe>
+<div class="youtube-player" data-id="zQ6ny-fROX8">
+<a href="https://www.youtube.com/embed/zQ6ny-fROX8">Loading from YouTube...</a>
 </div>
 
 [[jump to top]](#top)
