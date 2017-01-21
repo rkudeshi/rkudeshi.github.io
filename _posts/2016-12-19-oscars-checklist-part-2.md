@@ -2,8 +2,6 @@
 title: "Oscars checklist, take two: ratings, trailers, and more for every movie"
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
 In my [last post](http://raviudeshi.com/16/12/oscars-checklist-2017), I made a list of the movies most likely to be nominated for Oscars, assigning them points based on Gold Derby's odds in each category. But I didn't know much about many of the films themselves, other than their title. So I went through and compiled Rotten Tomatoes & Metacritic scores, trailers, ratings, runtimes, actors, and more. Hope this helps some of you too!
 
 (You can click on the movie names in the table below to jump down to more info about each one.)
