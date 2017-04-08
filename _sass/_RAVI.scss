@@ -378,6 +378,12 @@ article h4 {
 
 
 
+// Pagination buttons
+
+.pagination-item {
+    background: linear-gradient(white, whitesmoke);
+}
+
 
 // Related posts "widget"
 
@@ -386,12 +392,12 @@ article h4 {
     border: 3px solid lightskyblue;
     border-left: none;
     border-right: none;
-    background: ghostwhite;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     border: 1px solid transparent;
     background: rgba(0, 0, 0, 0.01);
-    box-shadow: 0px 0px 5px #eee;
+    background: ghostwhite;
+    /*box-shadow: 0px 0px 5px #eee;*/
     border-radius: 3px;
 }
 .related h3 {
