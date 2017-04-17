@@ -212,9 +212,9 @@ body {
     background: white;
     /* border-radius: 10px; */
     border-radius: 1px;
-    box-shadow: 0 0 3px #ddd;
+    /*box-shadow: 0 0 3px #ddd;*/
+    box-shadow: 0 2px 6px #eee;
     transition: box-shadow 0.5s;
-    /*box-shadow: 3px 3px 10px #aaa;*/
     /*border: 1px solid #999;*/
 }
 .posts .post:hover {
