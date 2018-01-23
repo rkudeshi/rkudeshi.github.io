@@ -702,62 +702,62 @@ And now, the final list! Interestingly enough, some of the movies with the most 
 
 Notably, this is a list of English feature-length films (i.e. movies generally available in US theaters). So it does not include documentaries, foreign films, or any of the short films.
 
-|-----|--------------|-----------------------------------------------|----------------------|-------------|
-| Num |    Points    |                     Movie                     | Categories (Pts/Cat) |    Genre    |
-|-----|--------------|-----------------------------------------------|----------------------|-------------|
-|  1. | *235.77 pts* | **The Shape of Water**                        | 14 (16.84)           | ---         |
-|  2. | *231.05 pts* | **Dunkirk**                                   | 10 (23.11)           | ---         |
-|  3. | *136.12 pts* | **Blade Runner 2049**                         | 9 (15.12)            | ---         |
-|  4. | *128.78 pts* | **Darkest Hour**                              | 11 (11.71)           | ---         |
-|  5. | *124.98 pts* | **Three Billboards Outside Ebbing, Missouri** | 9 (13.89)            | ---         |
-|  6. | *116.50 pts* | **Call Me By Your Name**                      | 9 (12.94)            | ---         |
-|  7. | *107.03 pts* | **Lady Bird**                                 | 6 (17.84)            | ---         |
-|  8. | *79.89 pts*  | **Phantom Thread**                            | 7 (11.41)            | ---         |
-|  9. | *78.80 pts*  | **Coco**                                      | 3 (26.27)            | Animated    |
-| 10. | *77.11 pts*  | **Get Out**                                   | 6 (12.85)            | ---         |
-| 11. | *53.42 pts*  | **I, Tonya**                                  | 6 (8.90)             | ---         |
-| 12. | *53.04 pts*  | **The Post**                                  | 9 (5.89)             | ---         |
-| 13. | *46.37 pts*  | **War for the Planet of the Apes**            | 5 (9.27)             | ---         |
-| 14. | *45.73 pts*  | **Beauty and the Beast**                      | 5 (9.15)             | ---         |
-| 15. | *43.63 pts*  | **Mudbound**                                  | 6 (7.27)             | ---         |
-| 16. | *41.35 pts*  | **Star Wars: The Last Jedi**                  | 4 (10.34)            | ---         |
-| 17. | *39.62 pts*  | **The Greatest Showman**                      | 4 (9.90)             | ---         |
-| 18. | *31.65 pts*  | **The Florida Project**                       | 3 (10.55)            | ---         |
-| 19. | *27.47 pts*  | **Baby Driver**                               | 3 (9.16)             | ---         |
-| 20. | *26.11 pts*  | **The Big Sick**                              | 4 (6.53)             | ---         |
-| 21. | *24.48 pts*  | **The Disaster Artist**                       | 2 (12.24)            | ---         |
-| 22. | *21.01 pts*  | **Wonder**                                    | 2 (10.51)            | ---         |
-| 23. | *19.15 pts*  | **Molly's Game**                              | 3 (6.38)             | ---         |
-| 24. | *18.18 pts*  | **The Breadwinner**                           | 1 (18.18)            | Animated    |
-| 25. | *18.18 pts*  | **Loving Vincent**                            | 1 (18.18)            | Animated    |
-| 26. | *17.66 pts*  | **Guardians of the Galaxy Vol. 2**            | 2 (8.83)             | ---         |
-| 27. | *11.76 pts*  | **The Lego Batman Movie**                     | 1 (11.76)            | Animated    |
-| 28. | *8.88 pts*   | **Wonder Woman**                              | 7 (1.27)             | ---         |
-| 29. | *8.65 pts*   | **All the Money in the World**                | 3 (2.88)             | ---         |
-| 30. | *7.69 pts*   | **Ferdinand**                                 | 1 (7.69)             | Animated    |
-| 31. | *6.67 pts*   | **Marshall**                                  | 1 (6.67)             | ---         |
-| 32. | *6.66 pts*   | **Victoria and Abdul**                        | 4 (1.67)             | ---         |
-| 33. | *4.44 pts*   | **Downsizing**                                | 2 (2.22)             | ---         |
-| 34. | *3.67 pts*   | **The Beguiled**                              | 2 (1.84)             | ---         |
-| 35. | *2.97 pts*   | **Wonderstruck**                              | 3 (0.99)             | ---         |
-| 36. | *2.44 pts*   | **Logan**                                     | 1 (2.44)             | ---         |
-| 37. | *2.44 pts*   | **Mary and the Witch's Flower**               | 1 (2.44)             | Animated    |
-| 38. | *1.98 pts*   | **Wonder Wheel**                              | 2 (0.99)             | ---         |
-| 39. | *1.49 pts*   | **Murder on the Orient Express**              | 1 (1.49)             | ---         |
-| 40. | *1.49 pts*   | **Girls Trip**                                | 1 (1.49)             | ---         |
-| 41. | *1.23 pts*   | **The Promise**                               | 1 (1.23)             | ---         |
-| 42. | *0.99 pts*   | **Battle of the Sexes**                       | 1 (0.99)             | ---         |
-| 43. | *0.99 pts*   | **Mother!**                                   | 1 (0.99)             | ---         |
-| 44. | *0.99 pts*   | **Roman J. Israel, Esq.**                     | 1 (0.99)             | ---         |
-| 45. | *0.99 pts*   | **Okja**                                      | 1 (0.99)             | ---         |
-| 46. | *0.99 pts*   | **Film Stars Don't Die in Liverpool**         | 1 (0.99)             | ---         |
-| 47. | *0.99 pts*   | **Stronger**                                  | 1 (0.99)             | ---         |
-| 48. | *0.99 pts*   | **Novitiate**                                 | 1 (0.99)             | ---         |
-| 49. | *0.99 pts*   | **Captain Underpants**                        | 1 (0.99)             | Animated    |
-| 50. | *0.99 pts*   | **Despicable Me 3**                           | 1 (0.99)             | Animated    |
-| 51. | *0.99 pts*   | **Split**                                     | 1 (0.99)             | ---         |
-| 52. | *0.99 pts*   | **Cries From Syria**                          | 1 (0.99)             | Documentary |
-| 53. | *0.99 pts*   | **Fifty Shades Darker**                       | 1 (0.99)             | ---         |
-| 54. | *0.99 pts*   | **Boss Baby**                                 | 1 (0.99)             | Animated    |
-| 55. | *0.99 pts*   | **In This Corner of The World**               | 1 (0.99)             | Animated    |
-|-----|--------------|-----------------------------------------------|----------------------|-------------|
+|-----|--------------|-----------------------------------------------|----------------------|
+| Num |    Points    |                     Movie                     | Categories (Pts/Cat) |
+|-----|--------------|-----------------------------------------------|----------------------|
+|  1. | *235.77 pts* | **The Shape of Water**                        | 14 (16.84)           |
+|  2. | *231.05 pts* | **Dunkirk**                                   | 10 (23.11)           |
+|  3. | *136.12 pts* | **Blade Runner 2049**                         | 9 (15.12)            |
+|  4. | *128.78 pts* | **Darkest Hour**                              | 11 (11.71)           |
+|  5. | *124.98 pts* | **Three Billboards Outside Ebbing, Missouri** | 9 (13.89)            |
+|  6. | *116.50 pts* | **Call Me By Your Name**                      | 9 (12.94)            |
+|  7. | *107.03 pts* | **Lady Bird**                                 | 6 (17.84)            |
+|  8. | *79.89 pts*  | **Phantom Thread**                            | 7 (11.41)            |
+|  9. | *78.80 pts*  | **Coco**                                      | 3 (26.27)            |
+| 10. | *77.11 pts*  | **Get Out**                                   | 6 (12.85)            |
+| 11. | *53.42 pts*  | **I, Tonya**                                  | 6 (8.90)             |
+| 12. | *53.04 pts*  | **The Post**                                  | 9 (5.89)             |
+| 13. | *46.37 pts*  | **War for the Planet of the Apes**            | 5 (9.27)             |
+| 14. | *45.73 pts*  | **Beauty and the Beast**                      | 5 (9.15)             |
+| 15. | *43.63 pts*  | **Mudbound**                                  | 6 (7.27)             |
+| 16. | *41.35 pts*  | **Star Wars: The Last Jedi**                  | 4 (10.34)            |
+| 17. | *39.62 pts*  | **The Greatest Showman**                      | 4 (9.90)             |
+| 18. | *31.65 pts*  | **The Florida Project**                       | 3 (10.55)            |
+| 19. | *27.47 pts*  | **Baby Driver**                               | 3 (9.16)             |
+| 20. | *26.11 pts*  | **The Big Sick**                              | 4 (6.53)             |
+| 21. | *24.48 pts*  | **The Disaster Artist**                       | 2 (12.24)            |
+| 22. | *21.01 pts*  | **Wonder**                                    | 2 (10.51)            |
+| 23. | *19.15 pts*  | **Molly's Game**                              | 3 (6.38)             |
+| 24. | *18.18 pts*  | **The Breadwinner**                           | 1 (18.18)            |
+| 25. | *18.18 pts*  | **Loving Vincent**                            | 1 (18.18)            |
+| 26. | *17.66 pts*  | **Guardians of the Galaxy Vol. 2**            | 2 (8.83)             |
+| 27. | *11.76 pts*  | **The Lego Batman Movie**                     | 1 (11.76)            |
+| 28. | *8.88 pts*   | **Wonder Woman**                              | 7 (1.27)             |
+| 29. | *8.65 pts*   | **All the Money in the World**                | 3 (2.88)             |
+| 30. | *7.69 pts*   | **Ferdinand**                                 | 1 (7.69)             |
+| 31. | *6.67 pts*   | **Marshall**                                  | 1 (6.67)             |
+| 32. | *6.66 pts*   | **Victoria and Abdul**                        | 4 (1.67)             |
+| 33. | *4.44 pts*   | **Downsizing**                                | 2 (2.22)             |
+| 34. | *3.67 pts*   | **The Beguiled**                              | 2 (1.84)             |
+| 35. | *2.97 pts*   | **Wonderstruck**                              | 3 (0.99)             |
+| 36. | *2.44 pts*   | **Logan**                                     | 1 (2.44)             |
+| 37. | *2.44 pts*   | **Mary and the Witch's Flower**               | 1 (2.44)             |
+| 38. | *1.98 pts*   | **Wonder Wheel**                              | 2 (0.99)             |
+| 39. | *1.49 pts*   | **Murder on the Orient Express**              | 1 (1.49)             |
+| 40. | *1.49 pts*   | **Girls Trip**                                | 1 (1.49)             |
+| 41. | *1.23 pts*   | **The Promise**                               | 1 (1.23)             |
+| 42. | *0.99 pts*   | **Battle of the Sexes**                       | 1 (0.99)             |
+| 43. | *0.99 pts*   | **Mother!**                                   | 1 (0.99)             |
+| 44. | *0.99 pts*   | **Roman J. Israel, Esq.**                     | 1 (0.99)             |
+| 45. | *0.99 pts*   | **Okja**                                      | 1 (0.99)             |
+| 46. | *0.99 pts*   | **Film Stars Don't Die in Liverpool**         | 1 (0.99)             |
+| 47. | *0.99 pts*   | **Stronger**                                  | 1 (0.99)             |
+| 48. | *0.99 pts*   | **Novitiate**                                 | 1 (0.99)             |
+| 49. | *0.99 pts*   | **Captain Underpants**                        | 1 (0.99)             |
+| 50. | *0.99 pts*   | **Despicable Me 3**                           | 1 (0.99)             |
+| 51. | *0.99 pts*   | **Split**                                     | 1 (0.99)             |
+| 52. | *0.99 pts*   | **Cries From Syria**                          | 1 (0.99)             |
+| 53. | *0.99 pts*   | **Fifty Shades Darker**                       | 1 (0.99)             |
+| 54. | *0.99 pts*   | **Boss Baby**                                 | 1 (0.99)             |
+| 55. | *0.99 pts*   | **In This Corner of The World**               | 1 (0.99)             |
+|-----|--------------|-----------------------------------------------|----------------------|
