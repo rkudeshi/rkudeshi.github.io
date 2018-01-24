@@ -6,108 +6,107 @@ For anyone else attempting the Oscars Death Race (watching every movie nominated
 
 [^oscar-nominees-watched-2018]: Of the 34 feature-length English films nominated (AKA everything but the docs/shorts/foreign categories), I've managed to watch all but 3 so far: **Mudbound** (a Netflix original, but I'm hoping they re-release it in theaters now), **The Breadwinner** (foreign animated movie that I apparently missed in November), and...**The Boss Baby** (*really?!*).
 
-
 ---
 
 ### "Major" categories
 
 9 movies nominated in Best Picture (with 55 total nominations between them!):
 
-- [13] The Shape of Water
-- [8] Dunkirk
-- [7] Three Billboards Outside Ebbing, Missouri
-- [6] Phantom Thread
-- [6] Darkest Hour
-- [5] Lady Bird
-- [4] Get Out
-- [4] Call Me By Your Name
-- [2] The Post
+- `[13]` The Shape of Water
+- `[8]` Dunkirk
+- `[7]` Three Billboards Outside Ebbing, Missouri
+- `[6]` Phantom Thread
+- `[6]` Darkest Hour
+- `[5]` Lady Bird
+- `[4]` Get Out
+- `[4]` Call Me By Your Name
+- `[2]` The Post
 
 5 more movies nominated in Best Actor/Actress:
 
--  [4] Mudbound <small>(*Best Supporting Actress / Mary J. Blige*)</small>
--  [3] I, Tonya <small>(*Best Actress / Margot Robbie* and *Best Supporting Actress / Allison Janney*)</small>
--  [1] Roman J. Israel Esq. <small>(*Best Best Actor / Denzel Washington*)</small>
--  [1] All the Money in the World <small>(*Best Supporting Actor / Christopher Plummer*)</small>
--  [1] The Florida Project <small>(*Best Supporting Actor / Willem Dafoe*)</small>
+- `[4]` Mudbound <small>(*Best Supporting Actress / Mary J. Blige*)</small>
+- `[3]` I, Tonya <small>(*Best Actress / Margot Robbie* and *Best Supporting Actress / Allison Janney*)</small>
+- `[1]` Roman J. Israel Esq. <small>(*Best Best Actor / Denzel Washington*)</small>
+- `[1]` All the Money in the World <small>(*Best Supporting Actor / Christopher Plummer*)</small>
+- `[1]` The Florida Project <small>(*Best Supporting Actor / Willem Dafoe*)</small>
 
 4 more movies nominated in Best Original/Adapted Screenplay:
 
--  [1] Logan
--  [1] Molly’s Game
--  [1] The Disaster Artist
--  [1] The Big Sick
+- `[1]` Logan
+- `[1]` Molly’s Game
+- `[1]` The Disaster Artist
+- `[1]` The Big Sick
 
 1 more movie nominated in Best Cinematography:
 
--  [5] Blade Runner 2049
+- `[5]` Blade Runner 2049
 
 ### "Minor" categories
 
 5 more movies nominated in Best Animated Film:
 
--  [2] Coco
--  [1] Ferdinand
--  [1] Loving Vincent
--  [1] The Boss Baby
--  [1] The Breadwinner
+- `[2]` Coco
+- `[1]` Ferdinand
+- `[1]` Loving Vincent
+- `[1]` The Boss Baby
+- `[1]` The Breadwinner
 
 5 more movies nominated in Best Foreign Film:
 
--  [1] A Fantastic Woman
--  [1] Loveless
--  [1] Of Body and Soul
--  [1] The Insult
--  [1] The Square
+- `[1]` A Fantastic Woman
+- `[1]` Loveless
+- `[1]` Of Body and Soul
+- `[1]` The Insult
+- `[1]` The Square
 
 5 more movies nominated in Best Documentary:
 
--  [1] Abacus
--  [1] Faces Places
--  [1] Icarus
--  [1] Last Men in Aleppo
--  [1] Strong Island
+- `[1]` Abacus
+- `[1]` Faces Places
+- `[1]` Icarus
+- `[1]` Last Men in Aleppo
+- `[1]` Strong Island
 
 ### Technical categories
 
 10 more movies nominated in technical categories (*Best Score / Song / Sound Editing / Sound Mixing / Production Design / Makeup & Hairstyling / Costume Design / Film Editing / Visual Effects*):
 
--  [4] Star Wars: The Last Jedi
--  [3] Baby Driver
--  [2] Beauty and the Beast
--  [2] Victoria and Abdul
--  [1] Guardians of the Galaxy Vol. 2
--  [1] Kong: Skull Island
--  [1] Marshall
--  [1] The Greatest Showman
--  [1] War for the Planet of the Apes
--  [1] Wonder
+- `[4]` Star Wars: The Last Jedi
+- `[3]` Baby Driver
+- `[2]` Beauty and the Beast
+- `[2]` Victoria and Abdul
+- `[1]` Guardians of the Galaxy Vol. 2
+- `[1]` Kong: Skull Island
+- `[1]` Marshall
+- `[1]` The Greatest Showman
+- `[1]` War for the Planet of the Apes
+- `[1]` Wonder
 
 ### Short film categories
 
 5 more movies nominated in Best Live Action Short Film:
 
-- [1] DeKalb Elementary
-- [1] My Nephew Emmett
-- [1] The Eleven O’Clock
-- [1] The Silent Child
-- [1] Watu Wote/All of Us
+- `[1]` DeKalb Elementary
+- `[1]` My Nephew Emmett
+- `[1]` The Eleven O’Clock
+- `[1]` The Silent Child
+- `[1]` Watu Wote/All of Us
 
 5 more movies nominated in Best Animated Short Film:
 
-- [1] Dear Basketball
-- [1] Garden Party
-- [1] Lou
-- [1] Negative Space
-- [1] Revolting Rhymes
+- `[1]` Dear Basketball
+- `[1]` Garden Party
+- `[1]` Lou
+- `[1]` Negative Space
+- `[1]` Revolting Rhymes
 
 5 more movies nominated in Best Documentary - Short Subject:
 
-- [1] Edith+Eddie
-- [1] Heaven is a Traffic Jam on the 405
-- [1] Heroin(e)
-- [1] Knife Skills
-- [1] Traffic Stop
+- `[1]` Edith+Eddie
+- `[1]` Heaven is a Traffic Jam on the 405
+- `[1]` Heroin(e)
+- `[1]` Knife Skills
+- `[1]` Traffic Stop
 
 ---
 
