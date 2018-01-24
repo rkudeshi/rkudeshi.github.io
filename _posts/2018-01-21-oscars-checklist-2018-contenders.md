@@ -1,5 +1,5 @@
 ---
-title: "Oscars checklist 2018: The Contenders"
+title: "Oscars checklist 2018: the contenders"
 ---
 
 A year ago, I [made a list](http://raviudeshi.com/16/12/oscars-checklist-2017) of every movie contending for an Oscar so I could watch as many as I could in theaters. And it worked! I watched lots of movies I might have otherwise skipped. And by Oscar night, I'd seen every nominated movie but one![^1]
