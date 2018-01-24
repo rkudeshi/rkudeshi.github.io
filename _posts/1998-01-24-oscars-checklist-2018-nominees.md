@@ -1,5 +1,5 @@
 ---
-title: "Oscars checklist, take three: all 59 movies actually nominated, grouped by highest category"
+title: "Oscars checklist 2018, take three: all 59 movies actually nominated, grouped by highest category"
 ---
 
 For anyone else attempting the Oscars Death Race (watching every movie nominated in every category!), I've again made a list of all movies and grouped them by their highest category. This way, it's a little easier to see which "major" movies you have yet to watch and which other movies you still need to see.[^oscar-nominees-watched-2018]
