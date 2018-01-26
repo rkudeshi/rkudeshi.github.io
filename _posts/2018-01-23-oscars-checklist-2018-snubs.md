@@ -1,5 +1,5 @@
 ---
-title: "Oscars checklist 2018: take two, the snubs"
+title: "Oscars checklist 2018, take two: The snubs and surprises"
 ---
 
 Now that the Oscar nominations were officially announced today, I think it's fun to look back at the predicted nominees and see which expected films made the cut. And more interestingly, which movies got snubbed or jumped in the rankings!
