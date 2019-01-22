@@ -1,40 +1,40 @@
 ---
-title: "Test"
+title: "Test 2"
 ---
 
-Like the last two years, I made a list of every movie that could realistically be nominated at the Oscars this year so I could try to watch as many of them in theaters as possible (thank you, MoviePass and AMC A-List!).
+Like [2017](http://raviudeshi.com/16/12/oscars-checklist-2017) and [2018](http://raviudeshi.com/18/01/oscars-checklist-2018-contenders), I made a list of the movies that might be nominated at the Oscars this year so I could try to watch as many of them in theaters as possible (thank you, MoviePass and AMC A-List!).
 
-As with the last couple years, I used the odds data from Gold Derby to determine the movies most likely to be nominated in each category. Then I made a big list of all 79 unique movies, sorted by most likely to be nominated to least.
+As with the last couple years, I used odds data from Gold Derby to determine the movies that have a realistic chance of being nomninated in each category. Then I made a big list of all overall movies, sorted by most likely to be nominated to least.
 
-Thanks to this list, last year was the first time I fully completed the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at) - watching every movie nominated in every category! So maybe the list below will be helpful for anyone else who would like to do the same.
+Thanks to last year's list, I fully completed the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at) - watching every movie nominated in every category - for the first time! So maybe the list below will be helpful for anyone else who would like to do the same.
 
 ---
 
 **Shortcuts**
 
 * [Sort by category](#sort-by-category)
-    * <small>*[Best Picture](#best-picture) / [Best Director](#best-director)*</small>
-    * <small>*[Best Actress](#best-actress) / [Best Actor](#best-actor) / [Best Supporting Actress](#best-supporting-actress) / [Best Supporting Actor](#best-supporting-actor)*</small>
-    * <small>*[Best Costume Design](#best-costume-design) / [Best Film Editing](#best-film-editing) / [Best Makeup and Hairstyling](#best-makeup-and-hairstyling) / [Best Production Design](#best-production-design) / [Best Score](#best-score) / [Best Song](#best-song) / [Best Sound Editing](#best-sound-editing) / [Best Sound Mixing](#best-sound-mixing) / [Best Visual Effects](#best-visual-effects)*</small>
-    * <small>*[Best Animated Feature](#best-animated-feature) / [Best Documentary Feature](#best-documentary-feature) / [Best Foreign Language Film](#best-foreign-language-film)*</small>
-    * <small>*[Best Animated Short](#best-animated-short) / [Best Documentary Short](#best-documentary-short) / [Best Live Action Short](#best-live-action-short)*</small>
+    * Major Categories: <small>*[Picture](#best-picture) / [Director](#best-director) / [Actress](#best-actress) / [Actor](#best-actor) / [Supporting Actress](#best-supporting-actress) / [Supporting Actor](#best-supporting-actor)*</small>
+    * Minor Categories: <small>*[Cinematography](#best-cinematography) / [Original Screenplay](#best-original-screenplay) / [Adapted Screenplay](#best-adapted-screenplay) / [Animated Feature](#best-animated-feature) / [Documentary Feature](#best-documentary-feature) / [Foreign Language Film](#best-foreign-language-film)*</small>
+    * Technical Categories: <small>*[Costume Design](#best-costume-design) / [Film Editing](#best-film-editing) / [Makeup and Hairstyling](#best-makeup-and-hairstyling) / [Production Design](#best-production-design) / [Score](#best-score) / [Song](#best-song) / [Sound Editing](#best-sound-editing) / [Sound Mixing](#best-sound-mixing) / [Visual Effects](#best-visual-effects)*</small>
+    * Short Film Categories: <small>*[Animated Short](#best-animated-short) / [Documentary Short](#best-documentary-short) / [Live Action Short](#best-live-action-short)*</small>
 * [Final list](#final-list)
 
 ---
 
 ### Sort by category
 
-Here's [Gold Derby's data](https://www.goldderby.com/odds/expert-odds/oscars-nominations-2019/) for all 24 Oscar categories. I downloaded the data on 12/23/18 and calculated the "points" for each category using a simple implied probability conversion from fractional odds to decimal points.
+Here's [Gold Derby's data](https://www.goldderby.com/odds/expert-odds/oscars-nominations-2019/) for all 24 Oscar categories. I downloaded the data on Dec 23 and calculated the "points" for each category using a simple implied probability conversion from fractional odds to decimal points.
 
-Like the past years, I omitted every movie with 0 experts predicting a nomination or win, so only movies that *someone* thinks might actually be nominated are included.
+Like the past 2 years, I omitted every movie with 0 experts predicting a nomination or win, so only movies that *someone* thinks might actually be nominated are included.
 
 Columns:
 
 * **NOM** = The number of experts who believe a film will be *nominated* for that award.
-* **WIN** = The number of experts who believe a film will *win* for that award.
+* **WIN** = The number of experts who believe a film will *win* that award.
 * **ODDS** = GoldDerby's calculated odds of a movie winning that award.
-* **PTS** = Implied probability (It's just `(Denominator) / (Numerator + Denominator)`. For example, a title with 4/1 odds is calculated as `(1) / (4 + 1)` = `(1 / 5)` = `20%`. In other words, it's the percentage chance of a movie winning that category.)
+* **PTS** = Implied probability (It's just `(Denominator) / (Numerator + Denominator)`. For example, a title with 4/1 odds is calculated as `(1) / (4 + 1)` = `(1 / 5)` = `20%`. In other words, the percentage chance of a movie winning that category.)
 
+Here we go!
 
 #### Best Picture
 
@@ -462,9 +462,11 @@ Columns:
 
 ### Final List
 
-And now, the final list! Interestingly enough, some of the movies with the most aggregate points are not strong contenders for Best Picture this year. So much like *Jackie* last year, they are "punching above their weight" due to strong contention for technical awards.
+In past years, I composed the final list of only *English* feature-length films (no foreign films, no documentaries, no shorts). But this year, some of the foreign films are up in other categories (Roma, Cold War) and many of the documentaries actually played in mainstream theaters nationwide (RBG, Free Solo, Won't You Be My Neighbor, etc). So for this year's list, I've included all movies except short films.
 
-Notably, this is a list of English feature-length films (i.e. movies generally available in US theaters). So it does not include documentaries, foreign films, or any of the short films.
+Altogether, that makes **79** unique movies that may be nominated for an Oscar. *A Star is Born* is in the lead, but it's not that far ahead of many other very good movies.
+
+(I know they're longshots, but I'll be rooting for Leave No Trace, Eighth Grade, Beautiful Boy, and A Private War!)
 
 
 |-----|--------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
