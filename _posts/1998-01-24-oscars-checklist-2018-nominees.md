@@ -2,11 +2,11 @@
 title: "Test 2"
 ---
 
-Like [2017](http://raviudeshi.com/16/12/oscars-checklist-2017) and [2018](http://raviudeshi.com/18/01/oscars-checklist-2018-contenders), I made a list of the movies that might be nominated at the Oscars this year so I could try to watch as many of them in theaters as possible (thank you, MoviePass and AMC A-List!).
+As I have for the past 2 years, I made a list of the movies that might be nominated at the Oscars this year so I could try to watch as many of them in theaters as possible (thank you, MoviePass and AMC A-List!).
 
-As with the last couple years, I used odds data from Gold Derby to determine the movies that have a realistic chance of being nomninated in each category. Then I made a big list of all overall movies, sorted by most likely to be nominated to least.
+Like [2017](http://raviudeshi.com/16/12/oscars-checklist-2017) and [2018](http://raviudeshi.com/18/01/oscars-checklist-2018-contenders), I used odds data from Gold Derby to determine the movies that have a realistic chance of being nomninated in each category. Then I made a big list of all overall movies, sorted by most likely to be nominated to least.
 
-Thanks to last year's list, I fully completed the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at) - watching every movie nominated in every category - for the first time! So maybe the list below will be helpful for anyone else who would like to do the same.
+Thanks to last year's list giving me a jumpstart, I fully completed the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at) - watching every movie nominated in every category - for the first time! So maybe the list below will be helpful for anyone else who would like to do the same.
 
 ---
 
