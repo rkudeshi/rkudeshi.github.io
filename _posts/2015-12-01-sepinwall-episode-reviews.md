@@ -14,7 +14,7 @@ My favorite TV critic, Alan Sepinwall, is releasing the updated version of his b
 
 As I catch up on some of the other shows in the book, as I do with every episode of good TV I watch, I immediately go to find Alan’s episode-by-episode reviews, which add lots of detail and insight. To make it easier for myself, I decide to compile all the links in one place for each episodic review for all the shows covered in his book (and one more!). Hope this helps anyone else that likes to read Alan’s reviews!
 
-_NOTE: I tried to build this list programmatically using a combination of thetvdb.com and Google ‘I’m Feeling Lucky’ searches, but it didn’t work. In the end, I went through Alan’s [old](http://sepinwall.blogspot.com) and [new](http://hitfix.com/whats-alan-watching/) blogs and hand-copied each link into a huge Excel spreadsheet. It took forever (and I accidentally spoiled myself on a few character deaths in shows I haven’t seen yet, grr), but hopefully every link is right. If not, or if you spot any typos, please contact me via [email](contact/index.html) or, preferably, on Twitter—I’m [@rkudeshi](http://twitter.com/rkudeshi). Thanks!_
+_NOTE: I tried to build this list programmatically using a combination of thetvdb.com and Google ‘I’m Feeling Lucky’ searches, but it didn’t work. In the end, I went through Alan’s [old](http://sepinwall.blogspot.com) and [new](http://uproxx.com/sepinwall/) blogs and hand-copied each link into a huge Excel spreadsheet. It took forever (and I accidentally spoiled myself on a few character deaths in shows I haven’t seen yet, grr), but hopefully every link is right. If not, or if you spot any typos, please contact me via [email](contact/index.html) or, preferably, on Twitter—I’m [@rkudeshi](http://twitter.com/rkudeshi). Thanks!_
 
 ### Table of Contents
 
@@ -40,19 +40,19 @@ _As far as I can find, Alan hasn’t written about Oz individually._
 
 _Alan reviewed various Season 4-6 episodes for the Newark Star-Ledger and did a Season 1 rewatch in 2015._
 
-* The Sopranos 1×01, “The Sopranos”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-1-the-sopranos)
-* The Sopranos 1×02, “46 Long”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-2-46-long)
-* The Sopranos 1×03, “Denial, Anger, Acceptance”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-3-denial-anger-acceptance)
-* The Sopranos 1×04, “Meadowlands”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-4-meadowlands)
-* The Sopranos 1×05, “College”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-5-college)
-* The Sopranos 1×06, “Pax Soprana”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-6-pax-soprana)
-* The Sopranos 1×07, “Down Neck”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-7-down-neck)
-* The Sopranos 1×08, “The Legend of Tennessee Moltisanti”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-7-episode-8-the-legend-of-tennessee-moltisanti)
-* The Sopranos 1×09, “Boca”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-9-boca)
-* The Sopranos 1×10, “A Hit is a Hit”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-10-a-hit-is-a-hit)
-* The Sopranos 1×11, “Nobody Knows Anything”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-11-nobody-knows-anything)
-* The Sopranos 1×12, “Isabella”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-12-isabella)
-* The Sopranos 1×13, “I Dream of Jeannie Cusamano”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/the-sopranos-rewind-season-1-episode-13-i-dream-of-jeannie-cusamano)
+* The Sopranos 1×01, “The Sopranos”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-1-the-sopranos)
+* The Sopranos 1×02, “46 Long”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-2-46-long)
+* The Sopranos 1×03, “Denial, Anger, Acceptance”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-3-denial-anger-acceptance)
+* The Sopranos 1×04, “Meadowlands”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-4-meadowlands)
+* The Sopranos 1×05, “College”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-5-college)
+* The Sopranos 1×06, “Pax Soprana”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-6-pax-soprana)
+* The Sopranos 1×07, “Down Neck”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-7-down-neck)
+* The Sopranos 1×08, “The Legend of Tennessee Moltisanti”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-7-episode-8-the-legend-of-tennessee-moltisanti)
+* The Sopranos 1×09, “Boca”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-9-boca)
+* The Sopranos 1×10, “A Hit is a Hit”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-10-a-hit-is-a-hit)
+* The Sopranos 1×11, “Nobody Knows Anything”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-11-nobody-knows-anything)
+* The Sopranos 1×12, “Isabella”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-12-isabella)
+* The Sopranos 1×13, “I Dream of Jeannie Cusamano”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/the-sopranos-rewind-season-1-episode-13-i-dream-of-jeannie-cusamano)
 * **The Sopranos: [Rewind: All The Links (warning: s4/5 death spoilers in answer 2!)](http://blog.nj.com/alltv/2007/06/sopranos_rewind_all_the_links.html)**
 * The Sopranos 4×09, “Whoever Did This”: [Sepinwall’s review](http://www.nj.com/sopranos/ledger/index.ssf?/sopranos/stories/smackdown_02.html)
 * The Sopranos 4×13, “Whitecaps”: [Sepinwall’s review](http://www.nj.com/sopranos/ledger/index.ssf?/sopranos/stories/rocks_02.html)
@@ -83,7 +83,7 @@ _Alan reviewed various Season 4-6 episodes for the Newark Star-Ledger and did a 
 
 ### The Wire
 
-_Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly copied from [that list](http://www.hitfix.com/whats-alan-watching/the-wire-links-for-reviews-to-every-episode). The “Newbie” reviews are for people watching the series for the first time, while the “Veteran” reviews have future spoilers for the whole series._
+_Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly copied from [that list](http://www.uproxx.com/sepinwall/the-wire-links-for-reviews-to-every-episode). The “Newbie” reviews are for people watching the series for the first time, while the “Veteran” reviews have future spoilers for the whole series._
 
 * The Wire 1×01, “The Target”: [Newbies](http://sepinwall.blogspot.com/2008/05/wire-season-1-episode-1-target-newbies.html) / [Veterans](http://sepinwall.blogspot.com/2008/05/wire-season-1-episode-1-target-veterans.html)
 * The Wire 1×02, “The Detail”: [Newbies](http://sepinwall.blogspot.com/2008/06/wire-season-1-episode-2-detail-newbies.html) / [Veterans](http://sepinwall.blogspot.com/2008/06/wire-season-1-episode-2-detail-veterans.html)
@@ -110,19 +110,19 @@ _Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly co
 * The Wire 2×10, “Storm Warnings”: [Newbies](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-10-storm-warnings_14.html) / [Veterans](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-10-storm-warnings.html)
 * The Wire 2×11, “Bad Dreams”: [Newbies](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-11-bad-dreams_21.html) / [Veterans](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-11-bad-dreams.html)
 * The Wire 2×12, “Port in a Storm”: [Newbies](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-12-port-in-storm_28.html) / [Veterans](http://sepinwall.blogspot.com/2009/08/wire-season-2-episode-12-port-in-storm.html)
-* The Wire 3×01, “Time After Time”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-1-time-after-time-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-1-time-after-time-veterans-edition)
-* The Wire 3×02, “All Due Respect”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-2-all-due-respect-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-2-all-due-respect-veterans-edition)
-* The Wire 3×03, “Dead Soldiers”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-3-dead-soldiers-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-3-dead-soldiers-veterans-edition)
-* The Wire 3×04, “Amsterdam”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-4-hamsterdam-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-4-hamsterdam-veterans-edition)
-* The Wire 3×05, “Straight and True”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-5-straight-and-true-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-5-straight-and-true-veterans-edition)
-* The Wire 3×06, “Homecoming”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-6-homecoming-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-6-homecoming-veterans-edition)
-* The Wire 3×07, “Back Burners”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-7-back-burners-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-7-back-burners-veterans-edition)
-* The Wire 3×08, “Moral Midgetry”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-8-moral-midgetry-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-8-moral-midgetry-veterans-edition)
-* The Wire 3×09, “Slapstick”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-9-slapstick-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-9-slapstick-veterans-edition)
-* The Wire 3×10, “Reformation”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-10-reformation-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-10-reformation-veterans-edition)
-* The Wire 3×11, “Middle Ground”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-11-middle-ground-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-11-middle-ground-veterans-edition)
-* The Wire 3×12, “Mission Accomplished”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-12-mission-accomplished-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-rewind-season-3-episode-12-mission-accomplished-veterans-edition)
-* **The Wire: [Post-311 Interview with writer George Pelecanos](http://www.hitfix.com/blogs/whats-alan-watching/posts/the-wire-george-pelecanos-talks-about-middle-ground)**
+* The Wire 3×01, “Time After Time”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-1-time-after-time-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-1-time-after-time-veterans-edition)
+* The Wire 3×02, “All Due Respect”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-2-all-due-respect-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-2-all-due-respect-veterans-edition)
+* The Wire 3×03, “Dead Soldiers”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-3-dead-soldiers-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-3-dead-soldiers-veterans-edition)
+* The Wire 3×04, “Amsterdam”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-4-hamsterdam-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-4-hamsterdam-veterans-edition)
+* The Wire 3×05, “Straight and True”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-5-straight-and-true-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-5-straight-and-true-veterans-edition)
+* The Wire 3×06, “Homecoming”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-6-homecoming-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-6-homecoming-veterans-edition)
+* The Wire 3×07, “Back Burners”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-7-back-burners-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-7-back-burners-veterans-edition)
+* The Wire 3×08, “Moral Midgetry”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-8-moral-midgetry-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-8-moral-midgetry-veterans-edition)
+* The Wire 3×09, “Slapstick”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-9-slapstick-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-9-slapstick-veterans-edition)
+* The Wire 3×10, “Reformation”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-10-reformation-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-10-reformation-veterans-edition)
+* The Wire 3×11, “Middle Ground”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-11-middle-ground-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-11-middle-ground-veterans-edition)
+* The Wire 3×12, “Mission Accomplished”: [Newbies](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-12-mission-accomplished-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/the-wire-rewind-season-3-episode-12-mission-accomplished-veterans-edition)
+* **The Wire: [Post-311 Interview with writer George Pelecanos](http://www.uproxx.com/sepinwall/the-wire-george-pelecanos-talks-about-middle-ground)**
 * The Wire 4×01, “Boys of Summer”: [Sepinwall’s review](http://sepinwall.blogspot.com/2006/09/wire-nailed-shut.html)
 * The Wire 4×02, “Soft Eyes”: [Sepinwall’s review](http://sepinwall.blogspot.com/2006/09/wire-parallel-lines.html)
 * The Wire 4×03, “Home Rooms”: [Sepinwall’s review](http://sepinwall.blogspot.com/2006/09/wire-omar-back.html)
@@ -152,42 +152,42 @@ _Alan made a list of all of his reviews of The Wire in 2014, so I’ve mostly co
 
 _Like The Wire, Alan did “Newbie” and “Veteran” reviews of Deadwood. However, after episode 208, he consolidated them into one and noted that first-time watchers should avoid the comments, where future spoilers are allowed._
 
-* Deadwood 1×01, “Deadwood (Pilot)”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-1-deadwood-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-1-deadwood)
-* Deadwood 1×02, “Deep Water”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-2-deep-water-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-2-deep-water-veterans-edition)
-* Deadwood 1×03, “Reconnoitering the Rim”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-3-reconnoitering-the-rim-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-3-reconnoitering-the-rim-veterans-edition)
-* Deadwood 1×04, “Here Was a Man”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-4-here-was-a-man-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-4-here-was-a-man-veterans-edition)
-* Deadwood 1×05, “The Trial of Jack McCall”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-5-the-trial-of-jack-mccall-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-5-the-trial-of-jack-mccall-veterans-edition)
-* Deadwood 1×06, “Plague”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-6-plague-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-6-plague-veterans-edition)
-* Deadwood 1×07, “Bullock Returns to the Camp”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-7-bullock-returns-to-the-camp-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-7-bullock-returns-to-the-camp-veterans-edition)
-* Deadwood 1×08, “Suffer the Little Children”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-8-suffer-the-little-children-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-8-suffer-the-little-children-veterans-edition)
-* Deadwood 1×09, “No Other Sons or Daughters”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-9-no-other-sons-or-daughters-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-9-no-other-sons-or-daughters-veterans-edition)
-* Deadwood 1×10, “Mister Wu”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-10-mr-wu-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-10-mr-wu-veterans-edition)
-* Deadwood 1×11, “Jewel’s Boot Is Made for Walking”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-11-jewels-boot-is-made-for-walking-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-11-jewels-boot-is-made-for-walking-veterans-edition)
-* Deadwood 1×12, “Sold Under Sin”: [Newbies](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-12-sold-under-sin-newbies-edition) / [Veterans](http://www.hitfix.com/blogs/whats-alan-watching/posts/deadwood-rewind-season-1-episode-12-sold-under-sin-veterans-edition)
-* Deadwood 2×01, “A Lie Agreed Upon (1)”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-veterans-edition)
-* Deadwood 2×02, “A Lie Agreed Upon (2)”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-veterans-edition)
-* Deadwood 2×03, “New Money”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-3-new-money-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-3-new-money-veterans-edition)
-* Deadwood 2×04, “Requiem for a Gleet”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-4-requieum-for-a-gleet-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-4-requiem-for-a-gleet-veterans-edition)
-* Deadwood 2×05, “Complications”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-5-complications-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-5-complications-veterans-edition)
-* Deadwood 2×06, “Something Very Expensive”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-6-something-very-expensive-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-6-something-very-expensive-veterans-edition)
-* Deadwood 2×07, “E.B. Was Left Out”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-7-e-b-was-left-out-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-7-e-b-was-left-out-veterans-edition)
-* Deadwood 2×08, “Childish Things”: [Newbies](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-8-childish-things-newbies-edition) / [Veterans](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-8-childish-things-veterans-edition)
-* Deadwood 2×09, “Amalgamation and Capital”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-scheduling-update)
-* Deadwood 2×10, “Advances, None Miraculous”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episodes-9-10-amalgmation-and-capital-advances-none-miraculous)
-* Deadwood 2×11, “The Whores Can Come”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-11-the-whores-can-come)
-* Deadwood 2×12, “Boy the Earth Talks To”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-2-episode-12-boy-the-earth-talks-to)
-* Deadwood 3×01, “Tell Your God to Ready for Blood”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-1-tell-your-god-to-ready-for-blood)
-* Deadwood 3×02, “I Am Not the Man You Take Me For”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-2-i-am-not-the-fine-man-you-take-me-for)
-* Deadwood 3×03, “True Colors”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-3-true-colors)
-* Deadwood 3×04, “Full Faith and Credit”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-4-full-faith-and-credit)
-* Deadwood 3×05, “A Two-Headed Beast”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-5-a-two-headed-beast)
-* Deadwood 3×06, “A Rich Find”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-6-a-rich-find)
-* Deadwood 3×07, “Unauthorized Cinnamon”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-7-unauthorized-cinnamon)
-* Deadwood 3×08, “Leviathan Smiles”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episodes-8-9-leviathan-smiles-amateur-night)
-* Deadwood 3×09, “Amateur Night”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episodes-8-9-leviathan-smiles-amateur-night)
-* Deadwood 3×10, “A Constant Throb”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-10-a-constant-throb)
-* Deadwood 3×11, “The Catbird Seat”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-11-the-catbird-seat)
-* Deadwood 3×12, “Tell Him Something Pretty”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/deadwood-rewind-season-3-episode-12-tell-him-something-pretty)
+* Deadwood 1×01, “Deadwood (Pilot)”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-deadwood-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-deadwood)
+* Deadwood 1×02, “Deep Water”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-2-deep-water-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-2-deep-water-veterans-edition)
+* Deadwood 1×03, “Reconnoitering the Rim”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-3-reconnoitering-the-rim-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-3-reconnoitering-the-rim-veterans-edition)
+* Deadwood 1×04, “Here Was a Man”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-4-here-was-a-man-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-4-here-was-a-man-veterans-edition)
+* Deadwood 1×05, “The Trial of Jack McCall”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-5-the-trial-of-jack-mccall-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-5-the-trial-of-jack-mccall-veterans-edition)
+* Deadwood 1×06, “Plague”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-6-plague-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-6-plague-veterans-edition)
+* Deadwood 1×07, “Bullock Returns to the Camp”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-7-bullock-returns-to-the-camp-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-7-bullock-returns-to-the-camp-veterans-edition)
+* Deadwood 1×08, “Suffer the Little Children”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-8-suffer-the-little-children-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-8-suffer-the-little-children-veterans-edition)
+* Deadwood 1×09, “No Other Sons or Daughters”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-9-no-other-sons-or-daughters-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-9-no-other-sons-or-daughters-veterans-edition)
+* Deadwood 1×10, “Mister Wu”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-10-mr-wu-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-10-mr-wu-veterans-edition)
+* Deadwood 1×11, “Jewel’s Boot Is Made for Walking”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-11-jewels-boot-is-made-for-walking-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-11-jewels-boot-is-made-for-walking-veterans-edition)
+* Deadwood 1×12, “Sold Under Sin”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-12-sold-under-sin-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-12-sold-under-sin-veterans-edition)
+* Deadwood 2×01, “A Lie Agreed Upon (1)”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-veterans-edition)
+* Deadwood 2×02, “A Lie Agreed Upon (2)”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-1-episode-1-2-a-lie-agreed-upon-veterans-edition)
+* Deadwood 2×03, “New Money”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-3-new-money-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-3-new-money-veterans-edition)
+* Deadwood 2×04, “Requiem for a Gleet”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-4-requieum-for-a-gleet-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-4-requiem-for-a-gleet-veterans-edition)
+* Deadwood 2×05, “Complications”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-5-complications-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-5-complications-veterans-edition)
+* Deadwood 2×06, “Something Very Expensive”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-6-something-very-expensive-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-6-something-very-expensive-veterans-edition)
+* Deadwood 2×07, “E.B. Was Left Out”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-7-e-b-was-left-out-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-7-e-b-was-left-out-veterans-edition)
+* Deadwood 2×08, “Childish Things”: [Newbies](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-8-childish-things-newbies-edition) / [Veterans](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-8-childish-things-veterans-edition)
+* Deadwood 2×09, “Amalgamation and Capital”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-scheduling-update)
+* Deadwood 2×10, “Advances, None Miraculous”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episodes-9-10-amalgmation-and-capital-advances-none-miraculous)
+* Deadwood 2×11, “The Whores Can Come”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-11-the-whores-can-come)
+* Deadwood 2×12, “Boy the Earth Talks To”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-2-episode-12-boy-the-earth-talks-to)
+* Deadwood 3×01, “Tell Your God to Ready for Blood”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-1-tell-your-god-to-ready-for-blood)
+* Deadwood 3×02, “I Am Not the Man You Take Me For”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-2-i-am-not-the-fine-man-you-take-me-for)
+* Deadwood 3×03, “True Colors”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-3-true-colors)
+* Deadwood 3×04, “Full Faith and Credit”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-4-full-faith-and-credit)
+* Deadwood 3×05, “A Two-Headed Beast”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-5-a-two-headed-beast)
+* Deadwood 3×06, “A Rich Find”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-6-a-rich-find)
+* Deadwood 3×07, “Unauthorized Cinnamon”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-7-unauthorized-cinnamon)
+* Deadwood 3×08, “Leviathan Smiles”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episodes-8-9-leviathan-smiles-amateur-night)
+* Deadwood 3×09, “Amateur Night”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episodes-8-9-leviathan-smiles-amateur-night)
+* Deadwood 3×10, “A Constant Throb”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-10-a-constant-throb)
+* Deadwood 3×11, “The Catbird Seat”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-11-the-catbird-seat)
+* Deadwood 3×12, “Tell Him Something Pretty”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/deadwood-rewind-season-3-episode-12-tell-him-something-pretty)
 
 ### The Shield
 
@@ -317,32 +317,32 @@ _Alan reviewed Season 2 more sporadically, which is why not all episodes have re
 * Lost 6×11, “Happily Ever After”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/04/lost-happily-ever-after-not-desmonds.html)
 * Lost 6×12, “Everybody Loves Hugo”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/04/lost-everybody-loves-hugo-throw-scot.html)
 * Lost 6×13, “The Last Recruit”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/04/lost-last-recruit-harmonic-convergence.html)
-* Lost 6×14, “The Candidate”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-candidate-watership-down)
-* Lost 6×15, “Across the Sea”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-across-the-sea-raised-by-another)
-* Lost 6×16, “What They Died For “: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-what-they-died-for-locke-around-the-dock)
-* Lost 6×17, “The End (1)”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-end-see-you-in-the-other-life-brother)
-* Lost 6×18, “The End (2)”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-end-see-you-in-the-other-life-brother)
-* **Lost: [The Lost finale, a month later](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-end-a-re-review)**
-* **Lost: [DVD epilogue review](http://www.hitfix.com/blogs/whats-alan-watching/posts/lost-the-new-man-in-charge-you-guys-have-a-dvd-player)**
-* **Lost: [The Lost finale, a year later](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-the-lost-finale-a-year-later)**
+* Lost 6×14, “The Candidate”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/lost-the-candidate-watership-down)
+* Lost 6×15, “Across the Sea”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/lost-across-the-sea-raised-by-another)
+* Lost 6×16, “What They Died For “: [Sepinwall’s review](http://www.uproxx.com/sepinwall/lost-what-they-died-for-locke-around-the-dock)
+* Lost 6×17, “The End (1)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/lost-the-end-see-you-in-the-other-life-brother)
+* Lost 6×18, “The End (2)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/lost-the-end-see-you-in-the-other-life-brother)
+* **Lost: [The Lost finale, a month later](http://www.uproxx.com/sepinwall/lost-the-end-a-re-review)**
+* **Lost: [DVD epilogue review](http://www.uproxx.com/sepinwall/lost-the-new-man-in-charge-you-guys-have-a-dvd-player)**
+* **Lost: [The Lost finale, a year later](http://www.uproxx.com/sepinwall/review-the-lost-finale-a-year-later)**
 
 ### Buffy the Vampire Slayer
 
 _I believe Alan reviewed at least some Buffy episodes for the Newark Star-Ledger (some of his quotes are cited on Wikipedia pages for individual episodes), but I can’t find the full articles anywhere. However, he and Dan Fienberg did a re-watch of season 1 on their podcast in 2012. They also discussed the series finale on the podcast in 2015, so I’ve included those links below._
 
-* Buffy the Vampire Slayer 1×01, “Welcome to the Hellmouth (1)”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-131-buffy-the-vampire-slayer-longmire-mad-men-more) (podcast)
-* Buffy the Vampire Slayer 1×02, “The Harvest (2)”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-131-buffy-the-vampire-slayer-longmire-mad-men-more) (podcast)
-* Buffy the Vampire Slayer 1×03, “The Witch”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-133-true-blood-comedy-bang-bang-bunk-saving-hope) (podcast)
-* Buffy the Vampire Slayer 1×04, “Teacher’s Pet”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-134-mad-men-finale-bunheads-dallas-falling-skies) (podcast)
-* Buffy the Vampire Slayer 1×05, “Never Kill a Boy on the First Date”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-135-the-newsroom-wilfred-the-killing-more) (podcast)
-* Buffy the Vampire Slayer 1×06, “The Pack”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-136-louie-anger-management-episodes-more) (podcast)
-* Buffy the Vampire Slayer 1×07, “Angel”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-137-perception-hit-miss-listener-mail-more) (podcast)
-* Buffy the Vampire Slayer 1×08, “I Robot, You Jane”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-137-perception-hit-miss-listener-mail-more) (podcast)
-* Buffy the Vampire Slayer 1×09, “The Puppet Show”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-139-emmy-nominations-sullivan-son-and-more) (podcast)
-* Buffy the Vampire Slayer 1×10, “Nightmares”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-140-press-tour-breaking-bad-buffy) (podcast)
-* Buffy the Vampire Slayer 1×11, “Out of Mind, Out of Sight”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-podcast-episode-141-press-tour-breaking-bad) (podcast)
+* Buffy the Vampire Slayer 1×01, “Welcome to the Hellmouth (1)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-131-buffy-the-vampire-slayer-longmire-mad-men-more) (podcast)
+* Buffy the Vampire Slayer 1×02, “The Harvest (2)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-131-buffy-the-vampire-slayer-longmire-mad-men-more) (podcast)
+* Buffy the Vampire Slayer 1×03, “The Witch”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-133-true-blood-comedy-bang-bang-bunk-saving-hope) (podcast)
+* Buffy the Vampire Slayer 1×04, “Teacher’s Pet”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-134-mad-men-finale-bunheads-dallas-falling-skies) (podcast)
+* Buffy the Vampire Slayer 1×05, “Never Kill a Boy on the First Date”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-135-the-newsroom-wilfred-the-killing-more) (podcast)
+* Buffy the Vampire Slayer 1×06, “The Pack”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-136-louie-anger-management-episodes-more) (podcast)
+* Buffy the Vampire Slayer 1×07, “Angel”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-137-perception-hit-miss-listener-mail-more) (podcast)
+* Buffy the Vampire Slayer 1×08, “I Robot, You Jane”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-137-perception-hit-miss-listener-mail-more) (podcast)
+* Buffy the Vampire Slayer 1×09, “The Puppet Show”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-139-emmy-nominations-sullivan-son-and-more) (podcast)
+* Buffy the Vampire Slayer 1×10, “Nightmares”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-140-press-tour-breaking-bad-buffy) (podcast)
+* Buffy the Vampire Slayer 1×11, “Out of Mind, Out of Sight”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-podcast-episode-141-press-tour-breaking-bad) (podcast)
 * Buffy the Vampire Slayer 1×12, “Prophecy Girl”: [Sepinwall’s review](http://www.hitfix.com/the-fien-print/listen-firewall-iceberg-podcast-no-142) (podcast)
-* Buffy the Vampire Slayer 7×22, “Chosen”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/firewall-iceberg-episode-296-fear-the-walking-dead-blunt-talk-more) (podcast)
+* Buffy the Vampire Slayer 7×22, “Chosen”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/firewall-iceberg-episode-296-fear-the-walking-dead-blunt-talk-more) (podcast)
 
 ### 24
 
@@ -379,17 +379,17 @@ _Another show Alan reviewed very sporadically (especially in its later lesser se
 * **24: [Season 8 Preview](http://sepinwall.blogspot.com/2010/01/human-target-24-review-sepinwall-on-tv.html)**
 * **24: [Season 8 News – Cancellation rumors](http://sepinwall.blogspot.com/2010/03/24-tell-me-when-cancellation-is.html)**
 * **24: [Season 8 News – Officially cancelled](http://sepinwall.blogspot.com/2010/03/see-ya-in-next-life-jack-bauer.html)**
-* **24: [Season 9: Live Another Day Preview](http://www.hitfix.com/whats-alan-watching/review-jack-bauer-returns-in-24-live-another-day)**
-* 24 9×01, “Day 9: 11:00 A.M. – 12:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-24-live-another-day-1100-am-1200-pm1200-pm-100-pm-london-calling)
-* 24 9×02, “Day 9: 12:00 P.M. – 1:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-24-live-another-day-1100-am-1200-pm1200-pm-100-pm-london-calling)
-* 24 9×03, “Day 9: 1:00 P.M. – 2:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-100-pm-200-pm-just-say-please)
-* 24 9×05, “Day 9: 3:00 P.M. – 4:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-300-pm-400-pm-its-a-trap)
-* 24 9×06, “Day 9: 4:00 P.M. – 5:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-400-pm-500-pm-kate-morgan-lethal-weapon)
-* 24 9×07, “Day 9: 5:00 P.M. – 6:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-500-pm-600-pm-trauma-center)
-* 24 9×08, “Day 9: 6:00 P.M. – 7:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-600-pm-700-pm-let-them-play-let-them-play)
-* 24 9×09, “Day 9: 7:00 P.M. – 8:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-700-pm-800-pm-why-are-we-walking-like-this)
-* 24 9×10, “Day 9: 8:00 P.M. – 9:00 P.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-24-live-another-day-800-pm-900-pm-tell-me-where-your-gym-is)
-* 24 9×12, “Day 9: 10:00 P.M. – 11:00 A.M.”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-24-live-another-day-10-pm-11-am-bye-bye-jack-bauer)
+* **24: [Season 9: Live Another Day Preview](http://www.uproxx.com/sepinwall/review-jack-bauer-returns-in-24-live-another-day)**
+* 24 9×01, “Day 9: 11:00 A.M. – 12:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-24-live-another-day-1100-am-1200-pm1200-pm-100-pm-london-calling)
+* 24 9×02, “Day 9: 12:00 P.M. – 1:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-24-live-another-day-1100-am-1200-pm1200-pm-100-pm-london-calling)
+* 24 9×03, “Day 9: 1:00 P.M. – 2:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-100-pm-200-pm-just-say-please)
+* 24 9×05, “Day 9: 3:00 P.M. – 4:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-300-pm-400-pm-its-a-trap)
+* 24 9×06, “Day 9: 4:00 P.M. – 5:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-400-pm-500-pm-kate-morgan-lethal-weapon)
+* 24 9×07, “Day 9: 5:00 P.M. – 6:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-500-pm-600-pm-trauma-center)
+* 24 9×08, “Day 9: 6:00 P.M. – 7:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-600-pm-700-pm-let-them-play-let-them-play)
+* 24 9×09, “Day 9: 7:00 P.M. – 8:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-700-pm-800-pm-why-are-we-walking-like-this)
+* 24 9×10, “Day 9: 8:00 P.M. – 9:00 P.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-24-live-another-day-800-pm-900-pm-tell-me-where-your-gym-is)
+* 24 9×12, “Day 9: 10:00 P.M. – 11:00 A.M.”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-24-live-another-day-10-pm-11-am-bye-bye-jack-bauer)
 
 ### Battlestar Galactica
 
@@ -510,7 +510,7 @@ _This is probably my favorite show of any on this list…if you haven’t watche
 * Friday Night Lights 3×12, “Underdogs”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/01/friday-night-lights-underdogs-clock.html)
 * Friday Night Lights 3×13, “Tomorrow Blues”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/01/friday-night-lights-tomorrow-blues.html)
 * **Friday Night Lights: [Season 4 Preview (DirecTV)](http://sepinwall.blogspot.com/2009/10/friday-night-lights-season-four-review.html)**
-* **Friday Night Lights: [Season 4 Preview (NBC)](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-friday-night-lights-season-4-debuts-on-nbc)**
+* **Friday Night Lights: [Season 4 Preview (NBC)](http://www.uproxx.com/sepinwall/review-friday-night-lights-season-4-debuts-on-nbc)**
 * Friday Night Lights 4×01, “East of Dillon”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/10/friday-night-lights-east-of-dillon-we.html)
 * Friday Night Lights 4×02, “After the Fall”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/11/friday-night-lights-after-fall-wheres.html)
 * Friday Night Lights 4×03, “In the Skin of a Lion”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/11/friday-night-lights-in-skin-of-lion.html)
@@ -524,22 +524,22 @@ _This is probably my favorite show of any on this list…if you haven’t watche
 * Friday Night Lights 4×11, “Injury List”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/01/friday-night-lights-injury-list-no-good.html)
 * Friday Night Lights 4×12, “Laboring”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/02/friday-night-lights-laboring.html)
 * Friday Night Lights 4×13, “Thanksgiving”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/02/friday-night-lights-thanksgiving-pride.html)
-* **Friday Night Lights: [Season 5 Preview (DirecTV)](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-friday-night-lights-season-5-debuts-on-directv)**
-* **Friday Night Lights: [Season 5 Preview (NBC)](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-friday-night-lights-season-5-debuts-on-nbc)**
-* Friday Night Lights 5×01, “Expectations”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-expectations-an-epic-of-epicness)
-* Friday Night Lights 5×02, “On the Outside Looking In”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-on-the-outside-looking-in-an-epic-of-epic-epicness)
-* Friday Night Lights 5×03, “The Right Hand of the Father”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-the-right-hand-of-the-father-quite-the-character)
-* Friday Night Lights 5×04, “Keep Looking”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-keep-looking-texas-luau-forever)
-* Friday Night Lights 5×05, “Kingdom”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-kingdom-road-trip)
-* Friday Night Lights 5×06, “Swerve”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-swerve-is-this-the-little-girl-i-carried)
-* Friday Night Lights 5×07, “Perfect Record”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-perfect-record-bitter-rivals)
-* Friday Night Lights 5×08, “Fracture”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-fracture-lies-damn-lies-and-tiaras)
-* Friday Night Lights 5×09, “Gut Check”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-gut-check-the-substitute)
-* Friday Night Lights 5×10, “Don’t Go”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-dont-go-fight-the-future)
-* Friday Night Lights 5×11, “The March”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-the-march-breaking-away)
-* Friday Night Lights 5×12, “Texas Whatever”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-texas-whatever-there-can-only-be-one)
-* Friday Night Lights 5×13, “Always”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-always-texas-forever)
-* **Friday Night Lights: [A Look Back at FNL’s Greatness and Great Moments](http://www.hitfix.com/blogs/whats-alan-watching/posts/friday-night-lights-a-look-back-at-its-greatness-and-its-greatest-moments)**
+* **Friday Night Lights: [Season 5 Preview (DirecTV)](http://www.uproxx.com/sepinwall/review-friday-night-lights-season-5-debuts-on-directv)**
+* **Friday Night Lights: [Season 5 Preview (NBC)](http://www.uproxx.com/sepinwall/review-friday-night-lights-season-5-debuts-on-nbc)**
+* Friday Night Lights 5×01, “Expectations”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-expectations-an-epic-of-epicness)
+* Friday Night Lights 5×02, “On the Outside Looking In”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-on-the-outside-looking-in-an-epic-of-epic-epicness)
+* Friday Night Lights 5×03, “The Right Hand of the Father”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-the-right-hand-of-the-father-quite-the-character)
+* Friday Night Lights 5×04, “Keep Looking”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-keep-looking-texas-luau-forever)
+* Friday Night Lights 5×05, “Kingdom”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-kingdom-road-trip)
+* Friday Night Lights 5×06, “Swerve”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-swerve-is-this-the-little-girl-i-carried)
+* Friday Night Lights 5×07, “Perfect Record”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-perfect-record-bitter-rivals)
+* Friday Night Lights 5×08, “Fracture”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-fracture-lies-damn-lies-and-tiaras)
+* Friday Night Lights 5×09, “Gut Check”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-gut-check-the-substitute)
+* Friday Night Lights 5×10, “Don’t Go”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-dont-go-fight-the-future)
+* Friday Night Lights 5×11, “The March”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-the-march-breaking-away)
+* Friday Night Lights 5×12, “Texas Whatever”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-texas-whatever-there-can-only-be-one)
+* Friday Night Lights 5×13, “Always”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/friday-night-lights-always-texas-forever)
+* **Friday Night Lights: [A Look Back at FNL’s Greatness and Great Moments](http://www.uproxx.com/sepinwall/friday-night-lights-a-look-back-at-its-greatness-and-its-greatest-moments)**
 
 ### Mad Men
 
@@ -594,72 +594,72 @@ _As one of the newer shows, Alan reviewed every episode as it aired. Don’t mis
 * Mad Men 3×13, “Shut the Door. Have a Seat”: [Sepinwall’s review](http://sepinwall.blogspot.com/2009/11/mad-men-shut-door-have-seat-were.html)
 * **Mad Men: [Season 3 Post-Finale Interview with Matthew Weiner](http://sepinwall.blogspot.com/2009/11/mad-men-matt-weiner-speaks.html)**
 * **Mad Men: [Season 3 DVD Review](http://sepinwall.blogspot.com/2010/03/mad-men-season-3-dvd-great-episodes-so.html)**
-* **Mad Men: [Season 4 Preview](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-returns-for-season-four)**
-* Mad Men 4×01, “Public Relations”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-public-relations-ho-ho-ho)
-* Mad Men 4×02, “Christmas Comes but Once a Year”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-christmas-comes-but-once-a-year-holiday-spirits)
-* Mad Men 4×03, “The Good News”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-good-news-they-have-beef)
-* Mad Men 4×04, “The Rejected”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-rejected-the-pear-ent-trap)
-* Mad Men 4×05, “The Chrysanthemum and the Sword”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-chrysanthemum-and-the-sword-turning-japanese)
-* Mad Men 4×06, “Waldorf Stories”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-waldorf-stories-whos-the-big-winner-don-drapers-the-big-winner)
-* Mad Men 4×07, “The Suitcase”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-suitcase-get-her-to-the-greek)
-* Mad Men 4×08, “The Summer Man”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-summer-man-i-demand-satisfaction)
-* Mad Men 4×09, “The Beautiful Girls”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-the-beautiful-girls-blankenship-down)
-* Mad Men 4×10, “Hands and Knees”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-hands-and-knees-do-you-want-to-know-a-secret)
-* Mad Men 4×11, “Chinese Wall”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-chinese-wall-all-work-and-no-play)
-* Mad Men 4×12, “Blowing Smoke”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-blowing-smoke-heres-a-letter-to-the-new-york-times)
-* Mad Men 4×13, “Tomorrowland”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-tomorrowland-i-spill-your-milkshake)
-* **Mad Men: [Season 5 Preview](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-returns-in-fine-form-for-season-5)**
-* **Mad Men: [Post-501 Interview with John Slattery](http://www.hitfix.com/blogs/whats-alan-watching/posts/interview-mad-men-co-star-john-slattery)**
-* Mad Men 5×01, “A Little Kiss (1)”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-a-little-kiss-im-a-man-im-40)
-* Mad Men 5×02, “A Little Kiss (2)”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-a-little-kiss-im-a-man-im-40)
-* Mad Men 5×03, “Tea Leaves”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-tea-leaves-harry-and-draper-go-to-white-castle)
-* Mad Men 5×04, “Mystery Date”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/mad-men-mystery-date-nightmares-and-dreamscapes)
-* Mad Men 5×05, “Signal 30”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-signal-30-down-goes-campbell-down-goes-campbell)
-* Mad Men 5×06, “Far Away Places”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-far-away-places-the-hojo-code)
-* Mad Men 5×07, “At the Codfish Ball”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-at-the-codfish-ball-the-dirty-city)
-* Mad Men 5×08, “Lady Lazarus”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-lady-lazarus-tomorrow-never-knows)
-* Mad Men 5×09, “Dark Shadows”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-dark-shadows-sno-balls-chance-in-hell)
-* Mad Men 5×10, “Christmas Waltz”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-mad-men-christmas-waltz-harry-krishna)
-* Mad Men 5×11, “The Other Woman”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-other-woman-no-one-knows-she-comes-and-goes)
-* Mad Men 5×12, “Commissions and Fees”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-commissions-and-fees-girl-youll-be-a-woman-soon)
-* Mad Men 5×13, “The Phantom”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-mad-men-the-phantom-the-tooth-hurts)
-* **Mad Men: [Season 6 Preview](http://www.hitfix.com/whats-alan-watching/review-mad-men-same-as-it-ever-was-in-season-6)**
-* Mad Men 6×01, “The Doorway (1)”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-mad-men-the-doorway-break-on-through-to-the-other-side)
-* Mad Men 6×02, “The Doorway (2)”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-mad-men-the-doorway-break-on-through-to-the-other-side)
-* Mad Men 6×03, “Collaborators”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-collaborators-just-a-gigolo)
-* Mad Men 6×04, “To Have and to Hold”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-to-have-and-to-hold-leave-a-penny-take-a-penny)
-* Mad Men 6×05, “The Flood”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-flood-he-had-a-dream)
-* Mad Men 6×06, “For Immediate Release”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-for-immediate-release-mutually-assured-creation)
-* Mad Men 6×07, “Man With a Plan”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-man-with-a-plan-this-is-your-captain-speaking)
-* Mad Men 6×08, “The Crash”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-crash-need-for-speed)
-* Mad Men 6×09, “The Better Half”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-better-half-climb-every-mountain)
-* Mad Men 6×10, “A Tale of Two Cities”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-a-tale-of-two-cities-donny-youre-out-of-your-element)
-* Mad Men 6×11, “Favors”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-favors-sally-can-you-hear-me)
-* Mad Men 6×12, “The Quality of Mercy”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-quality-of-mercy-ohmigod-they-killed-kenny)
-* Mad Men 6×13, “In Care Of”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-mad-men-in-care-of-both-sides-now)
-* Mad Men 7×01, “Time Zones”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-mad-men-time-zones-sliding-doors)
-* Mad Men 7×02, “A Day’s Work”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-a-days-work-horrible-bosses)
-* Mad Men 7×03, “Field Trip”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-field-trip-get-back-to-work)
-* Mad Men 7×04, “The Monolith”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-monolith-meet-the-mets)
-* Mad Men 7×05, “The Runaways”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-runaways-its-my-nip-in-a-box)
-* Mad Men 7×06, “The Strategy”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-strategy-regrets-ive-had-a-few)
-* Mad Men 7×07, “Waterloo”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/mid-season-finale-review-mad-men-waterloo-the-best-things-in-life-are-free)
-* **Mad Men: [Interview with Jon Hamm](http://www.hitfix.com/whats-alan-watching/mad-men-star-jon-hamm-looks-back-it-was-a-long-strange-trip)**
-* **Mad Men: [Interview with Matt Weiner](http://www.hitfix.com/whats-alan-watching/mad-men-creator-matthew-weiner-i-feel-a-sense-of-accomplishment)**
-* **Mad Men: [How Mad Men Marked the End of One Revolution and the Start of Another](http://www.hitfix.com/whats-alan-watching/how-mad-men-marked-the-end-of-one-revolution-and-the-start-of-another)**
-* Mad Men 7×08, “Severance”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-mad-men-severance-is-that-all-there-is)
-* Mad Men 7×09, “New Business”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-new-business-divorce-american-style)
-* Mad Men 7×10, “The Forecast”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-forecast-the-man-with-no-plan)
-* Mad Men 7×11, “Time & Life”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-time-life-everything-must-go)
-* Mad Men 7×12, “Lost Horizon”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-lost-horizon-one-for-the-road)
-* Mad Men 7×13, “The Milk and Honey Route”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-mad-men-the-milk-and-honey-route-for-old-times-sake)
-* Mad Men 7×14, “Person to Person”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/series-finale-review-mad-men-person-to-person-id-like-to-buy-the-world-a-coke)
-* **Mad Men: [Series Finale Odds & Ends](http://www.hitfix.com/whats-alan-watching/mad-men-joans-glasses-harrys-cookie-and-more-series-finale-odds-ends)**
-* **Mad Men: [Matthew Weiner Explains the Ending](http://www.hitfix.com/whats-alan-watching/matthew-weiner-explains-the-mad-men-ending-or-not)**
-* **Mad Men: [Why I’ll Miss Staying Up to Write About Mad Men](http://www.hitfix.com/whats-alan-watching/why-ill-miss-staying-up-to-ridiculous-hours-to-review-mad-men)**
-* **Mad Men: [Waxing Episodic: ‘Nixon vs. Kennedy’](http://www.hitfix.com/whats-alan-watching/waxing-episodic-nixon-vs-kennedy-displayed-mad-mens-knack-for-surprise)**
-* **Mad Men: [Our Favorite Mad Men episodes](http://www.hitfix.com/whats-alan-watching/cigarettes-lawnmowers-lsd-and-more-our-favorite-mad-men-episodes)**
-* **Mad Men: [Mad Men Rankings](http://www.hitfix.com/whats-alan-watching/the-definitive-annotated-essential-list-of-mad-men-rankings)**
+* **Mad Men: [Season 4 Preview](http://www.uproxx.com/sepinwall/review-mad-men-returns-for-season-four)**
+* Mad Men 4×01, “Public Relations”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-public-relations-ho-ho-ho)
+* Mad Men 4×02, “Christmas Comes but Once a Year”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-christmas-comes-but-once-a-year-holiday-spirits)
+* Mad Men 4×03, “The Good News”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-good-news-they-have-beef)
+* Mad Men 4×04, “The Rejected”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-rejected-the-pear-ent-trap)
+* Mad Men 4×05, “The Chrysanthemum and the Sword”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-chrysanthemum-and-the-sword-turning-japanese)
+* Mad Men 4×06, “Waldorf Stories”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-waldorf-stories-whos-the-big-winner-don-drapers-the-big-winner)
+* Mad Men 4×07, “The Suitcase”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-suitcase-get-her-to-the-greek)
+* Mad Men 4×08, “The Summer Man”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-summer-man-i-demand-satisfaction)
+* Mad Men 4×09, “The Beautiful Girls”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-the-beautiful-girls-blankenship-down)
+* Mad Men 4×10, “Hands and Knees”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-hands-and-knees-do-you-want-to-know-a-secret)
+* Mad Men 4×11, “Chinese Wall”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-chinese-wall-all-work-and-no-play)
+* Mad Men 4×12, “Blowing Smoke”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-blowing-smoke-heres-a-letter-to-the-new-york-times)
+* Mad Men 4×13, “Tomorrowland”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-tomorrowland-i-spill-your-milkshake)
+* **Mad Men: [Season 5 Preview](http://www.uproxx.com/sepinwall/review-mad-men-returns-in-fine-form-for-season-5)**
+* **Mad Men: [Post-501 Interview with John Slattery](http://www.uproxx.com/sepinwall/interview-mad-men-co-star-john-slattery)**
+* Mad Men 5×01, “A Little Kiss (1)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-a-little-kiss-im-a-man-im-40)
+* Mad Men 5×02, “A Little Kiss (2)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-a-little-kiss-im-a-man-im-40)
+* Mad Men 5×03, “Tea Leaves”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-tea-leaves-harry-and-draper-go-to-white-castle)
+* Mad Men 5×04, “Mystery Date”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mad-men-mystery-date-nightmares-and-dreamscapes)
+* Mad Men 5×05, “Signal 30”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-signal-30-down-goes-campbell-down-goes-campbell)
+* Mad Men 5×06, “Far Away Places”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-far-away-places-the-hojo-code)
+* Mad Men 5×07, “At the Codfish Ball”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-at-the-codfish-ball-the-dirty-city)
+* Mad Men 5×08, “Lady Lazarus”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-lady-lazarus-tomorrow-never-knows)
+* Mad Men 5×09, “Dark Shadows”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-dark-shadows-sno-balls-chance-in-hell)
+* Mad Men 5×10, “Christmas Waltz”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-christmas-waltz-harry-krishna)
+* Mad Men 5×11, “The Other Woman”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-other-woman-no-one-knows-she-comes-and-goes)
+* Mad Men 5×12, “Commissions and Fees”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-commissions-and-fees-girl-youll-be-a-woman-soon)
+* Mad Men 5×13, “The Phantom”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-mad-men-the-phantom-the-tooth-hurts)
+* **Mad Men: [Season 6 Preview](http://www.uproxx.com/sepinwall/review-mad-men-same-as-it-ever-was-in-season-6)**
+* Mad Men 6×01, “The Doorway (1)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-mad-men-the-doorway-break-on-through-to-the-other-side)
+* Mad Men 6×02, “The Doorway (2)”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-mad-men-the-doorway-break-on-through-to-the-other-side)
+* Mad Men 6×03, “Collaborators”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-collaborators-just-a-gigolo)
+* Mad Men 6×04, “To Have and to Hold”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-to-have-and-to-hold-leave-a-penny-take-a-penny)
+* Mad Men 6×05, “The Flood”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-flood-he-had-a-dream)
+* Mad Men 6×06, “For Immediate Release”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-for-immediate-release-mutually-assured-creation)
+* Mad Men 6×07, “Man With a Plan”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-man-with-a-plan-this-is-your-captain-speaking)
+* Mad Men 6×08, “The Crash”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-crash-need-for-speed)
+* Mad Men 6×09, “The Better Half”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-better-half-climb-every-mountain)
+* Mad Men 6×10, “A Tale of Two Cities”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-a-tale-of-two-cities-donny-youre-out-of-your-element)
+* Mad Men 6×11, “Favors”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-favors-sally-can-you-hear-me)
+* Mad Men 6×12, “The Quality of Mercy”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-quality-of-mercy-ohmigod-they-killed-kenny)
+* Mad Men 6×13, “In Care Of”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-mad-men-in-care-of-both-sides-now)
+* Mad Men 7×01, “Time Zones”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-mad-men-time-zones-sliding-doors)
+* Mad Men 7×02, “A Day’s Work”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-a-days-work-horrible-bosses)
+* Mad Men 7×03, “Field Trip”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-field-trip-get-back-to-work)
+* Mad Men 7×04, “The Monolith”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-monolith-meet-the-mets)
+* Mad Men 7×05, “The Runaways”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-runaways-its-my-nip-in-a-box)
+* Mad Men 7×06, “The Strategy”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-strategy-regrets-ive-had-a-few)
+* Mad Men 7×07, “Waterloo”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mid-season-finale-review-mad-men-waterloo-the-best-things-in-life-are-free)
+* **Mad Men: [Interview with Jon Hamm](http://www.uproxx.com/sepinwall/mad-men-star-jon-hamm-looks-back-it-was-a-long-strange-trip)**
+* **Mad Men: [Interview with Matt Weiner](http://www.uproxx.com/sepinwall/mad-men-creator-matthew-weiner-i-feel-a-sense-of-accomplishment)**
+* **Mad Men: [How Mad Men Marked the End of One Revolution and the Start of Another](http://www.uproxx.com/sepinwall/how-mad-men-marked-the-end-of-one-revolution-and-the-start-of-another)**
+* Mad Men 7×08, “Severance”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-mad-men-severance-is-that-all-there-is)
+* Mad Men 7×09, “New Business”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-new-business-divorce-american-style)
+* Mad Men 7×10, “The Forecast”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-forecast-the-man-with-no-plan)
+* Mad Men 7×11, “Time & Life”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-time-life-everything-must-go)
+* Mad Men 7×12, “Lost Horizon”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-lost-horizon-one-for-the-road)
+* Mad Men 7×13, “The Milk and Honey Route”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-mad-men-the-milk-and-honey-route-for-old-times-sake)
+* Mad Men 7×14, “Person to Person”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/series-finale-review-mad-men-person-to-person-id-like-to-buy-the-world-a-coke)
+* **Mad Men: [Series Finale Odds & Ends](http://www.uproxx.com/sepinwall/mad-men-joans-glasses-harrys-cookie-and-more-series-finale-odds-ends)**
+* **Mad Men: [Matthew Weiner Explains the Ending](http://www.uproxx.com/sepinwall/matthew-weiner-explains-the-mad-men-ending-or-not)**
+* **Mad Men: [Why I’ll Miss Staying Up to Write About Mad Men](http://www.uproxx.com/sepinwall/why-ill-miss-staying-up-to-ridiculous-hours-to-review-mad-men)**
+* **Mad Men: [Waxing Episodic: ‘Nixon vs. Kennedy’](http://www.uproxx.com/sepinwall/waxing-episodic-nixon-vs-kennedy-displayed-mad-mens-knack-for-surprise)**
+* **Mad Men: [Our Favorite Mad Men episodes](http://www.uproxx.com/sepinwall/cigarettes-lawnmowers-lsd-and-more-our-favorite-mad-men-episodes)**
+* **Mad Men: [Mad Men Rankings](http://www.uproxx.com/sepinwall/the-definitive-annotated-essential-list-of-mad-men-rankings)**
 * **Mad Men: [Mad Men’s Memorable Moments](http://www.hitfix.com/galleries/mad-men-its-naughtiest-most-unethical-illegal-and-rude-moments)**
 
 ### Breaking Bad
@@ -699,103 +699,103 @@ _As one of the newer shows, Alan reviewed every episode as it aired._
 * Breaking Bad 3×05, “Mas”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/04/breaking-bad-mas-til-meth-do-us-part.html)
 * Breaking Bad 3×06, “Sunset”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/04/breaking-bad-sunset-partners-in-crime.html)
 * Breaking Bad 3×07, “One Minute”: [Sepinwall’s review](http://sepinwall.blogspot.com/2010/05/breaking-bad-one-minute-magic-bullet.html)
-* Breaking Bad 3×08, “I See You”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-i-see-you-say-hi-to-the-badder-guy)
-* Breaking Bad 3×09, “Kafkaesque”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-kafkaesque-just-a-little-off-the-top)
-* Breaking Bad 3×10, “Fly”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-fly-the-best-bottle-show-ever)
-* Breaking Bad 3×11, “Abiquiu”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-abiquiu-this-is-the-business-we-have-chosen)
-* Breaking Bad 3×12, “Half Measures”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-half-measures-compromising-situation)
-* Breaking Bad 3×13, “Full Measure”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-full-measure-the-return-of-heisenberg-s-uncertainty-principle)
-* **Breaking Bad: [Season 4 Preview](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-amcs-breaking-bad-still-brilliant-in-season-4)**
-* Breaking Bad 4×01, “Box Cutter”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-box-cutter-the-waiting-is-the-hardest-part)
-* Breaking Bad 4×02, “Thirty-Eight Snub”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-thirty-eight-snub-death-by-stereo)
-* Breaking Bad 4×03, “Open House”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-open-house-makin-it-rain)
-* Breaking Bad 4×04, “Bullet Points”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-bullet-points-house-of-cards)
-* Breaking Bad 4×05, “Shotgun”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-shotgun-holding-the-bag)
-* Breaking Bad 4×06, “Cornered”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-cornered-flip-a-coin)
-* Breaking Bad 4×07, “Problem Dog”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-problem-dog-in-or-out)
-* Breaking Bad 4×08, “Hermanos”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-hermanos-the-secret-origin-of-the-chicken-man)
-* Breaking Bad 4×09, “Bug”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-bug-eye-of-the-tiger)
-* Breaking Bad 4×10, “Salud”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-salud-down-mexico-way)
-* Breaking Bad 4×11, “Crawl Space”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-crawl-space-better-off-ted)
-* Breaking Bad 4×12, “End Times”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-end-times-an-appropriate-reponse)
-* Breaking Bad 4×13, “Face Off”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/breaking-bad-face-off-say-uncle)
-* **Breaking Bad: [Season 5 Preview](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-season-5-presents-a-walter-white-in-triumph)**
-* Breaking Bad 5×01, “Live Free or Die”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-breaking-bad-live-free-or-die-magnet-and-steel)
-* Breaking Bad 5×02, “Madrigal”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-madrigal-mike-check)
-* Breaking Bad 5×03, “Hazard Pay”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-hazard-pay-tenting-instead-of-renting)
-* Breaking Bad 5×04, “Fifty-One”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-fifty-one-pool-party)
-* Breaking Bad 5×05, “Dead Freight”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-dead-freight-the-train-job)
-* Breaking Bad 5×06, “Buyout”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-buyout-quitting-time)
-* Breaking Bad 5×07, “Say My Name”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-say-my-name-i-like-mike)
-* Breaking Bad 5×08, “Gliding Over All”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/mid-season-finale-review-breaking-bad-gliding-over-all-the-bathroom-reader)
-* **Breaking Bad: [Interview with Vince Gilligan & Bryan Cranston](http://www.hitfix.com/whats-alan-watching/breaking-bad-bryan-cranston-and-vince-gilligan-look-back-before-the-final-season-begins)**
-* Breaking Bad 5×09, “Blood Money”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-breaking-bad-blood-money-better-call-saul)
-* Breaking Bad 5×10, “Buried”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-buried-geocaching-out)
-* Breaking Bad 5×11, “Confessions”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-confessions-master-thespian)
-* Breaking Bad 5×12, “Rabid Dog”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-rabid-dog-leave-it-to-beaver)
-* Breaking Bad 5×13, “To’hajiilee”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-tohajiilee-nazis-i-hate-these-guys)
-* Breaking Bad 5×14, “Ozymandias”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-ozymandias-roll-out-the-barrel)
-* Breaking Bad 5×15, “Granite State”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-breaking-bad-granite-state-no-escape)
-* Breaking Bad 5×16, “Felina”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/series-finale-review-breaking-bad-felina-its-all-over-now-baby-blue)
-* **Breaking Bad: [Breaking Bad finale, revisited](http://www.hitfix.com/whats-alan-watching/the-breaking-bad-finale-revisited-was-it-all-a-dream-a-nightmare-or-just-right)**
-* **Breaking Bad: [Ozymandias review, take two](http://www.hitfix.com/whats-alan-watching/breaking-bad-ozymandias-review-take-two)**
+* Breaking Bad 3×08, “I See You”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-i-see-you-say-hi-to-the-badder-guy)
+* Breaking Bad 3×09, “Kafkaesque”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-kafkaesque-just-a-little-off-the-top)
+* Breaking Bad 3×10, “Fly”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-fly-the-best-bottle-show-ever)
+* Breaking Bad 3×11, “Abiquiu”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-abiquiu-this-is-the-business-we-have-chosen)
+* Breaking Bad 3×12, “Half Measures”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-half-measures-compromising-situation)
+* Breaking Bad 3×13, “Full Measure”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-full-measure-the-return-of-heisenberg-s-uncertainty-principle)
+* **Breaking Bad: [Season 4 Preview](http://www.uproxx.com/sepinwall/review-amcs-breaking-bad-still-brilliant-in-season-4)**
+* Breaking Bad 4×01, “Box Cutter”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-box-cutter-the-waiting-is-the-hardest-part)
+* Breaking Bad 4×02, “Thirty-Eight Snub”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-thirty-eight-snub-death-by-stereo)
+* Breaking Bad 4×03, “Open House”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-open-house-makin-it-rain)
+* Breaking Bad 4×04, “Bullet Points”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-bullet-points-house-of-cards)
+* Breaking Bad 4×05, “Shotgun”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-shotgun-holding-the-bag)
+* Breaking Bad 4×06, “Cornered”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-cornered-flip-a-coin)
+* Breaking Bad 4×07, “Problem Dog”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-problem-dog-in-or-out)
+* Breaking Bad 4×08, “Hermanos”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-hermanos-the-secret-origin-of-the-chicken-man)
+* Breaking Bad 4×09, “Bug”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-bug-eye-of-the-tiger)
+* Breaking Bad 4×10, “Salud”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-salud-down-mexico-way)
+* Breaking Bad 4×11, “Crawl Space”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-crawl-space-better-off-ted)
+* Breaking Bad 4×12, “End Times”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-end-times-an-appropriate-reponse)
+* Breaking Bad 4×13, “Face Off”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/breaking-bad-face-off-say-uncle)
+* **Breaking Bad: [Season 5 Preview](http://www.uproxx.com/sepinwall/review-breaking-bad-season-5-presents-a-walter-white-in-triumph)**
+* Breaking Bad 5×01, “Live Free or Die”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-breaking-bad-live-free-or-die-magnet-and-steel)
+* Breaking Bad 5×02, “Madrigal”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-madrigal-mike-check)
+* Breaking Bad 5×03, “Hazard Pay”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-hazard-pay-tenting-instead-of-renting)
+* Breaking Bad 5×04, “Fifty-One”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-fifty-one-pool-party)
+* Breaking Bad 5×05, “Dead Freight”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-dead-freight-the-train-job)
+* Breaking Bad 5×06, “Buyout”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-buyout-quitting-time)
+* Breaking Bad 5×07, “Say My Name”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-say-my-name-i-like-mike)
+* Breaking Bad 5×08, “Gliding Over All”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/mid-season-finale-review-breaking-bad-gliding-over-all-the-bathroom-reader)
+* **Breaking Bad: [Interview with Vince Gilligan & Bryan Cranston](http://www.uproxx.com/sepinwall/breaking-bad-bryan-cranston-and-vince-gilligan-look-back-before-the-final-season-begins)**
+* Breaking Bad 5×09, “Blood Money”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-breaking-bad-blood-money-better-call-saul)
+* Breaking Bad 5×10, “Buried”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-buried-geocaching-out)
+* Breaking Bad 5×11, “Confessions”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-confessions-master-thespian)
+* Breaking Bad 5×12, “Rabid Dog”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-rabid-dog-leave-it-to-beaver)
+* Breaking Bad 5×13, “To’hajiilee”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-tohajiilee-nazis-i-hate-these-guys)
+* Breaking Bad 5×14, “Ozymandias”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-ozymandias-roll-out-the-barrel)
+* Breaking Bad 5×15, “Granite State”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-breaking-bad-granite-state-no-escape)
+* Breaking Bad 5×16, “Felina”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/series-finale-review-breaking-bad-felina-its-all-over-now-baby-blue)
+* **Breaking Bad: [Breaking Bad finale, revisited](http://www.uproxx.com/sepinwall/the-breaking-bad-finale-revisited-was-it-all-a-dream-a-nightmare-or-just-right)**
+* **Breaking Bad: [Ozymandias review, take two](http://www.uproxx.com/sepinwall/breaking-bad-ozymandias-review-take-two)**
 
 ### Game of Thrones
 
 _Bonus! I compiled the links for this show because I figure it’s the next most likely Alan would’ve included in his book (and his reviews were VERY helpful for me when I caught up on the show a couple years ago)._
 
-* **Game of Thrones: [Season 1 Preview](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-hbos-game-of-thrones-an-epic-mature-well-crafted-fantasy-series)**
-* Game of Thrones 1×01, “Winter Is Coming”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-winter-is-coming-reviewing-the-series-premiere)
-* Game of Thrones 1×02, “The Kingsroad”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-the-kings-road-lie-down-with-dogs)
-* Game of Thrones 1×03, “Lord Snow”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-lord-snow-war-stories)
-* Game of Thrones 1×04, “Cripples, Bastards, and Broken Things”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-cripples-bastards-and-broken-wall-stories)
-* Game of Thrones 1×05, “The Wolf and the Lion”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-the-wolf-and-the-lion-a-royal-divorce)
-* Game of Thrones 1×06, “A Golden Crown”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-a-golden-crown-you-are-the-last-dragon)
-* Game of Thrones 1×07, “You Win or You Die”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-you-win-or-you-die-the-boar-war)
-* Game of Thrones 1×08, “The Pointy End”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-the-pointy-end-cold-wind-rising)
-* Game of Thrones 1×09, “Baelor”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-baelor-get-your-head-in-the-game)
-* Game of Thrones 1×10, “Fire and Blood”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-fire-blood-reviewing-the-season-finale)
-* **Game of Thrones: [Season 2 Preview](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-is-bigger-and-better-in-season-2)**
-* Game of Thrones 2×01, “The North Remembers”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/season-premiere-review-game-of-thrones-the-north-remembers-a-comet-appears)
-* Game of Thrones 2×02, “The Night Lands”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/game-of-thrones-the-night-lands-make-love-not-war)
-* Game of Thrones 2×03, “What is Dead May Never Die”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-what-is-dead-may-never-die-the-queen-mustnt-know)
-* Game of Thrones 2×04, “Garden of Bones”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-garden-of-bones-i-smell-dead-people)
-* Game of Thrones 2×05, “The Ghost of Harrenhal”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-the-ghost-of-harrenhal-three-deadly-wishes)
-* Game of Thrones 2×06, “The Old Gods and the New”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-the-old-gods-and-the-new-ill-take-the-high-road)
-* Game of Thrones 2×07, “A Man Without Honor”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-a-man-without-honor-horse-and-hound)
-* Game of Thrones 2×08, “The Prince of Winterfell”: [Sepinwall’s review](http://www.hitfix.com/blogs/whats-alan-watching/posts/review-game-of-thrones-the-prince-of-winterfell-fear-itself)
-* Game of Thrones 2×09, “Blackwater”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-blackwater-a-drink-before-the-war)
-* Game of Thrones 2×10, “Valar Morghulis”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-game-of-thrones-valar-morghulis-a-horse-with-no-neck)
-* **Game of Thrones: [Season 3 Preview](http://www.hitfix.com/whats-alan-watching/review-hbos-game-of-thrones-returns-for-season-3-busy-as-ever)**
-* Game of Thrones 3×01, “Valar Dohaeris”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-game-of-thrones-valar-dohaeris-return-to-burning-man)
-* Game of Thrones 3×02, “Dark Wings, Dark Words”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-dark-wings-dark-words-the-cheese-stands-alone)
-* Game of Thrones 3×03, “Walk of Punishment”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-walk-of-punishment-musical-chairs)
-* Game of Thrones 3×04, “And Now His Watch Is Ended”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-and-now-his-watch-is-ended-how-to-trade-your-dragon)
-* Game of Thrones 3×05, “Kissed by Fire”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-kissed-by-fire-why-davos-cant-read)
-* Game of Thrones 3×06, “The Climb”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-climb-on-a-clear-day-you-can-see-forever)
-* Game of Thrones 3×07, “The Bear and the Maiden Fair”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-bear-and-the-maiden-fair-come-blow-your-horn)
-* Game of Thrones 3×08, “Second Sons”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-second-sons-get-me-to-the-church-on-time)
-* Game of Thrones 3×09, “The Rains of Castamere”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-rains-of-castamere-the-man-who-would-be-hodor)
-* Game of Thrones 3×10, “Mhysa”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-game-of-thrones-mhysa-whats-my-name)
-* **Game of Thrones: [Interview with Benioff & Weiss](http://www.hitfix.com/whats-alan-watching/game-of-thrones-producers-benioff-weiss-on-approaching-the-halfway-point)**
-* Game of Thrones 4×01, “Two Swords”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-game-of-thrones-two-swords-eating-crow)
-* Game of Thrones 4×02, “The Lion and the Rose”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-lion-and-the-rose-long-live-the-king)
-* Game of Thrones 4×03, “Breaker of Chains”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-breaker-of-chains-uncle-deadly)
-* Game of Thrones 4×04, “Oathkeeper”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-oath-keeper-i-am-spartacus)
-* Game of Thrones 4×05, “First of His Name”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-first-of-his-name-hodor-unchained)
-* Game of Thrones 4×06, “The Laws of Gods and Men”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-laws-of-gods-and-men-this-whole-court-is-out-of-order)
-* Game of Thrones 4×07, “Mockingbird”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-mockingbird-let-my-love-open-the-moon-door)
-* Game of Thrones 4×08, “The Mountain and the Viper”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-mountain-and-the-viper-hello-my-name-is-oberyn-martell-you-killed-my-sister-prepare-to-die)
-* Game of Thrones 4×09, “The Watchers on the Wall”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-watchers-on-the-wall-have-fun-storming-the-castle)
-* Game of Thrones 4×10, “The Children”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-game-of-thrones-the-children-happy-fathers-day)
-* **Game of Thrones: [Season 5 Preview](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-gets-better-by-bringing-people-together-in-season-5)**
-* Game of Thrones 5×01, “The Wars to Come”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-premiere-review-game-of-thrones-the-wars-to-come-mance-marching)
-* Game of Thrones 5×02, “The House of Black and White”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-house-of-black-and-white-stupid-jon-stark)
-* Game of Thrones 5×03, “High Sparrow”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-high-sparrow-sins-of-the-father)
-* Game of Thrones 5×04, “Sons of the Harpy”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-sons-of-the-harpy-gold-fingers)
-* Game of Thrones 5×05, “Kill the Boy”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-kill-the-boy-grown-ups)
-* Game of Thrones 5×06, “Unbowed, Unbent, Unbroken”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/talkback-game-of-thrones-unbowed-unbent-unbroken)
-* Game of Thrones 5×07, “The Gift”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-gift-i-am-the-egg-man)
-* Game of Thrones 5×08, “Hardhome”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-hardhome-are-you-not-entertained)
-* Game of Thrones 5×09, “The Dance of Dragons”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-the-dance-of-dragons-the-unforgettable-fire)
-* Game of Thrones 5×10, “Mother’s Mercy”: [Sepinwall’s review](http://www.hitfix.com/whats-alan-watching/season-finale-review-game-of-thrones-mothers-mercy-walk-of-shame)
+* **Game of Thrones: [Season 1 Preview](http://www.uproxx.com/sepinwall/review-hbos-game-of-thrones-an-epic-mature-well-crafted-fantasy-series)**
+* Game of Thrones 1×01, “Winter Is Coming”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-winter-is-coming-reviewing-the-series-premiere)
+* Game of Thrones 1×02, “The Kingsroad”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-the-kings-road-lie-down-with-dogs)
+* Game of Thrones 1×03, “Lord Snow”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-lord-snow-war-stories)
+* Game of Thrones 1×04, “Cripples, Bastards, and Broken Things”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-cripples-bastards-and-broken-wall-stories)
+* Game of Thrones 1×05, “The Wolf and the Lion”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-the-wolf-and-the-lion-a-royal-divorce)
+* Game of Thrones 1×06, “A Golden Crown”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-a-golden-crown-you-are-the-last-dragon)
+* Game of Thrones 1×07, “You Win or You Die”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-you-win-or-you-die-the-boar-war)
+* Game of Thrones 1×08, “The Pointy End”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-the-pointy-end-cold-wind-rising)
+* Game of Thrones 1×09, “Baelor”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-baelor-get-your-head-in-the-game)
+* Game of Thrones 1×10, “Fire and Blood”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-fire-blood-reviewing-the-season-finale)
+* **Game of Thrones: [Season 2 Preview](http://www.uproxx.com/sepinwall/review-game-of-thrones-is-bigger-and-better-in-season-2)**
+* Game of Thrones 2×01, “The North Remembers”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-game-of-thrones-the-north-remembers-a-comet-appears)
+* Game of Thrones 2×02, “The Night Lands”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/game-of-thrones-the-night-lands-make-love-not-war)
+* Game of Thrones 2×03, “What is Dead May Never Die”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-what-is-dead-may-never-die-the-queen-mustnt-know)
+* Game of Thrones 2×04, “Garden of Bones”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-garden-of-bones-i-smell-dead-people)
+* Game of Thrones 2×05, “The Ghost of Harrenhal”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-ghost-of-harrenhal-three-deadly-wishes)
+* Game of Thrones 2×06, “The Old Gods and the New”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-old-gods-and-the-new-ill-take-the-high-road)
+* Game of Thrones 2×07, “A Man Without Honor”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-a-man-without-honor-horse-and-hound)
+* Game of Thrones 2×08, “The Prince of Winterfell”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-prince-of-winterfell-fear-itself)
+* Game of Thrones 2×09, “Blackwater”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-blackwater-a-drink-before-the-war)
+* Game of Thrones 2×10, “Valar Morghulis”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-game-of-thrones-valar-morghulis-a-horse-with-no-neck)
+* **Game of Thrones: [Season 3 Preview](http://www.uproxx.com/sepinwall/review-hbos-game-of-thrones-returns-for-season-3-busy-as-ever)**
+* Game of Thrones 3×01, “Valar Dohaeris”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-game-of-thrones-valar-dohaeris-return-to-burning-man)
+* Game of Thrones 3×02, “Dark Wings, Dark Words”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-dark-wings-dark-words-the-cheese-stands-alone)
+* Game of Thrones 3×03, “Walk of Punishment”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-walk-of-punishment-musical-chairs)
+* Game of Thrones 3×04, “And Now His Watch Is Ended”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-and-now-his-watch-is-ended-how-to-trade-your-dragon)
+* Game of Thrones 3×05, “Kissed by Fire”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-kissed-by-fire-why-davos-cant-read)
+* Game of Thrones 3×06, “The Climb”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-climb-on-a-clear-day-you-can-see-forever)
+* Game of Thrones 3×07, “The Bear and the Maiden Fair”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-bear-and-the-maiden-fair-come-blow-your-horn)
+* Game of Thrones 3×08, “Second Sons”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-second-sons-get-me-to-the-church-on-time)
+* Game of Thrones 3×09, “The Rains of Castamere”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-rains-of-castamere-the-man-who-would-be-hodor)
+* Game of Thrones 3×10, “Mhysa”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-game-of-thrones-mhysa-whats-my-name)
+* **Game of Thrones: [Interview with Benioff & Weiss](http://www.uproxx.com/sepinwall/game-of-thrones-producers-benioff-weiss-on-approaching-the-halfway-point)**
+* Game of Thrones 4×01, “Two Swords”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-game-of-thrones-two-swords-eating-crow)
+* Game of Thrones 4×02, “The Lion and the Rose”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-lion-and-the-rose-long-live-the-king)
+* Game of Thrones 4×03, “Breaker of Chains”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-breaker-of-chains-uncle-deadly)
+* Game of Thrones 4×04, “Oathkeeper”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-oath-keeper-i-am-spartacus)
+* Game of Thrones 4×05, “First of His Name”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-first-of-his-name-hodor-unchained)
+* Game of Thrones 4×06, “The Laws of Gods and Men”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-laws-of-gods-and-men-this-whole-court-is-out-of-order)
+* Game of Thrones 4×07, “Mockingbird”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-mockingbird-let-my-love-open-the-moon-door)
+* Game of Thrones 4×08, “The Mountain and the Viper”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-mountain-and-the-viper-hello-my-name-is-oberyn-martell-you-killed-my-sister-prepare-to-die)
+* Game of Thrones 4×09, “The Watchers on the Wall”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-watchers-on-the-wall-have-fun-storming-the-castle)
+* Game of Thrones 4×10, “The Children”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-game-of-thrones-the-children-happy-fathers-day)
+* **Game of Thrones: [Season 5 Preview](http://www.uproxx.com/sepinwall/review-game-of-thrones-gets-better-by-bringing-people-together-in-season-5)**
+* Game of Thrones 5×01, “The Wars to Come”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-premiere-review-game-of-thrones-the-wars-to-come-mance-marching)
+* Game of Thrones 5×02, “The House of Black and White”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-house-of-black-and-white-stupid-jon-stark)
+* Game of Thrones 5×03, “High Sparrow”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-high-sparrow-sins-of-the-father)
+* Game of Thrones 5×04, “Sons of the Harpy”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-sons-of-the-harpy-gold-fingers)
+* Game of Thrones 5×05, “Kill the Boy”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-kill-the-boy-grown-ups)
+* Game of Thrones 5×06, “Unbowed, Unbent, Unbroken”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/talkback-game-of-thrones-unbowed-unbent-unbroken)
+* Game of Thrones 5×07, “The Gift”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-gift-i-am-the-egg-man)
+* Game of Thrones 5×08, “Hardhome”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-hardhome-are-you-not-entertained)
+* Game of Thrones 5×09, “The Dance of Dragons”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/review-game-of-thrones-the-dance-of-dragons-the-unforgettable-fire)
+* Game of Thrones 5×10, “Mother’s Mercy”: [Sepinwall’s review](http://www.uproxx.com/sepinwall/season-finale-review-game-of-thrones-mothers-mercy-walk-of-shame)
