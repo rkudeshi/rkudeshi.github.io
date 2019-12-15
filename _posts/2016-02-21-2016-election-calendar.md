@@ -36,6 +36,9 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * 2015-11-02: DROPOUT [D] - Lawrence Lessig suspends campaign (after not qualifying for 2nd debate)
 * 2016-02-01: DROPOUT [D] - Martin O'Malley suspends campaign (after Iowa vote)
 * Still running: *Hillary Clinton, Bernie Sanders*
+* **UPDATE (2019-12-14):** *By request, I've added dropout dates for all candidates.*
+* 2016-06-07: DROPOUT [D] - Bernie Sanders loses nomination after Clinton secures majority of pledged delegates by winning California and New Jersey primaries
+* Final Democratic nominee: **Hillary Clinton**
 
 #### <a name="gop-dropouts"></a>Republican dropout dates
 
@@ -52,6 +55,12 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * 2016-02-12: DROPOUT [R] - Jim Gilmore[^gilmore] suspends campaign (after NH vote)
 * 2016-02-20: DROPOUT [R] - Jeb Bush suspends campaign (after SC vote)
 * Still running: *Donald Trump, Ted Cruz, Marco Rubio, John Kasich, Ben Carson*
+* **UPDATE (2019-12-14):** *By request, I've added dropout dates for all candidates.*
+* 2016-03-04: DROPOUT [R] - Ben Carson suspends campaign (after Super Tuesday vote)
+* 2016-03-15: DROPOUT [R] - Marco Rubio suspends campaign (after Florida vote)
+* 2016-05-03: DROPOUT [R] - Ted Cruz suspends campaign (after Indiana vote)
+* 2016-05-04: DROPOUT [R] - John Kasich suspends campaign (after Indiana vote)
+* Final Republican nominee: **Donald Trump**
 
 [^gilmore]: Yes, this is the same Jim Gilmore who got 12 votes in Iowa (*not* 12%...just 12 actual votes) and got [fewer votes in New Hampshire](https://en.wikipedia.org/wiki/New_Hampshire_Republican_primary,_2016#Candidates) than 3 candidates who had already dropped out.
 
@@ -222,6 +231,7 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * <span style="color:green">2016-02-27 - VOTE - South Carolina (D)</span>
 * <span style="color:green">2016-03-01 - VOTE - Alabama, Alaska (R), American Samoa, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia</span>
 * <span style="color:red">2016-03-03 - DEBATE - 11th Republican primary debate (Fox News)</span>
+* <span style="color:red">2016-03-04: DROPOUT [R] - Ben Carson suspends campaign (after Super Tuesday vote)</span>
 * <span style="color:green">2016-03-05 - VOTE - Kansas, Kentucky (R), Louisiana, Maine (R), Nebraska (D)</span>
 * <span style="color:blue">2016-03-06 - DEBATE - 7th Democratic primary debate (CNN)</span>
 * <span style="color:green">2016-03-06 - VOTE - Maine (D), Puerto Rico (R)</span>
@@ -230,6 +240,7 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * <span style="color:red">2016-03-10 - DEBATE - 12th Republican primary debate (CNN)</span>
 * <span style="color:green">2016-03-12 - VOTE - District of Columbia (R), Northern Marianas Islands (D)</span>
 * <span style="color:green">2016-03-15 - VOTE - Florida, Illinois, Missouri, Northern Marianas Islands (R), North Carolina, Ohio</span>
+* <span style="color:red">2016-03-15: DROPOUT [R] - Marco Rubio suspends campaign (after Florida vote)</span>
 * <span style="color:green">2016-03-19 - VOTE - Virgin Islands (R)</span>
 * <span style="color:red">2016-03-21 - DEBATE - 13th Republican primary debate (TBD)</span>
 * <span style="color:green">2016-03-22 - VOTE - Arizona, Idaho (D), Utah</span>
@@ -239,6 +250,8 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * <span style="color:green">2016-04-19 - VOTE - New York</span>
 * <span style="color:green">2016-04-26 - VOTE - Connecticut, Delaware, Maryland, Pennsylvania, Rhode Island</span>
 * <span style="color:green">2016-05-03 - VOTE - Indiana</span>
+* <span style="color:red">2016-05-03: DROPOUT [R] - Ted Cruz suspends campaign (after Indiana vote)</span>
+* <span style="color:red">2016-05-04: DROPOUT [R] - John Kasich suspends campaign (after Indiana vote)</span>
 * <span style="color:green">2016-05-07 - VOTE - Guam</span>
 * <span style="color:green">2016-05-10 - VOTE - Nebraska (R), West Virginia</span>
 * <span style="color:green">2016-05-17 - VOTE - Kentucky (D), Oregon</span>
@@ -246,6 +259,7 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * <span style="color:green">2016-06-04 - VOTE - Virgin Islands (D)</span>
 * <span style="color:green">2016-06-05 - VOTE - Puerto Rico (D)</span>
 * <span style="color:green">2016-06-07 - VOTE - California, Montana, New Jersey, New Mexico, North Dakota, South Dakota</span>
+* <span style="color:blue">2016-06-07: DROPOUT [D] - Bernie Sanders loses nomination after Clinton secures majority of pledged delegates by winning California and New Jersey primaries</span>
 * <span style="color:red">2016-07-18 - CONVENTION - Start of Republican convention (Cleveland, OH)</span>
 * <span style="color:red">2016-07-21 - CONVENTION - End of Republican convention (Cleveland, OH)</span>
 * <span style="color:blue">2016-07-25 - CONVENTION - Start of Democratic convention (Philadelphia, PA)</span>
