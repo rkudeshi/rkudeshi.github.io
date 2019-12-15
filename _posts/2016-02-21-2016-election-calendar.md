@@ -35,8 +35,6 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * 2015-10-23: DROPOUT [D] - Lincoln Chafee suspends campaign (after 1st debate)
 * 2015-11-02: DROPOUT [D] - Lawrence Lessig suspends campaign (after not qualifying for 2nd debate)
 * 2016-02-01: DROPOUT [D] - Martin O'Malley suspends campaign (after Iowa vote)
-* Still running: *Hillary Clinton, Bernie Sanders*
-* **UPDATE (2019-12-14):** *By request, I've added dropout dates for all candidates.*
 * 2016-06-07: DROPOUT [D] - Bernie Sanders loses nomination after Clinton secures majority of pledged delegates by winning California and New Jersey primaries
 * Final Democratic nominee: **Hillary Clinton**
 
@@ -54,13 +52,13 @@ Shortcuts: *[Entrance dates](#entrances) / [Republican dropouts](#gop-dropouts) 
 * 2016-02-10: DROPOUT [R] - Carly Fiorina suspends campaign (after NH vote)
 * 2016-02-12: DROPOUT [R] - Jim Gilmore[^gilmore] suspends campaign (after NH vote)
 * 2016-02-20: DROPOUT [R] - Jeb Bush suspends campaign (after SC vote)
-* Still running: *Donald Trump, Ted Cruz, Marco Rubio, John Kasich, Ben Carson*
-* **UPDATE (2019-12-14):** *By request, I've added dropout dates for all candidates.*
 * 2016-03-04: DROPOUT [R] - Ben Carson suspends campaign (after Super Tuesday vote)
 * 2016-03-15: DROPOUT [R] - Marco Rubio suspends campaign (after Florida vote)
 * 2016-05-03: DROPOUT [R] - Ted Cruz suspends campaign (after Indiana vote)
 * 2016-05-04: DROPOUT [R] - John Kasich suspends campaign (after Indiana vote)
 * Final Republican nominee: **Donald Trump**
+
+<em>**UPDATE (2019-12-14):** By request, I've added dropout dates for all candidates, including those still running when I first wrote this post.</em>
 
 [^gilmore]: Yes, this is the same Jim Gilmore who got 12 votes in Iowa (*not* 12%...just 12 actual votes) and got [fewer votes in New Hampshire](https://en.wikipedia.org/wiki/New_Hampshire_Republican_primary,_2016#Candidates) than 3 candidates who had already dropped out.
 
