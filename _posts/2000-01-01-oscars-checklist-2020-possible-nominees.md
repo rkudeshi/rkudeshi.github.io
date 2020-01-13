@@ -4,39 +4,39 @@ title: "Oscars checklist 2020: The possible nominees"
 
 Like the last 3 years, I made a list of the movies that might be nominated at the Oscars so I could try to watch as many of them in theaters as possible in advance (thank you, AMC A-List and Regal Unlimited!).
 
-In a change from past years, I didn't use any math to calculate the most likely nominees. Instead, I just used GoldDerby's list of movies that at least one expert thought might be nominated and removed duplicates. That left a list of 72 movies, sorted by the highest possible category in which they might be nominated.
+In a change from past years, I didn't use any math to calculate the most likely nominees. Instead, I just downloaded GoldDerby's list of movies with a chance of being nominated in any category, removed all duplicates, and sorted it by highest category. I felt this gave me a better list from which to work, starting with the movies that are widely acclaimed and have a chance at Best Picture, and ending with movies that may only be nominated in technical categories.
 
-Hopefully, this will be the second year in a row that I successfully complete the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at)!
+Altogether, this gave me a list of 72 possible movies. Hopefully, this will be the second year in a row that I successfully complete the [Oscars Death Race](https://www.npr.org/sections/monkeysee/2011/02/24/134029466/one-woman-56-movies-the-oscars-death-race-a-windmill-worth-tilting-at)!
 
 ---
 
 **Shortcuts**
 
 * [Sort by category](#sort-by-category)
-    - [Best Picture](#best-picture)
-    - [Best Director](#best-director)
-    - [Best Actress](#best-actress)
-    - [Best Actor](#best-actor)
-    - [Best Supporting Actress](#best-supporting-actress)
-    - [Best Supporting Actor](#best-supporting-actor)
-    - [Best Original Screenplay](#best-original-screenplay)
-    - [Best Adapted Screenplay](#best-adapted-screenplay)
-    - [Best Cinematography](#best-cinematography)
-    - [Best International Film](#best-international-film)
-    - [Best Animated Feature](#best-animated-feature)
-    - [Best Documentary Feature](#best-documentary-feature)
-    - [Best Visual Effects](#best-visual-effects)
-    - [Best Film Editing](#best-film-editing)
-    - [Best Production Design](#best-production-design)
-    - [Best Costume Design](#best-costume-design)
-    - [Best Makeup and Hairstyling](#best-makeup-and-hairstyling)
-    - [Best Sound Editing](#best-sound-editing)
-    - [Best Sound Mixing](#best-sound-mixing)
-    - [Best Score](#best-score)
-    - [Best Song](#best-song)
-    - [Best Live Action Short](#best-live-action-short)
-    - [Best Animated Short](#best-animated-short)
-    - [Best Documentary Short](#best-documentary-short)
+    - <small>[Best Picture](#best-picture)</small>
+    - <small>[Best Director](#best-director)</small>
+    - <small>[Best Actress](#best-actress)</small>
+    - <small>[Best Actor](#best-actor)</small>
+    - <small>[Best Supporting Actress](#best-supporting-actress)</small>
+    - <small>[Best Supporting Actor](#best-supporting-actor)</small>
+    - <small>[Best Original Screenplay](#best-original-screenplay)</small>
+    - <small>[Best Adapted Screenplay](#best-adapted-screenplay)</small>
+    - <small>[Best Cinematography](#best-cinematography)</small>
+    - <small>[Best International Film](#best-international-film)</small>
+    - <small>[Best Animated Feature](#best-animated-feature)</small>
+    - <small>[Best Documentary Feature](#best-documentary-feature)</small>
+    - <small>[Best Visual Effects](#best-visual-effects)</small>
+    - <small>[Best Film Editing](#best-film-editing)</small>
+    - <small>[Best Production Design](#best-production-design)</small>
+    - <small>[Best Costume Design](#best-costume-design)</small>
+    - <small>[Best Makeup and Hairstyling](#best-makeup-and-hairstyling)</small>
+    - <small>[Best Sound Editing](#best-sound-editing)</small>
+    - <small>[Best Sound Mixing](#best-sound-mixing)</small>
+    - <small>[Best Score](#best-score)</small>
+    - <small>[Best Song](#best-song)</small>
+    - <small>[Best Live Action Short](#best-live-action-short)</small>
+    - <small>[Best Animated Short](#best-animated-short)</small>
+    - <small>[Best Documentary Short](#best-documentary-short)</small>
 * [Final list](#final-list)
 
 ---
@@ -493,7 +493,7 @@ Columns:
 This list includes all feature-length films (no shorts). Altogether, there are **72** unique films that may be nominated for an Oscar.
 
 |-----|------------------------------------------------|-----------------------------|------------|
-|  #  |                      Film                      |       Highest Category      | Categories |
+|  #  |                      Film                      |       Highest Category      | Total Categories |
 |-----|------------------------------------------------|-----------------------------|------------|
 |  1. | **The Irishman**                               | Best Picture                |         13 |
 |  2. | **Once Upon a Time in Hollywood**              | Best Picture                |         12 |
@@ -568,4 +568,3 @@ This list includes all feature-length films (no shorts). Altogether, there are *
 | 71. | **Breakthrough**                               | Best Song                   |          1 |
 | 72. | **The Black Godfather**                        | Best Song                   |          1 |
 |-----|------------------------------------------------|-----------------------------|------------|
-
