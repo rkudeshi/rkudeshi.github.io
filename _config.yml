@@ -4,7 +4,7 @@ permalink:           /:short_year/:month/:title
 # Setup
 title:               "Ravi Udeshi"
 tagline:             ""
-url:                 http://raviudeshi.com
+url:                 https://raviudeshi.com
 paginate:            10
 baseurl:             ""
 analytics_id:        "UA-180415-1"
@@ -19,7 +19,7 @@ sass:
 author:
   twitter:           rkudeshi
   name:              Ravi Udeshi
-  url:               http://raviudeshi.com
+  url:               https://raviudeshi.com
   email:             ""
 
 # Gems
