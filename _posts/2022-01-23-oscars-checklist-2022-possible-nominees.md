@@ -128,30 +128,7 @@ Columns:
 
 #### **Shortcuts**
 
-- <small>[Best Picture](#best-picture)</small>
-- <small>[Best Director](#best-director)</small>
-- <small>[Best Actress](#best-actress)</small>
-- <small>[Best Actor](#best-actor)</small>
-- <small>[Best Supporting Actress](#best-supporting-actress)</small>
-- <small>[Best Supporting Actor](#best-supporting-actor)</small>
-- <small>[Best Original Screenplay](#best-original-screenplay)</small>
-- <small>[Best Adapted Screenplay](#best-adapted-screenplay)</small>
-- <small>[Best Cinematography](#best-cinematography)</small>
-- <small>[Best International Film](#best-international-film)</small>
-- <small>[Best Animated Feature](#best-animated-feature)</small>
-- <small>[Best Documentary Feature](#best-documentary-feature)</small>
-- <small>[Best Visual Effects](#best-visual-effects)</small>
-- <small>[Best Film Editing](#best-film-editing)</small>
-- <small>[Best Production Design](#best-production-design)</small>
-- <small>[Best Costume Design](#best-costume-design)</small>
-- <small>[Best Makeup and Hairstyling](#best-makeup-and-hairstyling)</small>
-- <small>[Best Sound](#best-sound)</small>
-- <small>[Best Score](#best-score)</small>
-- <small>[Best Song](#best-song)</small>
-- <small>[Best Live Action Short](#best-live-action-short)</small>
-- <small>[Best Animated Short](#best-animated-short)</small>
-- <small>[Best Documentary Short](#best-documentary-short)</small>
-
+- [Best Picture](#best-picture) / [Best Director](#best-director) / [Best Actress](#best-actress) / [Best Actor](#best-actor) / [Best Supporting Actress](#best-supporting-actress) / [Best Supporting Actor](#best-supporting-actor) / [Best Original Screenplay](#best-original-screenplay) / [Best Adapted Screenplay](#best-adapted-screenplay) / [Best Cinematography](#best-cinematography) / [Best International Film](#best-international-film) / [Best Animated Feature](#best-animated-feature) / [Best Documentary Feature](#best-documentary-feature) / [Best Visual Effects](#best-visual-effects) / [Best Film Editing](#best-film-editing) / [Best Production Design](#best-production-design) / [Best Costume Design](#best-costume-design) / [Best Makeup and Hairstyling](#best-makeup-and-hairstyling) / [Best Sound](#best-sound) / [Best Score](#best-score) / [Best Song](#best-song) / [Best Live Action Short](#best-live-action-short) / [Best Animated Short](#best-animated-short) / [Best Documentary Short](#best-documentary-short)
 
 #### Best Picture
 
