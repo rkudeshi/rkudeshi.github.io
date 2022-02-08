@@ -8,7 +8,11 @@ As is tradition, I've annotated the predictions data from [my last post](https:/
 
 All movies that actually received nominations are now in bold. There was only one nomination, in Best Supporting Actress, that no one expected to be nominated just two short weeks ago (Judi Dench for Belfast).[^2]
 
-In a refreshing change, it appears that 4(!) international films are nominated in categories outside Best International Film: **Drive My Car** (Picture, Director, Adapted Screenplay, and International Film), **The Worst Person in the World** (Original Screenplay, International Film), **Parallel Mothers** (Actress, Score), and **Flee** (the trifecta: Animated Feature, Documentary Feature, and International Film!).
+In a refreshing change, it appears that 4(!) international films are nominated in categories outside Best International Film:
+- **Drive My Car** (Picture, Director, Adapted Screenplay, and International Film)
+- **The Worst Person in the World** (Original Screenplay, International Film)
+- **Parallel Mothers** (Actress, Score)
+- **Flee** (the trifecta: Animated Feature, Documentary Feature, and International Film!)
 
 [^1]: Which is kind of weird to say given that the Super Bowl is this coming Sunday...
 
