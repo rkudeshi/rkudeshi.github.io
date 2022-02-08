@@ -159,21 +159,21 @@ All movies that actually received nominations are now in **bold**. In **2** shor
 
 #### Best Original Screenplay
 
-|-----|-----------------------------------|-----|-----|-----|-------|
-| NUM |                FILM               | DEL | NOM | WIN |  ODDS |
-|-----|-----------------------------------|-----|-----|-----|-------|
-|   1 | **Marriage Story**                | -   |  29 |  18 | 18/5  |
-|   2 | **Once Upon a Time in Hollywood** | -   |  28 |   7 | 4/1   |
-|   3 | **Parasite**                      | -   |  28 |   3 | 9/2   |
-|   4 | The Farewell                      | -   |  20 |   0 | 7/1   |
-|   5 | Pain and Glory                    | -   |  14 |   1 | 21/2  |
-|   6 | **Knives Out**                    | -   |  13 |   1 | 11/1  |
-|   7 | Booksmart                         | -   |   7 |   0 | 22/1  |
-|   8 | **1917**                          | -   |   6 |   0 | 25/1  |
-|   9 | Dolemite Is My Name               | -   |   3 |   0 | 54/1  |
-|  10 | Bombshell                         | -   |   1 |   0 | 100/1 |
-|  11 | Us                                | -   |   1 |   0 | 100/1 |
-|-----|-----------------------------------|-----|-----|-----|-------|
+|-----|-----------------------------------|-----|-----|-------|
+| NUM |                FILM               | NOM | WIN |  ODDS |
+|-----|-----------------------------------|-----|-----|-------|
+|   1 | **Marriage Story**                |  29 |  18 | 18/5  |
+|   2 | **Once Upon a Time in Hollywood** |  28 |   7 | 4/1   |
+|   3 | **Parasite**                      |  28 |   3 | 9/2   |
+|   4 | The Farewell                      |  20 |   0 | 7/1   |
+|   5 | Pain and Glory                    |  14 |   1 | 21/2  |
+|   6 | **Knives Out**                    |  13 |   1 | 11/1  |
+|   7 | Booksmart                         |   7 |   0 | 22/1  |
+|   8 | **1917**                          |   6 |   0 | 25/1  |
+|   9 | Dolemite Is My Name               |   3 |   0 | 54/1  |
+|  10 | Bombshell                         |   1 |   0 | 100/1 |
+|  11 | Us                                |   1 |   0 | 100/1 |
+|-----|-----------------------------------|-----|-----|-------|
 
 #### Best Adapted Screenplay
 
