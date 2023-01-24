@@ -2,16 +2,16 @@
 title: "Oscars checklist 2023: All 54 films nominated and where to stream them"
 ---
 
-As someone who participates in the "Oscars Death Race" - trying to watch every movie nominated at the Oscars in every category! - I like to put together a list of all the nominated films, sorted by their "highest" nominated category.
+As someone who participates in the "Oscars Death Race" - *trying to watch every movie nominated in every category at the Oscars!* - I like to put together a list of all the nominated films, sorted by their "highest" nominated category.
 
-Here is the list of all 54 films nominated for this year's Oscars, with links for where to stream them. I hope you use this and watch some of these *great* films!
+Here is the list of all 54 films nominated for this year's Oscars, with links for where to stream them. I hope you use this to watch some of these *great* films!
 
 Personally, this has been a very stressful and busy year at work, so I've managed to watch fewer of the nominated films than usual. As of today, here's where I stand on the 54 total films:
 - **20 feature films already seen.** Looks like I managed to see all of these in theaters!
 - **19 feature films not seen yet.** These are mostly documentary and international films, some of which haven't been released in theaters or VOD yet. Unfortunately, it also includes 7 movies that were in theaters in my area, but I just missed them (or haven't had a chance to see them yet.)
 - **15 short films.** Some theaters will play these a week or two before the ceremony, so I like to wait to watch them until then.
 
-The big ceremony is on March 12, 2022 - looks like I've got some work to do if I want to watch everything before then!
+The big ceremony is on March 12, 2023 - looks like I've got some work to do if I want to watch everything before then!
 
 ### The big list
 
