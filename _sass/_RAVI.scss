@@ -197,6 +197,8 @@ body {
 }
 .container {
   flex: 1;
+  min-width: 0;
+  width: 100%;
 }
 
 
@@ -474,6 +476,14 @@ td, th {
 
 table {
     border-style: hidden;
+}
+
+// Make wide tables scrollable (horizontal) instead of overflowing/breaking layout
+table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
 }
 
 tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
