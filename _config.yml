@@ -7,7 +7,7 @@ tagline:             ""
 url:                 https://raviudeshi.com
 paginate:            10
 baseurl:             ""
-analytics_id:        "UA-180415-1"
+cloudflare_analytics_token: "3e17fbcb53bb488fb80e1589d89f8085"
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
