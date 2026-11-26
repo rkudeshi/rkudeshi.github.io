@@ -3,6 +3,8 @@ layout: default
 title: "Ravi Udeshi"
 ---
 
+{% if paginator.page == 1 %}{% include home-intro.html %}{% endif %}
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
