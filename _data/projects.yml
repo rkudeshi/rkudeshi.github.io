@@ -20,7 +20,7 @@
   url: https://recountwatch.raviudeshi.com
   logo: /public/projects/recountwatch-logo.svg
   screenshot: /public/projects/recountwatch-screenshot.jpg
-  blurb: Which Santa Clara County contests are headed for an automatic recount.
+  blurb: Tracking which Santa Clara County contests are headed for an automatic recount.
 
 - id: oscars
   name: Oscars Watch

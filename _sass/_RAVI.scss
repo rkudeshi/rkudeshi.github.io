@@ -503,11 +503,11 @@ tbody tr:hover, tbody tr:hover td {
 // Homepage intro + projects row
 
 .home-intro {
-    margin: 1.25rem -0.5rem 1.25rem;
-    padding: 0.9rem 1.5rem 1rem;
-    background: rgba(244, 246, 250, 0.92);
-    border: 1px solid #e6e9ef;
-    border-radius: 6px;
+    // No box: a soft, feathered wash of the page color lifts the text off
+    // the textured background without drawing an edge.
+    margin: 0.5rem -1.5rem 0.5rem;
+    padding: 1.25rem 1.75rem 1.4rem;
+    background: radial-gradient(ellipse 70% 75% at 35% 50%, rgba(253, 253, 253, 0.97) 45%, rgba(253, 253, 253, 0) 100%);
 }
 .home-intro-title {
     margin: 0 0 0.25rem;
@@ -601,7 +601,7 @@ tbody tr:hover, tbody tr:hover td {
 
 // Phones: stack the projects as compact rows so the blog starts on screen
 @media (max-width: 30em) {
-    .home-intro { margin: 1.25rem -0.5rem 1.1rem; padding: 0.9rem 1rem 1rem; }
+    .home-intro { margin: 0.25rem -1.5rem 0.25rem; padding: 1rem 1.75rem 1.1rem; }
     .home-intro-title { font-size: 1.75rem; }
     .home-intro-lede { font-size: 0.9rem; line-height: 1.4; }
     .project-cards { grid-template-columns: 1fr; gap: 0.4rem; }
@@ -658,14 +658,11 @@ tbody tr:hover, tbody tr:hover td {
     img {
         display: block;
         width: 100%;
-        border-radius: 6px;
-        border: 1px solid rgba(20, 24, 40, 0.08);
-        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.08), 0 14px 36px rgba(20, 24, 40, 0.22);
-        transition: box-shadow 0.3s;
+        border-radius: 14px;
+        border: 1px solid #d9dce3;
+        transition: border-color 0.3s;
     }
-    &:hover img {
-        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.1), 0 18px 44px rgba(20, 24, 40, 0.3);
-    }
+    &:hover img { border-color: lightskyblue; }
 }
 .project-entry-visit {
     font-weight: 600;
