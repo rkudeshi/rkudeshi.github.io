@@ -40,7 +40,7 @@ title: Projects
   <p>The I Voted Sticker Database collects "I Voted" sticker designs from across the country: more than 2,500 designs so far, from all 50 states. You can browse them by theme, state, or design contest, find designs on a map, and even turn your favorites into a phone or desktop wallpaper.</p>
   <p>I love seeing all the unique stickers that come out of the design contests counties hold, and the site tells the stories behind many of the winners. Know of a sticker that's missing? You can submit it.</p>
   {% when 'oscars' %}
-  <p>Every year I try to watch every movie nominated in every category at the Oscars, a challenge known as the Oscars Death Race. For years I tracked it here with my <a href="{{ site.baseurl }}/archives">Oscars checklists</a>. Oscars Watch turns those checklists into a live site.</p>
+  <p>Every year I try to watch every movie nominated in every category at the Oscars, a challenge known as the Oscars Death Race. For years I tracked it here with my <a href="{{ site.baseurl }}/blog">Oscars checklists</a>. Oscars Watch turns those checklists into a live site.</p>
   <p>It lists every film with a real shot at a nomination, using Gold Derby's combined odds, and shows where to watch each one in the US, whether in theaters or streaming. You can mark the films you've seen to track your own progress, and follow the odds as they move toward nominations in January.</p>
   {% endcase %}
 

@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Archives
-permalink: /archives
-redirect_from: /archive
+title: Blog
+permalink: /blog
+redirect_from:
+  - /archives
+  - /archives/
+  - /archive
 ---
 
 {% for post in site.posts %}

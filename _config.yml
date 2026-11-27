@@ -42,9 +42,8 @@ gems:
 pages_list:       
   about: '/about'
   projects: '/projects'
-  archives: '/archives'
+  blog: '/blog'
   contact: '/contact'
-  subscribe: '/subscribe'
 
 # Layout is "post" by default
 defaults:
