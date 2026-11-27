@@ -507,7 +507,7 @@ tbody tr:hover, tbody tr:hover td {
     // the textured background without drawing an edge.
     margin: 0.5rem -1.5rem 0.5rem;
     padding: 1.25rem 1.75rem 1.4rem;
-    background: radial-gradient(ellipse 70% 75% at 35% 50%, rgba(253, 253, 253, 0.97) 45%, rgba(253, 253, 253, 0) 100%);
+    background: radial-gradient(ellipse 70% 75% at 35% 50%, rgba(253, 253, 253, 0.86) 40%, rgba(253, 253, 253, 0) 100%);
 }
 .home-intro-title {
     margin: 0 0 0.25rem;
@@ -688,3 +688,33 @@ tbody tr:hover, tbody tr:hover td {
     text-transform: uppercase;
     letter-spacing: 0.04em;
 }
+
+// Projects page: jump links at the top
+.project-jump {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+    margin: 1.25rem 0 0.5rem;
+
+    @media (max-width: 30em) { grid-template-columns: 1fr; }
+
+    a {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding: 0.45rem 0.75rem 0.45rem 0.5rem;
+        border: 1px solid #e3e6ec;
+        border-radius: 10px;
+        background: #fafbfc;
+        color: #313131;
+        font-size: 0.85rem;
+        font-weight: 600;
+        line-height: 1.2;
+        text-decoration: none;
+        transition: border-color 0.2s, background 0.2s;
+    }
+    a:hover { border-color: lightskyblue; background: white; }
+    img { display: block; flex: none; width: 28px; height: 28px; margin: 0; border-radius: 7px; }
+}
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }

@@ -4,7 +4,11 @@ permalink: /projects
 title: Projects
 ---
 
-When I'm not working, I'm usually building something. Most of these projects grew out of my work in election administration: tools I wished existed, so I made them. Each one lives on its own corner of raviudeshi.com.
+In my spare time, I enjoy building things. Most of these projects grew out of my work in election administration: tools I wished existed, so I made them. Each one lives on its own corner of raviudeshi.com.
+
+<nav class="project-jump" aria-label="Jump to a project">
+  {% for p in site.data.projects %}<a href="#{{ p.id }}"><img src="{{ site.baseurl }}{{ p.logo }}" alt="" width="24" height="24">{{ p.name }}</a>{% endfor %}
+</nav>
 
 {% for p in site.data.projects %}
 <section class="project-entry" id="{{ p.id }}">
