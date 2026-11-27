@@ -716,3 +716,119 @@ tbody tr:hover, tbody tr:hover td {
 }
 html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+
+// About page: section headings, follow links, email reveal
+
+.about-section {
+    margin: 2.5rem 0 0.75rem;
+    font-size: 1.35rem;
+}
+.page-title + .about-section { margin-top: 1rem; }
+
+.link-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+    margin: 0 0 1rem;
+    font-size: 0.85rem;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-weight: 600;
+        white-space: nowrap;
+        text-decoration: none;
+    }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    img { display: block; flex: none; width: 18px; height: 18px; margin: 0; }
+}
+.link-list-label {
+    margin-bottom: 0.1rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9a9a9a;
+}
+
+.email-reveal button {
+    font: inherit;
+    font-size: 0.9rem;
+    padding: 0.35rem 0.8rem;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.email-reveal button:hover { background: #f5f5f5; }
+.email-reveal a { font-weight: 600; }
+
+
+// Homepage "More posts": space between posts, not between lines of one title
+
+.more-posts .related-posts li {
+    line-height: 1.35;
+    margin-bottom: 0.55rem;
+}
+
+// About page: work timeline (dots joined by a thin gray line)
+
+.timeline {
+    list-style: none;
+    margin: 1.25rem 0 1.5rem;
+    padding: 0;
+
+    li {
+        position: relative;
+        padding: 0 0 1.5rem 1.75rem;
+    }
+    li::before {
+        content: "";
+        position: absolute;
+        left: 0.3rem;
+        top: 0.55rem;
+        bottom: -0.55rem;
+        width: 1px;
+        background: #d5d5d5;
+    }
+    li:last-child { padding-bottom: 0; }
+    li:last-child::before { display: none; }
+    li::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.3rem;
+        width: 0.65rem;
+        height: 0.65rem;
+        border-radius: 50%;
+        background: #fff;
+        border: 2px solid #555;
+        box-sizing: border-box;
+    }
+    li:first-child::after { background: #555; }
+    p { margin: 0.4rem 0 0; }
+}
+.timeline-dates {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9a9a9a;
+}
+.timeline-title {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #313131;
+}
+.timeline-org {
+    display: block;
+    color: #666;
+    font-size: 0.95rem;
+}

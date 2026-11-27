@@ -2,32 +2,90 @@
 layout: page
 permalink: /about
 title: About Ravi Udeshi
+description: "Ravi Udeshi is an election administrator who likes technology, movies, travel, and building things. Follow or contact him, and learn about this site."
+redirect_from:
+  - /contact
+  - /contact/
+  - /subscribe
+  - /subscribe/
+social:
+  - name: X (Twitter)
+    url: https://x.com/rkudeshi
+    icon: x
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/rkudeshi
+    icon: linkedin
+  - name: Threads
+    url: https://www.threads.com/@rkudeshi
+    icon: threads
+  - name: Bluesky
+    url: https://bsky.app/profile/rkudeshi.bsky.social
+    icon: bluesky
+  - name: Instagram
+    url: https://www.instagram.com/rkudeshi
+    icon: instagram
 ---
 
-Hi! My name is Ravi and this is my little corner of the web. I'm interested in the intersection of technology, media, and law, so you'll probably see lots of posts about that [here](/blog).
+<h2 class="about-section" id="follow">Follow or contact me</h2>
 
-#### Colophon
+<nav class="link-list" aria-label="Follow me">
+  <span class="link-list-label">Find me on</span>
+  {% for s in page.social %}<a href="{{ s.url }}" rel="me"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18">{{ s.name }}</a>{% endfor %}
+</nav>
 
-I write every post on this site in [Markdown](http://commonmark.org),[^view-markdown] a simple markup language. I usually jot down ideas in [nvALT](http://brettterpstra.com/projects/nvalt/), a plain-text notes app, and then flesh them out in [Sublime Text](http://sublimetext.com) with the [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing) package.
+I'm **@rkudeshi** everywhere above, and you're welcome to message me on any of them.
 
-This site is powered by [Jekyll](http://jekyllrb.com), a static site generator (I *really* like it!). I used to use WordPress, but it's overkill for what I need here. [GitHub Pages](http://pages.github.com) natively integrates Jekyll, so I use it to host this site.
+Have an idea or a suggestion? Spot a typo, a broken link, or a number that looks off on this site or one of [my projects](/projects)? I'd like to hear about it. You can also email me:
 
-[^view-markdown]: If you want to see the original Markdown for any post, just click on the `M↓` link below any post title!
+<p class="email-reveal">
+  <button type="button" id="email-reveal">Show my email address</button>
+  <noscript><img src="{{ site.baseurl }}/silo/images/contact-mail.png" alt="My email address, shown as an image"></noscript>
+</p>
 
-#### Privacy
+<script>
+  // The address is put together in your browser, so it never appears in this page's source.
+  (function () {
+    var btn = document.getElementById('email-reveal');
+    btn.addEventListener('click', function () {
+      var addr = ['contact', ['raviudeshi', 'com'].join('.')].join('@');
+      var link = document.createElement('a');
+      link.href = 'mail' + 'to:' + addr;
+      link.textContent = addr;
+      btn.parentNode.replaceChild(link, btn);
+      link.focus();
+    });
+  })();
+</script>
 
-Privacy is deeply important to me. I know this is just a dinky little personal blog, but I still want to disclose the third-party services I use that may be able track you:
+<h2 class="about-section" id="about-me">About me</h2>
 
-- **Site analytics**: I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) for basic site analytics (how many people visit the site, which blog posts get the most views, etc). It's privacy-friendly by design — no cookies, no cross-site tracking, no personal data collected.
-- **RSS metrics**: I use FeedBurner to know how many people are subscribed to the RSS feed and for the subscribe-by-email feature. I've been using the service since before Google bought it (in '07!), but I'd be happy to switch away if any alternatives actually existed.
-- **Embedded media**: Some blog posts include embedded tweets, YouTube videos, and other basic media. The way embeds work is by loading some JavaScript from their host site, so they may be able to track you (especially if you're logged in to YouTube or Twitter).
-- **Web fonts**: I'm experimenting with different fonts on this site, so you may see scripts load from TypeKit, Typography.com, or Google Fonts.
-- **Affiliate links**: Every once in a while, I remember I signed up for Amazon's affiliate program. And then I remember Amazon disabled my affiliate account for inactivity.
-- **Ads**: There are no text ads or display ads on this site. (Though embedded YouTube videos sometimes have ads, which is why you may see DoubleClick Media show up in Ghostery).
-- **Share buttons**: I have simple links to share to Facebook/Twitter, but I do NOT use their native buttons, which "call home" and let them see what sites you visit across the web. Facebook can't track you here, woo!
+I'm an election administrator who likes technology, movies, travel, and building things. I've worked in two of the largest election offices in the country:
 
-I've tried to keep this site simple and fast, and avoiding lots of 3rd-party services just makes that easier.
+<ol class="timeline">
+  <li>
+    <span class="timeline-dates">2026 – present</span>
+    <strong class="timeline-title">Assistant Registrar of Voters</strong>
+    <span class="timeline-org">Santa Clara County, California</span>
+    <p>I’m part of the three-person executive team that runs elections for nearly a million voters, with 112 vote centers, about a million mail ballots each election, and materials in 17 languages. I also started the county’s first “I Voted” sticker design contest.</p>
+  </li>
+  <li>
+    <span class="timeline-dates">2017 – 2025</span>
+    <strong class="timeline-title">Deputy Director and Deputy General Registrar</strong>
+    <span class="timeline-org">Fairfax County, Virginia</span>
+    <p>I helped run elections in Virginia’s largest county, with 6,000 poll workers each election. I led the recount of a November 2024 election with 350,000 ballots, and built in-house tools that replaced vendor software.</p>
+  </li>
+</ol>
 
-#### Contact
+I'm proud to have led or been part of teams whose projects have won 14 national awards from the U.S. Election Assistance Commission and the Election Center, for work like poll worker training, voter guides, and tools for running Election Day.
 
-Need to get in touch? Go [here](/contact).
+Outside of work, I like experimenting with technology and AI to build the tools I wish existed, and that's most of what you'll find here: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), a [database of "I Voted" stickers](/projects#stickers), and a way to keep up with [every Oscar-nominated film](/projects#oscars).
+
+I've had this site since 2005. I don't blog much these days, but [the old posts](/blog) are still here.
+
+<h2 class="about-section" id="about-the-site">About this site</h2>
+
+I write posts in [Markdown](https://commonmark.org), a simple plain-text format. I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and flesh them out in [Sublime Text](https://www.sublimetext.com). These days I also build a lot of the site, and my projects, with the help of AI coding tools.
+
+The site is built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). The [source code](https://github.com/rkudeshi/rkudeshi.github.io) is on GitHub. This version was built on {{ site.time | date: "%B %-d, %Y" }} (revision <span title="{{ site.time | date: '%c' }}">{{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span>).
+
+I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) to count visits. It doesn't use cookies or follow you around the web, and there are no ads here.

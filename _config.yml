@@ -43,7 +43,6 @@ pages_list:
   about: '/about'
   projects: '/projects'
   blog: '/blog'
-  contact: '/contact'
 
 # Layout is "post" by default
 defaults:
