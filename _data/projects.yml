@@ -1,0 +1,30 @@
+# Projects shown on the homepage row and on /projects, in this order.
+# `blurb` is the one sentence on the homepage card.
+- id: stickers
+  name: I Voted Sticker Database
+  url: https://stickers.raviudeshi.com
+  logo: /public/projects/stickers-logo.png
+  screenshot: /public/projects/stickers-screenshot.jpg
+  blurb: Thousands of "I Voted" sticker designs from across the country.
+
+- id: voteflow
+  name: VoteFlow
+  url: https://voteflow.raviudeshi.com
+  logo: /public/projects/voteflow-logo.svg
+  screenshot: /public/projects/voteflow-screenshot.jpg
+  blurb: A daily early voting turnout dashboard for Virginia and California.
+
+- id: recountwatch
+  name: Recount Watch
+  full_name: Santa Clara County Automatic Recount Watch
+  url: https://recountwatch.raviudeshi.com
+  logo: /public/projects/recountwatch-logo.svg
+  screenshot: /public/projects/recountwatch-screenshot.jpg
+  blurb: Tracking which Santa Clara County contests are headed for an automatic recount.
+
+- id: oscars
+  name: Oscars Watch
+  url: https://oscars.raviudeshi.com
+  logo: /public/projects/oscars-logo.svg
+  screenshot: /public/projects/oscars-screenshot.jpg
+  blurb: Every film with a real shot at an Oscar nomination, and where to watch it.

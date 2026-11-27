@@ -1,0 +1,28 @@
+<section class="home-intro">
+  <h1 class="home-intro-title">Hi, I'm Ravi.</h1>
+  <p class="home-intro-lede">I'm an election administrator who loves technology and building things. <a href="{{ site.baseurl }}/about">More about me&nbsp;&rarr;</a></p>
+</section>
+
+<section class="home-projects" aria-labelledby="home-projects-heading">
+  <div class="home-section-header">
+    <h2 id="home-projects-heading">Projects</h2>
+    <a href="{{ site.baseurl }}/projects">All projects&nbsp;&rarr;</a>
+  </div>
+  <ul class="project-cards">
+    {% for p in site.data.projects %}
+    <li class="project-card">
+      <a class="project-card-link" href="{{ p.url }}">
+        <img class="project-card-logo" src="{{ site.baseurl }}{{ p.logo }}" alt="" width="44" height="44">
+        <span class="project-card-name">{{ p.name }}</span>
+        <span class="project-card-blurb">{{ p.blurb }}</span>
+      </a>
+      <span class="project-card-actions"><a href="{{ p.url }}">Visit</a> &middot; <a href="{{ site.baseurl }}/projects#{{ p.id }}">About</a></span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<div class="home-section-header home-blog-header">
+  <h2>Blog</h2>
+  <a href="{{ site.baseurl }}/archives">All blog posts&nbsp;&rarr;</a>
+</div>
