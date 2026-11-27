@@ -4,7 +4,7 @@ permalink: /about
 title: About Ravi Udeshi
 ---
 
-Hi! My name is Ravi and this is my little corner of the web. I'm interested in the intersection of technology, media, and law, so you'll probably see lots of posts about that [here](/archives).
+Hi! My name is Ravi and this is my little corner of the web. I'm interested in the intersection of technology, media, and law, so you'll probably see lots of posts about that [here](/blog).
 
 #### Colophon
 
