@@ -501,23 +501,32 @@ tbody tr:hover, tbody tr:hover td {
 
 
 // Homepage intro + projects row
+//
+// The intro sits in a full-width navy band that continues the masthead.
+// The project cards straddle the band's bottom edge.
 
-.home-intro {
-    margin: 1.75rem 0 1.25rem;
+.home-hero {
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding: 1.75rem calc(50vw - 50%) 4rem;
+    background: linear-gradient(#353A4A, #2c3040);
+    color: #c9cede;
+}
+.home-hero-inner {
     padding: 0 0.25rem;
 }
 .home-intro-title {
-    margin: 0 0 0.25rem;
-    font-size: 2.25rem;
+    margin: 0 0 0.3rem;
+    font-size: 2.4rem;
     line-height: 1.1;
-    color: #313131;
+    color: white;
     letter-spacing: -0.01em;
 }
 .home-intro-lede {
     margin: 0;
     font-size: 1rem;
-    color: #666;
-    a { white-space: nowrap; }
+    color: #c9cede;
+    a { color: lightskyblue; white-space: nowrap; }
 }
 
 .home-projects-header,
@@ -525,32 +534,37 @@ tbody tr:hover, tbody tr:hover td {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-    margin: 0 0.25rem 0.5rem;
 }
-.home-projects-header h2,
+.home-projects-header {
+    margin: 1.5rem 0 0;
+    h2 {
+        margin: 0;
+        font-size: 0.8rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: lightskyblue;
+    }
+    a { font-size: 0.8rem; color: #c9cede; }
+    a:hover { color: white; }
+}
 .home-posts-heading {
-    margin: 0;
+    margin: 1.5rem 0.25rem -0.5rem;
     font-size: 0.8rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: #9a9a9a;
 }
-.home-projects-header a {
-    font-size: 0.8rem;
-}
-.home-posts-heading {
-    margin-top: 1.75rem;
-    margin-bottom: -0.5rem;
-}
 
 .project-cards {
+    position: relative;
     list-style: none;
-    margin: 0 -0.5rem;
+    margin: -3rem -0.5rem 0;
     padding: 0;
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 0.6rem;
+    gap: 0.75rem;
 
     @media (max-width: 40em) {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -560,17 +574,21 @@ tbody tr:hover, tbody tr:hover td {
     display: flex;
     flex-direction: column;
     margin: 0;
-    padding: 0.75rem;
+    padding: 0.9rem 0.85rem 0.8rem;
     background: white;
-    border-radius: 1px;
-    box-shadow: 0 2px 6px #eee;
-    border-top: 3px solid lightskyblue;
-    transition: box-shadow 0.5s;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(20, 24, 40, 0.08), 0 6px 18px rgba(20, 24, 40, 0.12);
+    transition: box-shadow 0.3s, transform 0.3s;
     font-size: 0.8rem;
     line-height: 1.35;
 
-    &:hover { box-shadow: 0 0 5px #bbb; }
-    &.is-coming-soon { border-top-color: #e8c468; }
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.1), 0 10px 26px rgba(20, 24, 40, 0.18);
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    .project-card, .project-card:hover { transition: none; transform: none; }
 }
 .project-card-link {
     display: flex;
@@ -582,11 +600,11 @@ tbody tr:hover, tbody tr:hover td {
 .project-card-logo {
     width: 44px;
     height: 44px;
-    margin-bottom: 0.4rem;
-    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    border-radius: 9px;
 }
 .project-card-name {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 0.9rem;
     color: #313131;
     margin-bottom: 0.15rem;
@@ -594,18 +612,18 @@ tbody tr:hover, tbody tr:hover td {
 .project-card-blurb {
     color: #767676;
 }
-.project-badge-inline { display: none; }
+.project-card .project-badge-inline { display: none; }
 .project-card-actions {
-    margin-top: 0.5rem;
+    margin-top: 0.6rem;
     font-size: 0.75rem;
     color: #bbb;
 }
 .project-badge {
     display: inline-block;
-    padding: 0 0.4rem;
+    padding: 0 0.45rem;
     border-radius: 1rem;
-    background: #fbf3dc;
-    color: #8a6d1f;
+    background: #f3f0e4;
+    color: #7a6420;
     font-size: 0.7rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -614,39 +632,34 @@ tbody tr:hover, tbody tr:hover td {
 
 // Phones: stack the projects as compact rows so the blog starts on screen
 @media (max-width: 30em) {
-    .home-intro { margin: 1.25rem 0 1rem; }
-    .home-intro-title { font-size: 1.75rem; }
-    .home-intro-lede { font-size: 0.9rem; line-height: 1.4; }
-    .project-cards { grid-template-columns: 1fr; gap: 0.35rem; }
-    .project-card {
-        flex-direction: row;
-        align-items: center;
-        padding: 0.5rem 0.75rem;
-        border-top: none;
-        border-left: 3px solid lightskyblue;
-        &.is-coming-soon { border-left-color: #e8c468; }
-    }
+    .home-hero { padding-top: 1.5rem; padding-bottom: 3rem; }
+    .home-intro-title { font-size: 1.85rem; }
+    .home-intro-lede { font-size: 0.9rem; line-height: 1.45; }
+    .home-projects-header { margin-top: 1.25rem; }
+    .project-cards { grid-template-columns: 1fr; gap: 0.4rem; margin-top: -2.25rem; }
+    .project-card { flex-direction: row; align-items: center; padding: 0.55rem 0.75rem; }
+    .project-card:hover { transform: none; }
     .project-card-link {
         display: grid;
-        grid-template-columns: 32px 1fr;
-        column-gap: 0.65rem;
+        grid-template-columns: 34px 1fr;
+        column-gap: 0.7rem;
         align-items: center;
     }
-    .project-card-logo { width: 32px; height: 32px; margin: 0; grid-row: 1 / span 2; }
+    .project-card-logo { width: 34px; height: 34px; margin: 0; border-radius: 7px; grid-row: 1 / span 2; }
     .project-card-name { margin: 0; font-size: 0.85rem; line-height: 1.2; }
     .project-card-blurb { font-size: 0.75rem; line-height: 1.3; }
     .project-card-actions { display: none; }
-    .project-badge-inline { display: inline-block; margin-left: 0.25rem; font-size: 0.6rem; vertical-align: 1px; }
-    .home-posts-heading { margin-top: 1.25rem; }
+    .project-card .project-badge-inline { display: inline-block; margin-left: 0.25rem; font-size: 0.6rem; vertical-align: 1px; }
+    .home-posts-heading { margin-top: 1.5rem; }
 }
 
 
 // Projects page
 
 .project-entry {
-    margin-top: 2.5rem;
-    padding-top: 2rem;
-    border-top: 1px solid #eee;
+    margin-top: 2.75rem;
+    padding-top: 2.5rem;
+    background: linear-gradient(to right, transparent, pink, lightskyblue, pink, transparent) top / 100% 1px no-repeat;
     scroll-margin-top: 1rem;
 
     &:target .project-entry-title { color: hotpink; }
@@ -654,31 +667,38 @@ tbody tr:hover, tbody tr:hover td {
 .project-entry-header {
     display: flex;
     align-items: center;
-    gap: 0.9rem;
-    margin-bottom: 1rem;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
 }
 .project-entry-logo {
-    width: 56px;
-    height: 56px;
-    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
     flex: none;
 }
 .project-entry-title {
-    margin: 0;
-    font-size: 1.3rem;
-    line-height: 1.2;
+    margin: 0 0 0.15rem;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.15;
+    color: #313131;
 }
 .project-entry-url {
     font-size: 0.85rem;
 }
 .project-entry-shot {
     display: block;
-    margin-bottom: 1rem;
+    margin: 0 0 1.5rem;
     img {
         display: block;
         width: 100%;
-        border-radius: 4px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+        border-radius: 6px;
+        border: 1px solid rgba(20, 24, 40, 0.08);
+        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.08), 0 14px 36px rgba(20, 24, 40, 0.22);
+        transition: box-shadow 0.3s;
+    }
+    &:hover img {
+        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.1), 0 18px 44px rgba(20, 24, 40, 0.3);
     }
 }
 .project-entry-visit {
@@ -687,3 +707,8 @@ tbody tr:hover, tbody tr:hover td {
 
 // Extra menu item hover color
 .masthead-menu-item:hover:nth-child(6) { color: gold; }
+
+// Phones: leave room so the skewed name tab isn't clipped at the left edge
+@media (max-width: 500px) {
+    .masthead-menu { padding-left: 0.6rem; }
+}
