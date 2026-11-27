@@ -1,17 +1,22 @@
 ---
-layout: page
+layout: default
 permalink: /projects
 title: Projects
 ---
 
-In my spare time, I enjoy building things. Most of these projects grew out of my work in election administration: tools I wished existed, so I made them. Each one lives on its own corner of raviudeshi.com.
+<article class="page projects-intro">
+  <h1 class="page-title">{{ page.title }}</h1>
+
+<p>In my spare time, I enjoy building things. Most of these projects grew out of my work in election administration: tools I wished existed, so I made them. Each one lives on its own corner of raviudeshi.com.</p>
 
 <nav class="project-jump" aria-label="Jump to a project">
-  {% for p in site.data.projects %}<a href="#{{ p.id }}"><img src="{{ site.baseurl }}{{ p.logo }}" alt="" width="24" height="24">{{ p.name }}</a>{% endfor %}
+  <span class="project-jump-label">Jump to</span>
+  {% for p in site.data.projects %}<a href="#{{ p.id }}"><img src="{{ site.baseurl }}{{ p.logo }}" alt="" width="18" height="18">{{ p.name }}</a>{% endfor %}
 </nav>
+</article>
 
 {% for p in site.data.projects %}
-<section class="project-entry" id="{{ p.id }}">
+<article class="page project-entry" id="{{ p.id }}">
   <div class="project-entry-header">
     <img class="project-entry-logo" src="{{ site.baseurl }}{{ p.logo }}" alt="" width="56" height="56">
     <div>
@@ -40,5 +45,5 @@ In my spare time, I enjoy building things. Most of these projects grew out of my
   {% endcase %}
 
   {% unless p.coming_soon %}<p><a class="project-entry-visit" href="{{ p.url }}">Visit {{ p.name }}&nbsp;&rarr;</a></p>{% endunless %}
-</section>
+</article>
 {% endfor %}
