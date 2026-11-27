@@ -7,7 +7,7 @@ title: Projects
 <article class="page projects-intro">
   <h1 class="page-title">{{ page.title }}</h1>
 
-<p>In my spare time, I enjoy building things. Most of these projects grew out of my work and interest in election administration. Each one lives on its own corner of raviudeshi.com.</p>
+<p>In my spare time, I enjoy building things. Most of these projects grew out of my work and interest in election administration: tools I wished existed, so I made them. Each one lives on its own corner of raviudeshi.com.</p>
 
 <nav class="project-jump" aria-label="Jump to a project">
   <span class="project-jump-label">Jump to</span>
