@@ -841,3 +841,46 @@ html { scroll-behavior: smooth; }
     font-size: 1.35rem;
 }
 .page-title + .about-section { margin-top: 1.25rem; }
+
+// Footer follow links (icons shown in the footer's muted gray)
+.footer-social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem 1.25rem;
+    margin: 1.25rem 1rem 0;
+    font-size: smaller;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        border-bottom: 0;
+    }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    img { display: block; width: 16px; height: 16px; margin: 0; filter: brightness(0) invert(0.6); }
+}
+
+// About page: photo on the left, intro and follow links on the right
+.about-intro {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin: 0 0 1.25rem;
+
+    .about-photo {
+        flex: none;
+        width: 140px;
+        height: 140px;
+        margin: 0;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+    }
+    .about-intro-text { min-width: 0; }
+    .about-intro-text p { margin: 0; }
+    .social-links { margin: 0.9rem 0 0; }
+}
+@media (max-width: 30em) {
+  .about-intro { gap: 1rem; align-items: flex-start; }
+  .about-intro .about-photo { width: 96px; height: 96px; }
+}

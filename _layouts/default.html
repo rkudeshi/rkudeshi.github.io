@@ -34,6 +34,10 @@
       {% include search.html %}
       </div>
 
+      <nav class="footer-social" aria-label="Follow me">
+        {% for s in site.data.social %}<a href="{{ s.url }}" rel="me"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="16" height="16">{{ s.name }}</a>{% endfor %}
+      </nav>
+
       <div class="footer-meta">
         <p>&copy; 2005-{{ site.time | date: '%Y' }}. All rights reserved.</p>
       </div>
