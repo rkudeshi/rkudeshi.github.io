@@ -501,70 +501,56 @@ tbody tr:hover, tbody tr:hover td {
 
 
 // Homepage intro + projects row
-//
-// The intro sits in a full-width navy band that continues the masthead.
-// The project cards straddle the band's bottom edge.
 
-.home-hero {
-    margin-left: calc(50% - 50vw);
-    margin-right: calc(50% - 50vw);
-    padding: 1.75rem calc(50vw - 50%) 4rem;
-    background: linear-gradient(#353A4A, #2c3040);
-    color: #c9cede;
-}
-.home-hero-inner {
-    padding: 0 0.25rem;
+.home-intro {
+    margin: 1.25rem -0.5rem 1.25rem;
+    padding: 0.9rem 1.5rem 1rem;
+    background: rgba(244, 246, 250, 0.92);
+    border: 1px solid #e6e9ef;
+    border-radius: 6px;
 }
 .home-intro-title {
-    margin: 0 0 0.3rem;
-    font-size: 2.4rem;
+    margin: 0 0 0.25rem;
+    font-size: 2.25rem;
     line-height: 1.1;
-    color: white;
+    color: #313131;
     letter-spacing: -0.01em;
 }
 .home-intro-lede {
     margin: 0;
     font-size: 1rem;
-    color: #c9cede;
-    a { color: lightskyblue; white-space: nowrap; }
+    color: #5f6470;
+    a { white-space: nowrap; }
 }
 
-.home-projects-header,
-.home-posts-heading {
+.home-section-header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-}
-.home-projects-header {
-    margin: 1.5rem 0 0;
+    margin: 0 0.25rem 0.5rem;
+
     h2 {
         margin: 0;
         font-size: 0.8rem;
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: 0.08em;
-        color: lightskyblue;
+        color: #9a9a9a;
     }
-    a { font-size: 0.8rem; color: #c9cede; }
-    a:hover { color: white; }
+    a { font-size: 0.8rem; }
 }
-.home-posts-heading {
-    margin: 1.5rem 0.25rem -0.5rem;
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: #9a9a9a;
+.home-blog-header {
+    margin-top: 1.5rem;
+    margin-bottom: -0.75rem;
 }
 
 .project-cards {
-    position: relative;
     list-style: none;
-    margin: -3rem -0.5rem 0;
+    margin: 0 -0.5rem;
     padding: 0;
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 0.75rem;
+    gap: 0.6rem;
 
     @media (max-width: 40em) {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -574,21 +560,15 @@ tbody tr:hover, tbody tr:hover td {
     display: flex;
     flex-direction: column;
     margin: 0;
-    padding: 0.9rem 0.85rem 0.8rem;
+    padding: 0.85rem 0.8rem 0.75rem;
     background: white;
     border-radius: 6px;
-    box-shadow: 0 1px 2px rgba(20, 24, 40, 0.08), 0 6px 18px rgba(20, 24, 40, 0.12);
-    transition: box-shadow 0.3s, transform 0.3s;
+    box-shadow: 0 1px 2px rgba(20, 24, 40, 0.06), 0 4px 12px rgba(20, 24, 40, 0.08);
+    transition: box-shadow 0.3s;
     font-size: 0.8rem;
     line-height: 1.35;
 
-    &:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 2px 4px rgba(20, 24, 40, 0.1), 0 10px 26px rgba(20, 24, 40, 0.18);
-    }
-}
-@media (prefers-reduced-motion: reduce) {
-    .project-card, .project-card:hover { transition: none; transform: none; }
+    &:hover { box-shadow: 0 1px 3px rgba(20, 24, 40, 0.1), 0 8px 22px rgba(20, 24, 40, 0.16); }
 }
 .project-card-link {
     display: flex;
@@ -606,39 +586,26 @@ tbody tr:hover, tbody tr:hover td {
 .project-card-name {
     font-weight: 700;
     font-size: 0.9rem;
+    line-height: 1.2;
     color: #313131;
-    margin-bottom: 0.15rem;
+    margin-bottom: 0.2rem;
 }
 .project-card-blurb {
     color: #767676;
 }
-.project-card .project-badge-inline { display: none; }
 .project-card-actions {
     margin-top: 0.6rem;
     font-size: 0.75rem;
     color: #bbb;
 }
-.project-badge {
-    display: inline-block;
-    padding: 0 0.45rem;
-    border-radius: 1rem;
-    background: #f3f0e4;
-    color: #7a6420;
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-}
 
 // Phones: stack the projects as compact rows so the blog starts on screen
 @media (max-width: 30em) {
-    .home-hero { padding-top: 1.5rem; padding-bottom: 3rem; }
-    .home-intro-title { font-size: 1.85rem; }
-    .home-intro-lede { font-size: 0.9rem; line-height: 1.45; }
-    .home-projects-header { margin-top: 1.25rem; }
-    .project-cards { grid-template-columns: 1fr; gap: 0.4rem; margin-top: -2.25rem; }
+    .home-intro { margin: 1.25rem -0.5rem 1.1rem; padding: 0.9rem 1rem 1rem; }
+    .home-intro-title { font-size: 1.75rem; }
+    .home-intro-lede { font-size: 0.9rem; line-height: 1.4; }
+    .project-cards { grid-template-columns: 1fr; gap: 0.4rem; }
     .project-card { flex-direction: row; align-items: center; padding: 0.55rem 0.75rem; }
-    .project-card:hover { transform: none; }
     .project-card-link {
         display: grid;
         grid-template-columns: 34px 1fr;
@@ -646,11 +613,10 @@ tbody tr:hover, tbody tr:hover td {
         align-items: center;
     }
     .project-card-logo { width: 34px; height: 34px; margin: 0; border-radius: 7px; grid-row: 1 / span 2; }
-    .project-card-name { margin: 0; font-size: 0.85rem; line-height: 1.2; }
+    .project-card-name { margin: 0; font-size: 0.85rem; }
     .project-card-blurb { font-size: 0.75rem; line-height: 1.3; }
     .project-card-actions { display: none; }
-    .project-card .project-badge-inline { display: inline-block; margin-left: 0.25rem; font-size: 0.6rem; vertical-align: 1px; }
-    .home-posts-heading { margin-top: 1.5rem; }
+    .home-blog-header { margin-top: 1.25rem; }
 }
 
 
@@ -711,4 +677,17 @@ tbody tr:hover, tbody tr:hover td {
 // Phones: leave room so the skewed name tab isn't clipped at the left edge
 @media (max-width: 500px) {
     .masthead-menu { padding-left: 0.6rem; }
+}
+
+// "Coming soon" tag, for a project listed before it launches
+.project-badge {
+    display: inline-block;
+    padding: 0 0.45rem;
+    border-radius: 1rem;
+    background: #f3f0e4;
+    color: #7a6420;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
 }
