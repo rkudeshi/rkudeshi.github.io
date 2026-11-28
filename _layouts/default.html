@@ -35,13 +35,12 @@
       </div>
 
       <nav class="footer-social" aria-label="Follow me">
-        <span>Follow me</span>
+        <span>Follow me:</span>
         {% for s in site.data.social %}<a href="{{ s.url }}" rel="me" title="{{ s.name }}" aria-label="{{ s.name }}"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18"></a>{% endfor %}
       </nav>
 
       <div class="footer-meta">
-        <p>&copy; 2005-{{ site.time | date: '%Y' }}. All rights reserved.</p>
-        <p><span title="{{ site.time | date: "%c" }}">Rev {{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span></p>
+        <p>&copy; 2005-{{ site.time | date: '%Y' }}. All rights reserved. &middot; <span title="{{ site.time | date: "%c" }}">Rev {{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span></p>
       </div>
 
       <div class="jump-to-top">

@@ -878,8 +878,8 @@ html { scroll-behavior: smooth; }
         border-radius: 50%;
         pointer-events: none;
     }
-    .about-photo::before { inset: -8px; border: 1px solid rgba(53, 58, 74, 0.25); }
-    .about-photo::after { inset: -16px; border: 1px solid rgba(53, 58, 74, 0.12); }
+    .about-photo::before { inset: -8px; border: 1px solid rgba(53, 58, 74, 0.25); animation: about-ring 3.2s ease-in-out infinite; }
+    .about-photo::after { inset: -16px; border: 1px solid rgba(53, 58, 74, 0.12); animation: about-ring 3.2s ease-in-out 0.4s infinite; }
     .about-photo img {
         display: block;
         width: 100%;
@@ -897,4 +897,13 @@ html { scroll-behavior: smooth; }
   .about-intro .about-photo { width: 88px; height: 88px; margin: 12px 12px 12px 4px; }
   .about-intro .about-photo::before { inset: -6px; }
   .about-intro .about-photo::after { inset: -12px; }
+}
+
+// Gentle pulse on the About photo rings
+@keyframes about-ring {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.06); opacity: 0.45; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .about-intro .about-photo::before, .about-intro .about-photo::after { animation: none; }
 }

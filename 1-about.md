@@ -36,11 +36,11 @@ I’ve helped lead two of the largest election jurisdictions in America, and I�
     <span class="timeline-dates">2017 – 2025</span>
     <strong class="timeline-office">Fairfax County, VA, Office of Elections</strong>
     <span class="timeline-title">Deputy Director and Deputy General Registrar</span>
-    <p>Just outside Washington, D.C., Fairfax County is Virginia’s largest county, with about 1.2 million residents. I started as a poll worker (an “election officer” in Virginia), joined the office full-time, and worked my way up to deputy director. I led the county’s $9 million replacement of its voting equipment, and built in-house tools that replaced vendor software.</p>
+    <p>Just outside Washington, D.C., Fairfax County is Virginia’s largest county, with about 1.2 million residents. I started as a poll worker, then joined the office full-time and worked my way up to deputy director. I led the county’s $9 million replacement of its voting equipment, and used my tech skills to build in-house tools that made the office’s work faster and more efficient.</p>
   </li>
 </ol>
 
-Elections shape a lot of what I build in my spare time: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
+In my spare time, I enjoy building things, and a lot of them come back to elections: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
 
 Another big thing in my life is movies. I’m part of a community that does the Oscars Death Race each year, trying to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
 
@@ -76,5 +76,5 @@ I started this site in 2005. I ran it on WordPress for years before moving it to
 
 I write posts in [Markdown](https://commonmark.org). I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and flesh them out in [Sublime Text](https://www.sublimetext.com).
 
-I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) for basic visitor counts. It doesn’t use cookies or follow you across sites.
+I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) only for basic visitor counts. It doesn’t use cookies or follow you across sites.
 
