@@ -11,14 +11,12 @@ redirect_from:
 ---
 
 <div class="about-intro">
+  <p class="about-intro-text">Hi, I’m Ravi! I’m an election administrator who loves technology, movies, and building things.</p>
   <span class="about-photo"><img src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="120" height="120"></span>
-  <div class="about-intro-text">
-    <p>I’m an election administrator who loves technology, movies, and building things.</p>
-    <nav class="social-links" aria-label="Follow me">
-      <span class="social-links-label">Follow me</span>
-      <div class="social-links-list">{% for s in site.data.social %}<a href="{{ s.url }}" rel="me"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18">{{ s.name }}</a>{% endfor %}</div>
-    </nav>
-  </div>
+  <nav class="social-links" aria-label="Follow me">
+    <span class="social-links-label">Follow me</span>
+    <div class="social-links-list">{% for s in site.data.social %}<a href="{{ s.url }}" rel="me"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18">{{ s.name }}</a>{% endfor %}</div>
+  </nav>
 </div>
 
 I’ve helped lead two of the largest election jurisdictions in America, and I’m proud to have led or been part of teams that have won 17 national awards. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
