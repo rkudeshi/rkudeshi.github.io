@@ -165,8 +165,8 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1.6rem;
-    height: 1.6rem;
+    width: 1.2rem;
+    height: 1.2rem;
     margin: 0.75rem auto 0;
     color: #888;
     background: #333;
@@ -174,7 +174,7 @@ html, body {
     border-radius: 50%;
     border-bottom: 1px solid #444;
 
-    svg { display: block; width: 0.8rem; height: 0.8rem; }
+    svg { display: block; width: 0.65rem; height: 0.65rem; }
 }
 .jump-to-top a:hover { color: #ccc; }
 .footer input {

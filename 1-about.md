@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <div class="about-intro">
-  <p class="about-intro-text">Hi, I’m Ravi! I’m an election administrator who loves technology, movies, and building things.</p>
+  <p class="about-intro-text">Hi, I’m Ravi. I’m an election administrator who loves technology, movies, and building things.</p>
   <span class="about-photo"><img src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="120" height="120"></span>
   <nav class="social-links" aria-label="Follow me">
     <span class="social-links-label">Follow me</span>
