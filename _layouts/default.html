@@ -34,20 +34,17 @@
       {% include search.html %}
       </div>
 
+      <nav class="footer-social" aria-label="Follow me">
+        <span>Follow me:</span>
+        {% for s in site.data.social %}<a href="{{ s.url }}" rel="me" title="{{ s.name }}" aria-label="{{ s.name }}"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18"></a>{% endfor %}
+      </nav>
+
       <div class="footer-meta">
-        <p>&copy; 2005-{{ site.time | date: '%Y' }}</time>. All rights reserved.</p>
-        <p>
-          <span>Baked with <a href="http://jekyllrb.com/">Jekyll</a></span>
-          <span> &middot; </span>
-          <span title="{{ site.time | date: "%c" }}">Rev {{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span>
-          <!-- Liquid time tags: https://docs.shopify.com/themes/liquid/filters/additional-filters -->
-          <span> &middot; </span>
-          <span><a href="http://github.com/rkudeshi/rkudeshi.github.io/">Source</a></span>
-        </p>
+        <p>&copy; 2005-{{ site.time | date: '%Y' }}. All rights reserved.</p>
       </div>
 
       <div class="jump-to-top">
-        <a href="#top">⌃</a>
+        <a href="#top" aria-label="Back to top" title="Back to top"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 7.75 6 4.25l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
       </div>
 
     </footer>

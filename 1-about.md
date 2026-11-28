@@ -2,32 +2,76 @@
 layout: page
 permalink: /about
 title: About Ravi Udeshi
+description: "Ravi Udeshi is an election administrator in Santa Clara County, California, an Oscars Death Racer, and a longtime tinkerer who builds web projects about elections and movies."
+redirect_from:
+  - /contact
+  - /contact/
+  - /subscribe
+  - /subscribe/
 ---
 
-Hi! My name is Ravi and this is my little corner of the web. I'm interested in the intersection of technology, media, and law, so you'll probably see lots of posts about that [here](/blog).
+<div class="about-intro">
+  <p class="about-intro-text">Hi, I’m Ravi. I’m an election administrator who loves technology, movies, and building things.</p>
+  <span class="about-photo"><img src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="120" height="120"></span>
+  <nav class="social-links" aria-label="Follow me">
+    <span class="social-links-label">Follow me</span>
+    <div class="social-links-list">{% for s in site.data.social %}<a href="{{ s.url }}" rel="me"><img src="{{ site.baseurl }}/public/social/{{ s.icon }}.svg" alt="" width="18" height="18">{{ s.name }}</a>{% endfor %}</div>
+  </nav>
+</div>
 
-#### Colophon
+I’ve helped lead two of the largest election jurisdictions in America, and I’m proud to have led or been part of teams that have won 17 national awards. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
 
-I write every post on this site in [Markdown](http://commonmark.org),[^view-markdown] a simple markup language. I usually jot down ideas in [nvALT](http://brettterpstra.com/projects/nvalt/), a plain-text notes app, and then flesh them out in [Sublime Text](http://sublimetext.com) with the [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing) package.
+<ol class="timeline">
+  <li>
+    <span class="timeline-dates">2026 – present</span>
+    <strong class="timeline-office">Santa Clara County, CA, Registrar of Voters’ Office</strong>
+    <span class="timeline-title">Assistant Registrar of Voters</span>
+    <p>Santa Clara County is the home of Silicon Valley and the largest county in the Bay Area, with about 2 million residents. I’m part of the executive team that runs its elections, with ballots and materials in 17 languages. I also started the county’s first “I Voted” sticker design contest.</p>
+  </li>
+  <li>
+    <span class="timeline-dates">2017 – 2025</span>
+    <strong class="timeline-office">Fairfax County, VA, Office of Elections</strong>
+    <span class="timeline-title">Deputy Director and Deputy General Registrar</span>
+    <p>Just outside Washington, D.C., Fairfax County is Virginia’s largest county, with about 1.2 million residents. I started as a poll worker, then joined the office full-time and worked my way up to deputy director. I led the county’s $9 million replacement of its voting equipment, and used my tech skills to build in-house tools that made the office’s work faster and more efficient.</p>
+  </li>
+</ol>
 
-This site is powered by [Jekyll](http://jekyllrb.com), a static site generator (I *really* like it!). I used to use WordPress, but it's overkill for what I need here. [GitHub Pages](http://pages.github.com) natively integrates Jekyll, so I use it to host this site.
+In my spare time, I enjoy building things, and a lot of them come back to elections: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
 
-[^view-markdown]: If you want to see the original Markdown for any post, just click on the `M↓` link below any post title!
+Another big thing in my life is movies. I’m part of a community that does the Oscars Death Race each year, trying to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
 
-#### Privacy
+I’m also a bit of a minimalist. I don’t own just [75 things](/11/02/75-things) anymore, but I don’t own much more than that. I still try to keep as few things as possible and focus on experiences, not things.
 
-Privacy is deeply important to me. I know this is just a dinky little personal blog, but I still want to disclose the third-party services I use that may be able track you:
+<h2 class="about-section" id="contact">Contact me</h2>
 
-- **Site analytics**: I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) for basic site analytics (how many people visit the site, which blog posts get the most views, etc). It's privacy-friendly by design — no cookies, no cross-site tracking, no personal data collected.
-- **RSS metrics**: I use FeedBurner to know how many people are subscribed to the RSS feed and for the subscribe-by-email feature. I've been using the service since before Google bought it (in '07!), but I'd be happy to switch away if any alternatives actually existed.
-- **Embedded media**: Some blog posts include embedded tweets, YouTube videos, and other basic media. The way embeds work is by loading some JavaScript from their host site, so they may be able to track you (especially if you're logged in to YouTube or Twitter).
-- **Web fonts**: I'm experimenting with different fonts on this site, so you may see scripts load from TypeKit, Typography.com, or Google Fonts.
-- **Affiliate links**: Every once in a while, I remember I signed up for Amazon's affiliate program. And then I remember Amazon disabled my affiliate account for inactivity.
-- **Ads**: There are no text ads or display ads on this site. (Though embedded YouTube videos sometimes have ads, which is why you may see DoubleClick Media show up in Ghostery).
-- **Share buttons**: I have simple links to share to Facebook/Twitter, but I do NOT use their native buttons, which "call home" and let them see what sites you visit across the web. Facebook can't track you here, woo!
+Have an idea or a suggestion, or spot an issue somewhere? Message me on one of the social networks above, or email me:
 
-I've tried to keep this site simple and fast, and avoiding lots of 3rd-party services just makes that easier.
+<p class="email-reveal">
+  <button type="button" id="email-reveal">Show my email address</button>
+  <noscript><img src="{{ site.baseurl }}/silo/images/contact-mail.png" alt="My email address, shown as an image"></noscript>
+</p>
 
-#### Contact
+<script>
+  // The address is put together in your browser, so it never appears in this page's source.
+  (function () {
+    var btn = document.getElementById('email-reveal');
+    btn.addEventListener('click', function () {
+      var addr = ['contact', ['raviudeshi', 'com'].join('.')].join('@');
+      var link = document.createElement('a');
+      link.href = 'mail' + 'to:' + addr;
+      link.textContent = addr;
+      btn.parentNode.replaceChild(link, btn);
+      link.focus();
+    });
+  })();
+</script>
 
-Need to get in touch? Go [here](/contact).
+<h2 class="about-section" id="about-the-site">About this site</h2>
+
+I started this site in 2005. I ran it on WordPress for years before moving it to [Jekyll](https://jekyllrb.com), a static site generator that turns plain text files into a fast, simple website. It’s hosted on [GitHub Pages](https://pages.github.com), and the [source code](https://github.com/rkudeshi/rkudeshi.github.io) is public.
+
+I write posts in [Markdown](https://commonmark.org),[^view-markdown] a simple plain-text format. I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and then flesh them out in [Sublime Text](https://www.sublimetext.com).
+
+I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) only for basic visitor counts. It doesn’t use cookies or follow you across sites.
+
+[^view-markdown]: If you want to see the original Markdown for any post, just click the `M↓` link below the post title!

@@ -1,0 +1,10 @@
+# Follow links shown on /about and in the site footer, in this order.
+- name: LinkedIn
+  url: https://www.linkedin.com/in/rkudeshi
+  icon: linkedin
+- name: Twitter
+  url: https://x.com/rkudeshi
+  icon: x
+- name: Threads
+  url: https://www.threads.com/@rkudeshi
+  icon: threads

@@ -23,7 +23,8 @@ body {
 .background {
     background-color: #FDFDFD;
     /*background-color: white;*/
-    background-image: url(/silo/images/arches.png);
+    // Soft overlapping arches (wide and narrow columns, lightly blurred), drawn as a tiny inline SVG
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='103' height='23'%3E%3Crect width='103' height='23' fill='%23fdfdfd'/%3E%3Cdefs%3E%3Cfilter id='b'%3E%3CfeGaussianBlur stdDeviation='0.6'/%3E%3C/filter%3E%3Cg id='s'%3E%3Ccircle r='52.0' fill='%23fdfdfd'/%3E%3Cg fill='none' stroke='%23222' stroke-opacity='0.065' stroke-width='1.4'%3E%3Ccircle cy='0.00' r='51.00'/%3E%3Ccircle cy='1.20' r='47.60'/%3E%3Ccircle cy='2.40' r='44.20'/%3E%3Ccircle cy='3.60' r='40.80'/%3E%3Ccircle cy='4.80' r='37.40'/%3E%3Ccircle cy='6.00' r='34.00'/%3E%3Ccircle cy='7.20' r='30.60'/%3E%3Ccircle cy='8.40' r='27.20'/%3E%3Ccircle cy='9.60' r='23.80'/%3E%3C/g%3E%3C/g%3E%3C/defs%3E%3Cg filter='url(%23b)'%3E%3Cuse href='%23s' x='0' y='-55'/%3E%3Cuse href='%23s' x='103' y='-55'/%3E%3Cuse href='%23s' x='-51.5' y='-40'/%3E%3Cuse href='%23s' x='154.5' y='-40'/%3E%3Cuse href='%23s' x='51.5' y='-40'/%3E%3Cuse href='%23s' x='0' y='-32'/%3E%3Cuse href='%23s' x='103' y='-32'/%3E%3Cuse href='%23s' x='-51.5' y='-17'/%3E%3Cuse href='%23s' x='154.5' y='-17'/%3E%3Cuse href='%23s' x='51.5' y='-17'/%3E%3Cuse href='%23s' x='0' y='-9'/%3E%3Cuse href='%23s' x='103' y='-9'/%3E%3Cuse href='%23s' x='-51.5' y='6'/%3E%3Cuse href='%23s' x='154.5' y='6'/%3E%3Cuse href='%23s' x='51.5' y='6'/%3E%3Cuse href='%23s' x='0' y='14'/%3E%3Cuse href='%23s' x='103' y='14'/%3E%3Cuse href='%23s' x='-51.5' y='29'/%3E%3Cuse href='%23s' x='154.5' y='29'/%3E%3Cuse href='%23s' x='51.5' y='29'/%3E%3Cuse href='%23s' x='0' y='37'/%3E%3Cuse href='%23s' x='103' y='37'/%3E%3Cuse href='%23s' x='-51.5' y='52'/%3E%3Cuse href='%23s' x='154.5' y='52'/%3E%3Cuse href='%23s' x='51.5' y='52'/%3E%3Cuse href='%23s' x='0' y='60'/%3E%3Cuse href='%23s' x='103' y='60'/%3E%3Cuse href='%23s' x='-51.5' y='75'/%3E%3Cuse href='%23s' x='154.5' y='75'/%3E%3Cuse href='%23s' x='51.5' y='75'/%3E%3C/g%3E%3C/svg%3E");
     background-attachment: fixed;
 }
 
@@ -161,21 +162,21 @@ html, body {
     margin: 1rem;
 }
 .jump-to-top a {
-    /* position: absolute; */
-    /* right: calc(50% - 47vw); */
-    /* bottom: 22px; */
-    display: block;
-    background: #333;
-    color: #111;
-    font-size: 1rem;
-    /* width: 1.5rem; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 1.2rem;
     height: 1.2rem;
-    /* border-radius: 5px; */
-    border-radius: 50px;
-    border: 1px solid;
     margin: 0.75rem auto 0;
+    color: #888;
+    background: #333;
+    border: 1px solid #444;
+    border-radius: 50%;
+    border-bottom: 1px solid #444;
+
+    svg { display: block; width: 0.65rem; height: 0.65rem; }
 }
+.jump-to-top a:hover { color: #ccc; }
 .footer input {
     background: transparent;
     color: inherit;
@@ -716,3 +717,203 @@ tbody tr:hover, tbody tr:hover td {
 }
 html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+
+// About page: intro line, follow links, email reveal
+
+.social-links {
+    margin: 1rem 0 1.25rem;
+}
+.social-links-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9a9a9a;
+}
+.social-links-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.1rem;
+    font-size: 0.9rem;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-weight: 600;
+        white-space: nowrap;
+        text-decoration: none;
+    }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    img { display: block; flex: none; width: 18px; height: 18px; margin: 0; }
+}
+
+.email-reveal button {
+    font: inherit;
+    font-size: 0.9rem;
+    padding: 0.35rem 0.8rem;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.email-reveal button:hover { background: #f5f5f5; }
+.email-reveal a { font-weight: 600; }
+
+
+// Homepage "More posts": space between posts, not between lines of one title
+
+.more-posts .related-posts li {
+    line-height: 1.35;
+    margin-bottom: 0.55rem;
+}
+
+// About page: work timeline (dots joined by a thin gray line)
+
+.timeline {
+    list-style: none;
+    margin: 1.25rem 0 1.5rem;
+    padding: 0;
+
+    li {
+        position: relative;
+        padding: 0 0 1.5rem 1.75rem;
+    }
+    li::before {
+        content: "";
+        position: absolute;
+        left: 0.3rem;
+        top: 0.55rem;
+        bottom: -0.55rem;
+        width: 1px;
+        background: #d5d5d5;
+    }
+    li:last-child { padding-bottom: 0; }
+    li:last-child::before { display: none; }
+    li::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.3rem;
+        width: 0.65rem;
+        height: 0.65rem;
+        border-radius: 50%;
+        background: #fff;
+        border: 2px solid #555;
+        box-sizing: border-box;
+    }
+    p { margin: 0.4rem 0 0; }
+}
+.timeline-dates {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9a9a9a;
+}
+.timeline-office {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #313131;
+}
+.timeline-title {
+    display: block;
+    color: #666;
+    font-size: 0.95rem;
+}
+
+.page-meta {
+    margin: 2.5rem 0 0;
+    font-size: 0.75rem;
+    color: #9a9a9a;
+}
+
+// About page section headings (plain, not the blog's pink-and-blue h3)
+.about-section {
+    margin: 2.5rem 0 0.75rem;
+    font-size: 1.35rem;
+}
+.page-title + .about-section { margin-top: 1.25rem; }
+
+// Footer follow links: "Follow me" plus icon-only links
+.footer-social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem 1rem;
+    margin: 1.25rem 1rem 0;
+    font-size: smaller;
+
+    a { display: inline-flex; border-bottom: 0; padding: 2px; }
+    a:hover img, a:focus-visible img { filter: brightness(0) invert(0.85); }
+    img { display: block; width: 18px; height: 18px; margin: 0; filter: brightness(0) invert(0.6); }
+}
+
+// About page: photo on the right, intro and follow links on the left
+.about-intro {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas: "text photo" "links photo";
+    align-items: end;
+    column-gap: 1.25rem;
+    margin: 0 0 1.25rem;
+
+    .about-intro-text { grid-area: text; margin: 0; }
+    .social-links { grid-area: links; align-self: start; }
+    .about-photo { grid-area: photo; align-self: center; }
+
+    .about-photo {
+        position: relative;
+        flex: none;
+        width: 120px;
+        height: 120px;
+        margin: 16px 16px 16px 12px;
+    }
+    .about-photo::before, .about-photo::after {
+        content: "";
+        position: absolute;
+        border-radius: 50%;
+        pointer-events: none;
+    }
+    .about-photo::before, .about-photo::after {
+        inset: -2px;
+        border: 1px solid rgba(53, 58, 74, 0.35);
+        opacity: 0;
+        animation: about-ring 3.6s ease-out infinite;
+    }
+    .about-photo::after { animation-delay: 1.8s; }
+    .about-photo img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .social-links { margin: 0.9rem 0 0; }
+}
+@media (max-width: 30em) {
+  // Phones: photo beside the intro line, follow links full width underneath
+  .about-intro { grid-template-areas: "text photo" "links links"; align-items: center; column-gap: 1rem; }
+  .about-intro .about-photo { width: 88px; height: 88px; margin: 12px 12px 12px 4px; }
+}
+
+// About photo rings ripple outward and fade
+@keyframes about-ring {
+    0% { transform: scale(1); opacity: 0.9; }
+    100% { transform: scale(1.3); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .about-intro .about-photo::before, .about-intro .about-photo::after { animation: none; opacity: 1; }
+    .about-intro .about-photo::before { inset: -8px; }
+    .about-intro .about-photo::after { inset: -16px; opacity: 0.5; }
+}
+
