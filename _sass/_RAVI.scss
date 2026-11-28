@@ -23,8 +23,8 @@ body {
 .background {
     background-color: #FDFDFD;
     /*background-color: white;*/
-    // Soft overlapping arches, drawn as a tiny inline SVG so it stays sharp on high-res screens
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='104' height='24'%3E%3Crect width='104' height='24' fill='%23fdfdfd'/%3E%3Cdefs%3E%3Cg id='s'%3E%3Ccircle r='52' fill='%23fdfdfd'/%3E%3Cg fill='none' stroke='%23000' stroke-opacity='0.035' stroke-width='2'%3E%3Ccircle r='49'/%3E%3Ccircle r='43'/%3E%3Ccircle r='37'/%3E%3Ccircle r='31'/%3E%3Ccircle r='25'/%3E%3Ccircle r='19'/%3E%3Ccircle r='13'/%3E%3Ccircle r='7'/%3E%3C/g%3E%3C/g%3E%3C/defs%3E%3Cuse href='%23s' x='0' y='-44'/%3E%3Cuse href='%23s' x='104' y='-44'/%3E%3Cuse href='%23s' x='-52' y='-32'/%3E%3Cuse href='%23s' x='52' y='-32'/%3E%3Cuse href='%23s' x='156' y='-32'/%3E%3Cuse href='%23s' x='0' y='-20'/%3E%3Cuse href='%23s' x='104' y='-20'/%3E%3Cuse href='%23s' x='-52' y='-8'/%3E%3Cuse href='%23s' x='52' y='-8'/%3E%3Cuse href='%23s' x='156' y='-8'/%3E%3Cuse href='%23s' x='0' y='4'/%3E%3Cuse href='%23s' x='104' y='4'/%3E%3Cuse href='%23s' x='-52' y='16'/%3E%3Cuse href='%23s' x='52' y='16'/%3E%3Cuse href='%23s' x='156' y='16'/%3E%3Cuse href='%23s' x='0' y='28'/%3E%3Cuse href='%23s' x='104' y='28'/%3E%3Cuse href='%23s' x='-52' y='40'/%3E%3Cuse href='%23s' x='52' y='40'/%3E%3Cuse href='%23s' x='156' y='40'/%3E%3Cuse href='%23s' x='0' y='52'/%3E%3Cuse href='%23s' x='104' y='52'/%3E%3Cuse href='%23s' x='-52' y='64'/%3E%3Cuse href='%23s' x='52' y='64'/%3E%3Cuse href='%23s' x='156' y='64'/%3E%3Cuse href='%23s' x='0' y='76'/%3E%3Cuse href='%23s' x='104' y='76'/%3E%3C/svg%3E");
+    // Soft overlapping arches (wide and narrow columns, lightly blurred), drawn as a tiny inline SVG
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='103' height='23'%3E%3Crect width='103' height='23' fill='%23fdfdfd'/%3E%3Cdefs%3E%3Cfilter id='b'%3E%3CfeGaussianBlur stdDeviation='0.6'/%3E%3C/filter%3E%3Cg id='s'%3E%3Ccircle r='52.0' fill='%23fdfdfd'/%3E%3Cg fill='none' stroke='%23222' stroke-opacity='0.065' stroke-width='1.4'%3E%3Ccircle r='51.00'/%3E%3Ccircle r='47.00'/%3E%3Ccircle r='43.00'/%3E%3Ccircle r='39.00'/%3E%3Ccircle r='35.00'/%3E%3Ccircle r='31.00'/%3E%3Ccircle r='27.00'/%3E%3Ccircle r='23.00'/%3E%3Ccircle r='19.00'/%3E%3Ccircle r='15.00'/%3E%3Ccircle r='11.00'/%3E%3Ccircle r='7.00'/%3E%3C/g%3E%3C/g%3E%3C/defs%3E%3Cg filter='url(%23b)'%3E%3Cuse href='%23s' x='0' y='-55'/%3E%3Cuse href='%23s' x='103' y='-55'/%3E%3Cuse href='%23s' x='-51.5' y='-40'/%3E%3Cuse href='%23s' x='154.5' y='-40'/%3E%3Cuse href='%23s' x='51.5' y='-40'/%3E%3Cuse href='%23s' x='0' y='-32'/%3E%3Cuse href='%23s' x='103' y='-32'/%3E%3Cuse href='%23s' x='-51.5' y='-17'/%3E%3Cuse href='%23s' x='154.5' y='-17'/%3E%3Cuse href='%23s' x='51.5' y='-17'/%3E%3Cuse href='%23s' x='0' y='-9'/%3E%3Cuse href='%23s' x='103' y='-9'/%3E%3Cuse href='%23s' x='-51.5' y='6'/%3E%3Cuse href='%23s' x='154.5' y='6'/%3E%3Cuse href='%23s' x='51.5' y='6'/%3E%3Cuse href='%23s' x='0' y='14'/%3E%3Cuse href='%23s' x='103' y='14'/%3E%3Cuse href='%23s' x='-51.5' y='29'/%3E%3Cuse href='%23s' x='154.5' y='29'/%3E%3Cuse href='%23s' x='51.5' y='29'/%3E%3Cuse href='%23s' x='0' y='37'/%3E%3Cuse href='%23s' x='103' y='37'/%3E%3Cuse href='%23s' x='-51.5' y='52'/%3E%3Cuse href='%23s' x='154.5' y='52'/%3E%3Cuse href='%23s' x='51.5' y='52'/%3E%3Cuse href='%23s' x='0' y='60'/%3E%3Cuse href='%23s' x='103' y='60'/%3E%3Cuse href='%23s' x='-51.5' y='75'/%3E%3Cuse href='%23s' x='154.5' y='75'/%3E%3Cuse href='%23s' x='51.5' y='75'/%3E%3C/g%3E%3C/svg%3E");
     background-attachment: fixed;
 }
 
@@ -912,4 +912,15 @@ html { scroll-behavior: smooth; }
     .about-intro .about-photo::before, .about-intro .about-photo::after { animation: none; opacity: 1; }
     .about-intro .about-photo::before { inset: -8px; }
     .about-intro .about-photo::after { inset: -16px; opacity: 0.5; }
+}
+
+// Header: line the name tab up with the left edge of the content column (wider screens)
+@media (min-width: 501px) {
+    .masthead { text-align: left; }
+    .masthead-menu {
+        max-width: 38rem;
+        margin: 0 auto;
+        padding: 0 1rem;
+        box-sizing: border-box;
+    }
 }
