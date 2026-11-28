@@ -13,7 +13,7 @@ redirect_from:
 <h2 class="about-section" id="about-me">About me</h2>
 
 <div class="about-intro">
-  <img class="about-photo" src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="140" height="140">
+  <span class="about-photo"><img src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="120" height="120"></span>
   <div class="about-intro-text">
     <p>I’m an election administrator who loves technology, movies, and building things.</p>
     <nav class="social-links" aria-label="Follow me">
@@ -40,21 +40,17 @@ I’ve helped lead two of the largest election jurisdictions in America:
   </li>
 </ol>
 
-Projects from these two offices have won 17 national awards from the U.S. Election Assistance Commission and the Election Center, and I led or worked on nearly all of the Fairfax ones, from poll worker training to tools for running Election Day. I’m proud of that work. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
+I’m proud to have led or been part of teams that have won 17 national awards. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
 
 Elections shape a lot of what I build in my spare time, these days often with the help of AI coding tools: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
 
-**I love the written word.** It’s why Twitter is still my favorite social network over the photo and video apps. I’ve been on it since 2008, and a lot of good things in my life have come from it, from an internship with the Washington Commanders to, somehow, a follow from a former president.
+Another big thing in my life is movies. I’m an Oscars Death Racer, part of a community of film fans who try to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
 
-**Another big thing in my life is movies.** I’m an Oscars Death Racer, part of a community of film fans who try to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
-
-**I love last-minute travel.** More than once, I’ve booked a flight to another country a day or two before leaving, for a week or two on my own, and didn’t book a place to stay until I landed.
-
-**I’m also a bit of a minimalist.** I don’t own just [75 things](/11/02/75-things) anymore, but I don’t own much more than that. I still try to keep as few things as possible and focus on memories, not things.
+I’m also a bit of a minimalist. I don’t own just [75 things](/11/02/75-things) anymore, but I don’t own much more than that. I still try to keep as few things as possible and focus on memories, not things.
 
 <h2 class="about-section" id="contact">Contact me</h2>
 
-Have an idea or a suggestion, or spot an issue somewhere on this site or one of my projects? I’d like to hear about it. Message me on LinkedIn, X, or Threads, or email me:
+Have an idea or a suggestion, or spot an issue somewhere? Message me on one of the social networks above, or email me:
 
 <p class="email-reveal">
   <button type="button" id="email-reveal">Show my email address</button>
@@ -78,7 +74,7 @@ Have an idea or a suggestion, or spot an issue somewhere on this site or one of 
 
 <h2 class="about-section" id="about-the-site">About this site</h2>
 
-I started this site in 2005, shortly after WordPress came out. I ran it on WordPress for years before moving it to [Jekyll](https://jekyllrb.com), which turns plain text files into a fast, simple website. For most of that time, I wrote the site’s code by hand. It’s hosted on [GitHub Pages](https://pages.github.com), and the [source code](https://github.com/rkudeshi/rkudeshi.github.io) is public.
+I started this site in 2005. I ran it on WordPress for years before moving it to [Jekyll](https://jekyllrb.com), a static site generator that turns plain text files into a fast, simple website. It’s hosted on [GitHub Pages](https://pages.github.com), and the [source code](https://github.com/rkudeshi/rkudeshi.github.io) is public.
 
 I write posts in [Markdown](https://commonmark.org). I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and flesh them out in [Sublime Text](https://www.sublimetext.com).
 
