@@ -805,7 +805,6 @@ html { scroll-behavior: smooth; }
         border: 2px solid #555;
         box-sizing: border-box;
     }
-    li:first-child::after { background: #555; }
     p { margin: 0.4rem 0 0; }
 }
 .timeline-dates {
@@ -842,28 +841,26 @@ html { scroll-behavior: smooth; }
 }
 .page-title + .about-section { margin-top: 1.25rem; }
 
-// Footer follow links (icons shown in the footer's muted gray)
+// Footer follow links: "Follow me" plus icon-only links
 .footer-social {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 0.4rem 1.25rem;
+    align-items: center;
+    gap: 0.4rem 1rem;
     margin: 1.25rem 1rem 0;
     font-size: smaller;
 
-    a {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.4rem;
-        border-bottom: 0;
-    }
-    a:hover { text-decoration: underline; text-underline-offset: 3px; }
-    img { display: block; width: 16px; height: 16px; margin: 0; filter: brightness(0) invert(0.6); }
+    a { display: inline-flex; border-bottom: 0; padding: 2px; }
+    a:hover img, a:focus-visible img { filter: brightness(0) invert(0.85); }
+    img { display: block; width: 18px; height: 18px; margin: 0; filter: brightness(0) invert(0.6); }
 }
 
-// About page: photo on the left, intro and follow links on the right
+// About page: photo on the right, intro and follow links on the left
 .about-intro {
     display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
     align-items: center;
     gap: 1.25rem;
     margin: 0 0 1.25rem;
@@ -873,7 +870,7 @@ html { scroll-behavior: smooth; }
         flex: none;
         width: 120px;
         height: 120px;
-        margin: 16px 12px 16px 16px;
+        margin: 16px 16px 16px 12px;
     }
     .about-photo::before, .about-photo::after {
         content: "";
@@ -897,7 +894,7 @@ html { scroll-behavior: smooth; }
 }
 @media (max-width: 30em) {
   .about-intro { gap: 1rem; align-items: flex-start; }
-  .about-intro .about-photo { width: 88px; height: 88px; margin: 12px 4px 12px 12px; }
+  .about-intro .about-photo { width: 88px; height: 88px; margin: 12px 12px 12px 4px; }
   .about-intro .about-photo::before { inset: -6px; }
   .about-intro .about-photo::after { inset: -12px; }
 }

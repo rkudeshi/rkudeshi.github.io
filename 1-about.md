@@ -23,30 +23,28 @@ redirect_from:
   </div>
 </div>
 
-I’ve helped lead two of the largest election jurisdictions in America:
+I’ve helped lead two of the largest election jurisdictions in America, and I’m proud to have led or been part of teams that have won 17 national awards. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
 
 <ol class="timeline">
   <li>
     <span class="timeline-dates">2026 – present</span>
-    <strong class="timeline-office">Santa Clara County Registrar of Voters’ Office</strong>
+    <strong class="timeline-office">Santa Clara County, CA, Registrar of Voters’ Office</strong>
     <span class="timeline-title">Assistant Registrar of Voters</span>
-    <p>Santa Clara County is the home of Silicon Valley and the largest county in the Bay Area, with about 2 million residents. I’m part of the three-person executive team that runs its elections, with ballots and materials in 17 languages. I also started the county’s first “I Voted” sticker design contest.</p>
+    <p>Santa Clara County is the home of Silicon Valley and the largest county in the Bay Area, with about 2 million residents. I’m part of the executive team that runs its elections, with ballots and materials in 17 languages. I also started the county’s first “I Voted” sticker design contest.</p>
   </li>
   <li>
     <span class="timeline-dates">2017 – 2025</span>
-    <strong class="timeline-office">Fairfax County Office of Elections</strong>
+    <strong class="timeline-office">Fairfax County, VA, Office of Elections</strong>
     <span class="timeline-title">Deputy Director and Deputy General Registrar</span>
     <p>Just outside Washington, D.C., Fairfax County is Virginia’s largest county, with about 1.2 million residents. I started as a poll worker (an “election officer” in Virginia), joined the office full-time, and worked my way up to deputy director. I led the county’s $9 million replacement of its voting equipment, and built in-house tools that replaced vendor software.</p>
   </li>
 </ol>
 
-I’m proud to have led or been part of teams that have won 17 national awards. My [LinkedIn](https://www.linkedin.com/in/rkudeshi) has more.
+Elections shape a lot of what I build in my spare time: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
 
-Elections shape a lot of what I build in my spare time, these days often with the help of AI coding tools: an [early voting tracker](/projects#voteflow), a [recount watch](/projects#recountwatch), and a [database of “I Voted” stickers](/projects#stickers).
+Another big thing in my life is movies. I’m part of a community that does the Oscars Death Race each year, trying to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
 
-Another big thing in my life is movies. I’m an Oscars Death Racer, part of a community of film fans who try to watch every movie nominated in every category before the ceremony. I used to track my progress here with [Oscars checklists](/blog), and now I track it with [Oscars Watch](/projects#oscars).
-
-I’m also a bit of a minimalist. I don’t own just [75 things](/11/02/75-things) anymore, but I don’t own much more than that. I still try to keep as few things as possible and focus on memories, not things.
+I’m also a bit of a minimalist. I don’t own just [75 things](/11/02/75-things) anymore, but I don’t own much more than that. I still try to keep as few things as possible and focus on experiences, not things.
 
 <h2 class="about-section" id="contact">Contact me</h2>
 
@@ -78,6 +76,5 @@ I started this site in 2005. I ran it on WordPress for years before moving it to
 
 I write posts in [Markdown](https://commonmark.org). I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and flesh them out in [Sublime Text](https://www.sublimetext.com).
 
-I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) only to see how many people visit. It doesn’t use cookies or follow you across sites.
+I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) for basic visitor counts. It doesn’t use cookies or follow you across sites.
 
-<p class="page-meta">Built {{ site.time | date: "%b %-d, %Y" }} · Rev <span title="{{ site.time | date: '%c' }}">{{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span></p>
