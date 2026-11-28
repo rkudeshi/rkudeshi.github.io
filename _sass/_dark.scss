@@ -1,0 +1,122 @@
+// DARK MODE
+//
+// Follows the device's light/dark setting by default. The footer toggle
+// saves a choice in localStorage and sets <html data-theme="light|dark">,
+// which wins over the device setting.
+
+// Palette (navy-tinted, to sit with the #353A4A header)
+$dk-page:     #14161c;   // page background behind the arches
+$dk-card:     #1d2027;   // posts, pages, project cards
+$dk-card-2:   #23262e;   // hover, table stripes, buttons
+$dk-line:     #30343e;   // borders and rules
+$dk-text:     #c9ccd3;   // body text
+$dk-head:     #eceef2;   // headings and names
+$dk-muted:    #9298a4;   // dates, labels, meta (5.9:1 on cards)
+$dk-link:     #6cb6f0;   // links (7.4:1 on cards)
+
+@mixin dark {
+    @media (prefers-color-scheme: dark) {
+        html:not([data-theme="light"]) & { @content; }
+    }
+    html[data-theme="dark"] & { @content; }
+}
+
+// Tell the browser, so form controls and scrollbars go dark too
+:root[data-theme="dark"] { color-scheme: dark; }
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { color-scheme: dark; }
+}
+
+body { @include dark { color: $dk-text; background-color: #0b0c10; } }
+
+// Arches background: same pattern, light lines on a dark page
+.background {
+    @include dark {
+        background-color: $dk-page;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='103' height='23'%3E%3Crect width='103' height='23' fill='%2314161c'/%3E%3Cdefs%3E%3Cfilter id='b'%3E%3CfeGaussianBlur stdDeviation='0.6'/%3E%3C/filter%3E%3Cg id='s'%3E%3Ccircle r='52.0' fill='%2314161c'/%3E%3Cg fill='none' stroke='%23fff' stroke-opacity='0.05' stroke-width='1.4'%3E%3Ccircle cy='0.00' r='51.00'/%3E%3Ccircle cy='1.20' r='47.60'/%3E%3Ccircle cy='2.40' r='44.20'/%3E%3Ccircle cy='3.60' r='40.80'/%3E%3Ccircle cy='4.80' r='37.40'/%3E%3Ccircle cy='6.00' r='34.00'/%3E%3Ccircle cy='7.20' r='30.60'/%3E%3Ccircle cy='8.40' r='27.20'/%3E%3Ccircle cy='9.60' r='23.80'/%3E%3C/g%3E%3C/g%3E%3C/defs%3E%3Cg filter='url(%23b)'%3E%3Cuse href='%23s' x='0' y='-55'/%3E%3Cuse href='%23s' x='103' y='-55'/%3E%3Cuse href='%23s' x='-51.5' y='-40'/%3E%3Cuse href='%23s' x='154.5' y='-40'/%3E%3Cuse href='%23s' x='51.5' y='-40'/%3E%3Cuse href='%23s' x='0' y='-32'/%3E%3Cuse href='%23s' x='103' y='-32'/%3E%3Cuse href='%23s' x='-51.5' y='-17'/%3E%3Cuse href='%23s' x='154.5' y='-17'/%3E%3Cuse href='%23s' x='51.5' y='-17'/%3E%3Cuse href='%23s' x='0' y='-9'/%3E%3Cuse href='%23s' x='103' y='-9'/%3E%3Cuse href='%23s' x='-51.5' y='6'/%3E%3Cuse href='%23s' x='154.5' y='6'/%3E%3Cuse href='%23s' x='51.5' y='6'/%3E%3Cuse href='%23s' x='0' y='14'/%3E%3Cuse href='%23s' x='103' y='14'/%3E%3Cuse href='%23s' x='-51.5' y='29'/%3E%3Cuse href='%23s' x='154.5' y='29'/%3E%3Cuse href='%23s' x='51.5' y='29'/%3E%3Cuse href='%23s' x='0' y='37'/%3E%3Cuse href='%23s' x='103' y='37'/%3E%3Cuse href='%23s' x='-51.5' y='52'/%3E%3Cuse href='%23s' x='154.5' y='52'/%3E%3Cuse href='%23s' x='51.5' y='52'/%3E%3Cuse href='%23s' x='0' y='60'/%3E%3Cuse href='%23s' x='103' y='60'/%3E%3Cuse href='%23s' x='-51.5' y='75'/%3E%3Cuse href='%23s' x='154.5' y='75'/%3E%3Cuse href='%23s' x='51.5' y='75'/%3E%3C/g%3E%3C/svg%3E");
+    }
+}
+
+// Header: a touch darker so it still reads as a bar above the page
+.masthead { @include dark { background: #262a36; } }
+.masthead-fadeout { @media (max-width: 500px) { @include dark { background: linear-gradient(to right, rgba(38, 42, 54, 0), #262a36); } } }
+
+// Text
+h1, h2, h3, h4, h5, h6,
+.page-title, .post-title, .post-title a,
+.home-intro-title, .project-card-name, .project-entry-title, .timeline-office {
+    @include dark { color: $dk-head; }
+}
+main a, .footer-meta a { @include dark { color: $dk-link; } }
+.post-title a, .project-card-link { @include dark { color: inherit; } }
+strong { @include dark { color: $dk-head; } }
+.post-meta, .archives-dates, .home-section-header h2, .project-jump-label,
+.social-links-label, .timeline-dates, .page-meta, .project-card-blurb,
+.project-card-actions, .home-intro-lede, .timeline-title {
+    @include dark { color: $dk-muted; }
+}
+.post-meta a, .post-meta a:hover { @include dark { color: inherit; } }
+blockquote { @include dark { color: $dk-muted; border-left-color: $dk-line; } }
+hr { @include dark { background-image: linear-gradient(to right, transparent, $dk-line, transparent); } }
+::selection { @include dark { background: #3a4a63; color: #fff; } }
+
+// Cards and boxes
+.page, .post, .content-box, .project-card {
+    @include dark { background: $dk-card; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4); }
+}
+.posts .post:hover { @include dark { box-shadow: 0 0 0 1px $dk-line, 0 2px 8px rgba(0, 0, 0, 0.5); } }
+.project-card:hover { @include dark { box-shadow: 0 0 0 1px $dk-line, 0 6px 18px rgba(0, 0, 0, 0.5); } }
+.home-intro {
+    @include dark { background: radial-gradient(ellipse 70% 75% at 35% 50%, rgba(20, 22, 28, 0.86) 40%, rgba(20, 22, 28, 0) 100%); }
+}
+.post-fadeout { @include dark { background: linear-gradient(rgba(29, 32, 39, 0), $dk-card); } }
+a.read-more { @include dark { background: $dk-card-2; color: $dk-muted; border-top-color: $dk-line; } }
+.related { @include dark { background: $dk-card; } }
+.pagination-item { @include dark { background: $dk-card; border-color: $dk-line; color: $dk-muted; } }
+a.pagination-item:hover { @include dark { background: $dk-card-2; } }
+
+// Blog post section headings (keep the pink text, drop the pale box)
+article h3, article.post h3, article.page h3 { @include dark { color: hotpink; background: $dk-card-2; } }
+
+// Tables, code
+td, th { @include dark { border-color: $dk-line; } }
+tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th { @include dark { background-color: #20232a; } }
+tbody tr:hover, tbody tr:hover td { @include dark { background-color: $dk-card-2 !important; } }
+code, pre { @include dark { background-color: $dk-card-2; } }
+code { @include dark { color: #e48a93; } }
+
+// Images: a little dimmer so photos don't glare
+.post-content img, .page img:not(.project-entry-logo):not([src$=".svg"]) {
+    @include dark { filter: brightness(0.88); }
+}
+.project-entry-shot img { @include dark { border-color: $dk-line; } }
+
+// About page
+.timeline li::before { @include dark { background: $dk-line; } }
+.timeline li::after { @include dark { background: $dk-card; border-color: $dk-muted; } }
+.about-intro .about-photo::before, .about-intro .about-photo::after { @include dark { border-color: rgba(220, 226, 240, 0.35); } }
+.email-reveal button { @include dark { background: $dk-card-2; border-color: $dk-line; } }
+.email-reveal button:hover { @include dark { background: #2b2f38; } }
+.social-links-list img[src$="/x.svg"], .social-links-list img[src$="/threads.svg"] { @include dark { filter: brightness(0) invert(0.85); } }
+.project-badge { @include dark { background: #3a3424; color: #e6cf86; } }
+
+// Footnote popovers and share buttons
+.share-all a { @include dark { background: $dk-card-2; box-shadow: none; } }
+
+// Footer theme toggle (shown in both modes)
+.theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: 0.75rem;
+    padding: 0.2rem 0.65rem;
+    font: inherit;
+    font-size: 0.75rem;
+    color: #999;
+    background: transparent;
+    border: 1px solid #333;
+    border-radius: 1rem;
+    cursor: pointer;
+    svg { width: 0.8rem; height: 0.8rem; }
+    &:hover { color: #ccc; border-color: #555; }
+}
