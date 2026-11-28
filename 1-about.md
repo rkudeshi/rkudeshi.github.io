@@ -10,8 +10,6 @@ redirect_from:
   - /subscribe/
 ---
 
-<h2 class="about-section" id="about-me">About me</h2>
-
 <div class="about-intro">
   <span class="about-photo"><img src="{{ site.baseurl }}/public/ravi-udeshi.jpg" alt="Ravi Udeshi" width="120" height="120"></span>
   <div class="about-intro-text">
@@ -74,7 +72,7 @@ Have an idea or a suggestion, or spot an issue somewhere? Message me on one of t
 
 I started this site in 2005. I ran it on WordPress for years before moving it to [Jekyll](https://jekyllrb.com), a static site generator that turns plain text files into a fast, simple website. It’s hosted on [GitHub Pages](https://pages.github.com), and the [source code](https://github.com/rkudeshi/rkudeshi.github.io) is public.
 
-I write posts in [Markdown](https://commonmark.org),[^view-markdown] a simple plain-text format. I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and flesh them out in [Sublime Text](https://www.sublimetext.com).
+I write posts in [Markdown](https://commonmark.org),[^view-markdown] a simple plain-text format. I usually jot down ideas in [nvALT](https://brettterpstra.com/projects/nvalt/) and then flesh them out in [Sublime Text](https://www.sublimetext.com).
 
 I’m a bit of a privacy nut, and I don’t like being tracked around the web, so I try not to do it here. I use [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) only for basic visitor counts. It doesn’t use cookies or follow you across sites.
 
